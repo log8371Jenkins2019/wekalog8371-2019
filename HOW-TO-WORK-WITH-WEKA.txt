@@ -1,0 +1,5 @@
+compiler WEKA : 
+ant exejar dans le dossier /weka-3.8/weka/
+
+
+
