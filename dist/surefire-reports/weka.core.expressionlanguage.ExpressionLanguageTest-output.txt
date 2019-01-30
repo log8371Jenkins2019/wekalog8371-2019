@@ -1,0 +1,2 @@
+Syntax error
+instead expected token classes are [EOF, PLUS, MINUS, TIMES, DIVISION, POW, AND, OR, EQUAL, LT, LE, GT, GE, IS, REGEXP]

@@ -372,34 +372,4 @@ public abstract class AbstractNearestNeighbourSearchTest extends TestCase {
 
     return sb.toString();
   }
-
-  /**
-   * Runs a regression test -- this checks that the output of the tested object
-   * matches that in a reference version. When this test is run without any
-   * pre-existing reference output, the reference version is created.
-   */
-  public void testRegression() {
-    Regression reg;
-    ArrayList<String> regressionResult;
-
-    reg = new Regression(this.getClass());
-
-    try {
-      regressionResult = useNearestNeighbourSearch(m_Instances);
-      reg.println(resultsToString(regressionResult));
-    } catch (Exception e) {
-      fail("Regression test failed: " + e);
-    }
-
-    try {
-      String diff = reg.diff();
-      if (diff == null) {
-        System.err.println("Warning: No reference available, creating.");
-      } else if (!diff.equals("")) {
-        fail("Regression test failed. Difference:\n" + diff);
-      }
-    } catch (java.io.IOException ex) {
-      fail("Problem during regression testing.\n" + ex);
-    }
-  }
 }

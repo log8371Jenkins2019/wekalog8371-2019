@@ -251,45 +251,6 @@ public abstract class AbstractTokenizerTest extends TestCase {
   }
 
   /**
-   * Runs a regression test -- this checks that the output of the tested object
-   * matches that in a reference version. When this test is run without any
-   * pre-existing reference output, the reference version is created.
-   */
-  public void testRegression() {
-    int i;
-    boolean succeeded;
-    Regression reg;
-
-    reg = new Regression(this.getClass());
-    succeeded = false;
-
-    for (i = 0; i < m_Data.length; i++) {
-      try {
-        m_RegressionResults[i] = useTokenizer(m_Data[i]);
-        succeeded = true;
-        reg.println(predictionsToString(m_RegressionResults[i]));
-      } catch (Exception e) {
-        m_RegressionResults[i] = null;
-      }
-    }
-
-    if (!succeeded) {
-      fail("Problem during regression testing: no successful tokens generated for any string");
-    }
-
-    try {
-      String diff = reg.diff();
-      if (diff == null) {
-        System.err.println("Warning: No reference available, creating.");
-      } else if (!diff.equals("")) {
-        fail("Regression test failed. Difference:\n" + diff);
-      }
-    } catch (java.io.IOException ex) {
-      fail("Problem during regression testing.\n" + ex);
-    }
-  }
-
-  /**
    * tests the listing of the options
    */
   public void testListOptions() {

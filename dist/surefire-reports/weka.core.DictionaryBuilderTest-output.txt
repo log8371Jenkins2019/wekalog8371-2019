@@ -1,0 +1,5 @@
+ListOptions...yes
+SetOptions...yes
+Resetting options...yes
+Remaining options...yes
+Canonical user options...yes
