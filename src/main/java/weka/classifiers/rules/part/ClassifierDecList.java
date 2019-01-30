@@ -39,7 +39,7 @@ import weka.core.Utils;
  * Class for handling a rule (partial tree) for a decision list.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 public class ClassifierDecList implements Serializable, RevisionHandler {
 
@@ -424,6 +424,6 @@ public class ClassifierDecList implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 }

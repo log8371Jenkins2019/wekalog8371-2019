@@ -63,7 +63,7 @@ import java.lang.reflect.Array;
  * A PropertyEditor for arrays of objects that themselves have property editors.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class GenericArrayEditor implements PropertyEditor {
 

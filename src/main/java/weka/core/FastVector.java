@@ -29,7 +29,7 @@ import java.util.Enumeration;
  * Simple extension of ArrayList. Exists for legacy reasons.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 @Deprecated
 public class FastVector<E> extends ArrayList<E> implements Copyable,
@@ -211,6 +211,6 @@ public class FastVector<E> extends ArrayList<E> implements Copyable,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 }

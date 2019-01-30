@@ -42,7 +42,7 @@ import weka.gui.beans.xml.XMLBeans;
  * KnowledgeFlow application
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}org)
- * @version $Revision$
+ * @version $Revision: 10328 $
  */
 public class FlowRunner implements RevisionHandler {
 
@@ -536,6 +536,6 @@ public class FlowRunner implements RevisionHandler {
 
   @Override
   public String getRevision() {
-    return "$Revision$";
+    return "$Revision: 10328 $";
   }
 }

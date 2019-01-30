@@ -29,7 +29,7 @@ import java.beans.SimpleBeanInfo;
  * BeanInfo class for the Classifier wrapper bean
  *
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ClassifierBeanInfo extends SimpleBeanInfo {
  

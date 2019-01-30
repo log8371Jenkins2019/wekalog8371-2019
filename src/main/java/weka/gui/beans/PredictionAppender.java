@@ -41,7 +41,7 @@ import weka.core.Instances;
  * dataset or instance events which contain instances with predictions appended.
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 10813 $
  */
 public class PredictionAppender extends JPanel implements DataSource,
   TrainingSetProducer, TestSetProducer, Visible, BeanCommon, EventConstraints,

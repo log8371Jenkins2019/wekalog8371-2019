@@ -39,7 +39,7 @@ import weka.filters.Filter;
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz), Mark Hall
  *         (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10215 $
  */
 public abstract class PotentialClassIgnorer extends Filter implements
   OptionHandler {

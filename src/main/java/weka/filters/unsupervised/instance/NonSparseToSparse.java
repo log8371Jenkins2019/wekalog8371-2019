@@ -38,7 +38,7 @@ import weka.filters.UnsupervisedFilter;
  * <!-- globalinfo-end -->
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class NonSparseToSparse extends Filter implements UnsupervisedFilter,
   StreamableFilter, OptionHandler, WeightedAttributesHandler, WeightedInstancesHandler {
@@ -216,7 +216,7 @@ public class NonSparseToSparse extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

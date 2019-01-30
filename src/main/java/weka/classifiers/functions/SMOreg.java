@@ -156,7 +156,7 @@ import java.util.Vector;
  <!-- options-end -->
  *
  * @author  Remco Bouckaert (remco@cs.waikato.ac.nz,rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 12558 $
  */
 public class SMOreg 
   extends AbstractClassifier 
@@ -804,7 +804,7 @@ public class SMOreg
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12558 $");
   }
   
   /**

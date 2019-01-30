@@ -44,7 +44,7 @@ import weka.core.Utils;
  * and clusterers.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14500 $
  */
 public abstract class DataGenerator implements OptionHandler, Randomizable,
   Serializable, RevisionHandler {

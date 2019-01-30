@@ -97,7 +97,7 @@ import weka.filters.unsupervised.attribute.ReplaceMissingValues;
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14873 $
  */
 public class LinearRegression extends AbstractClassifier implements
   OptionHandler, WeightedInstancesHandler {
@@ -1216,6 +1216,6 @@ public class LinearRegression extends AbstractClassifier implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14873 $");
   }
 }

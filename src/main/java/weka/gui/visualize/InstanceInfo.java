@@ -28,7 +28,7 @@ import weka.core.Instances;
  * Interface for JFrames that display instance info.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface InstanceInfo {
   

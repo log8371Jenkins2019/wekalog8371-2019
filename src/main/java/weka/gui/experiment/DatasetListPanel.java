@@ -62,7 +62,7 @@ import weka.gui.ViewerDialog;
  * over.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class DatasetListPanel extends JPanel implements ActionListener {
 

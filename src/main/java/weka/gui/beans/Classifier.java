@@ -68,7 +68,7 @@ import weka.gui.Logger;
  * Bean that wraps around weka.classifiers
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 13477 $
  * @since 1.0
  * @see JPanel
  * @see BeanCommon

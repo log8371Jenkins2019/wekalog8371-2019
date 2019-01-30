@@ -142,7 +142,7 @@ import weka.filters.unsupervised.attribute.ReplaceMissingValues;
  * 
  * @author Niels Landwehr
  * @author Marc Sumner
- * @version $Revision$
+ * @version $Revision: 11568 $
  */
 public class LMT extends AbstractClassifier implements OptionHandler,
   AdditionalMeasureProducer, Drawable, TechnicalInformationHandler {
@@ -938,7 +938,7 @@ public class LMT extends AbstractClassifier implements OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11568 $");
   }
 
   /**

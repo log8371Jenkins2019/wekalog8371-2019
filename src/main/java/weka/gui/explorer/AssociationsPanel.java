@@ -81,7 +81,7 @@ import java.util.Vector;
  * associations.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 @PerspectiveInfo(ID = "weka.gui.explorer.associationspanel",
   title = "Associate", toolTipText = "Discover association rules",

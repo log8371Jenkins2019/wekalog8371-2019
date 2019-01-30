@@ -28,7 +28,7 @@ import weka.core.RevisionUtils;
  * A simple logger that outputs the logging information in the console.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ConsoleLogger
   extends Logger {
@@ -54,6 +54,6 @@ public class ConsoleLogger
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 }

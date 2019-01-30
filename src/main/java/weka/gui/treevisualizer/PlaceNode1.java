@@ -30,7 +30,7 @@ package weka.gui.treevisualizer;
  * <p>
  * 
  * @author Malcolm F Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class PlaceNode1 implements NodePlace {
   /** An array containing the spacing value for each level */

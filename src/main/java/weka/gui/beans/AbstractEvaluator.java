@@ -34,7 +34,7 @@ import weka.gui.Logger;
  * classifier, clusterers etc.
  *
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  * @since 1.0
  * @see JPanel
  * @see Visible

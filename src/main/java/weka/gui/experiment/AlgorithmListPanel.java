@@ -74,7 +74,7 @@ import weka.gui.PropertyDialog;
  * over.
  * 
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class AlgorithmListPanel extends JPanel implements ActionListener {
 

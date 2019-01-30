@@ -59,7 +59,7 @@ import weka.core.Utils;
  <!-- options-end -->
  *
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8937 $
  */
 public class HTML
   extends AbstractOutput {

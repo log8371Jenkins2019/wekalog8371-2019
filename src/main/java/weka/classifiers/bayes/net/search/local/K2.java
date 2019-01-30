@@ -110,7 +110,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Remco Bouckaert (rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 11247 $
  */
 public class K2 extends LocalScoreSearchAlgorithm implements
   TechnicalInformationHandler {
@@ -426,6 +426,6 @@ public class K2 extends LocalScoreSearchAlgorithm implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11247 $");
   }
 }

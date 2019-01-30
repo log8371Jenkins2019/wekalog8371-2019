@@ -74,7 +74,7 @@ import weka.filters.unsupervised.attribute.ReplaceMissingValues;
  * Build regression tree/rule rather than model tree/rule
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public abstract class M5Base extends AbstractClassifier implements
   AdditionalMeasureProducer, TechnicalInformationHandler {

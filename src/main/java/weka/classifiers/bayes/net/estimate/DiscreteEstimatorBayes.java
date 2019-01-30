@@ -32,7 +32,7 @@ import weka.estimators.Estimator;
  * Symbolic probability estimator based on symbol counts and a prior.
  * 
  * @author Remco Bouckaert (rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class DiscreteEstimatorBayes extends Estimator
   implements Scoreable {
@@ -217,7 +217,7 @@ public class DiscreteEstimatorBayes extends Estimator
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
   
   /**

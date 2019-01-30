@@ -51,7 +51,7 @@ import java.util.*;
  * 
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14908 $
  */
 
 public class ArffPanel extends JPanel implements ActionListener,

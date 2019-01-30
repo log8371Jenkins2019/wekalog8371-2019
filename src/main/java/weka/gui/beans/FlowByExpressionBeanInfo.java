@@ -29,7 +29,7 @@ import java.beans.SimpleBeanInfo;
  * BeanInfo class for FlowByExpression
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9129 $
  */
 public class FlowByExpressionBeanInfo extends SimpleBeanInfo {
   /**

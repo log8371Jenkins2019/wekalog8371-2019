@@ -127,7 +127,7 @@ import java.util.Vector;
  * <!-- options-end -->
  * 
  * @author Stefan Mutter (mutter@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12418 $
  * @see Loader
  */
 public class DatabaseLoader extends AbstractLoader implements BatchConverter,
@@ -1730,7 +1730,7 @@ public class DatabaseLoader extends AbstractLoader implements BatchConverter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12418 $");
   }
 
   /**

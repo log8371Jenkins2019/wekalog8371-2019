@@ -28,7 +28,7 @@ import java.beans.PropertyDescriptor;
  * BeanInfo class for the cross validation fold maker bean
  *
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class CrossValidationFoldMakerBeanInfo 
   extends AbstractTrainAndTestSetProducerBeanInfo {

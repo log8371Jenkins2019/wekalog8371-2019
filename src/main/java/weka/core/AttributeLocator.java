@@ -29,7 +29,7 @@ import java.util.BitSet;
  * recursively in case of Relational attributes.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10649 $
  * @see Attribute#RELATIONAL
  */
 public class AttributeLocator 
@@ -328,6 +328,6 @@ public class AttributeLocator
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10649 $");
   }
 }

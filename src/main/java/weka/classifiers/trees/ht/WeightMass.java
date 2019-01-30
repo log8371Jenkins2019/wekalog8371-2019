@@ -27,7 +27,7 @@ import java.io.Serializable;
  * Simple container for a weight
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9707 $
  */
 public class WeightMass implements Serializable {
 

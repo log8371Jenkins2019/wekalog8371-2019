@@ -41,7 +41,7 @@ import weka.core.Utils;
  * nearest neighbour search should extend this class.
  * 
  * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public abstract class NearestNeighbourSearch implements Serializable,
   OptionHandler, AdditionalMeasureProducer, RevisionHandler {
@@ -55,7 +55,7 @@ public abstract class NearestNeighbourSearch implements Serializable,
    * distance away. i.e. the minimum size of the heap is k.
    * 
    * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
-   * @version $Revision$
+   * @version $Revision: 10203 $
    */
   protected class MyHeap implements RevisionHandler {
 
@@ -264,7 +264,7 @@ public abstract class NearestNeighbourSearch implements Serializable,
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10203 $");
     }
   }
 
@@ -272,7 +272,7 @@ public abstract class NearestNeighbourSearch implements Serializable,
    * A class for storing data about a neighboring instance.
    * 
    * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
-   * @version $Revision$
+   * @version $Revision: 10203 $
    */
   protected class MyHeapElement implements RevisionHandler {
 
@@ -300,7 +300,7 @@ public abstract class NearestNeighbourSearch implements Serializable,
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10203 $");
     }
   }
 
@@ -308,7 +308,7 @@ public abstract class NearestNeighbourSearch implements Serializable,
    * A class for storing data about a neighboring instance.
    * 
    * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
-   * @version $Revision$
+   * @version $Revision: 10203 $
    */
   // better to change this into a heap element
   protected class NeighborNode implements RevisionHandler {
@@ -353,7 +353,7 @@ public abstract class NearestNeighbourSearch implements Serializable,
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10203 $");
     }
   }
 
@@ -363,7 +363,7 @@ public abstract class NearestNeighbourSearch implements Serializable,
    * are the same distance away. i.e. the minimum length of the list is k.
    * 
    * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
-   * @version $Revision$
+   * @version $Revision: 10203 $
    */
   // better to change this into a heap
   protected class NeighborList implements RevisionHandler {
@@ -522,7 +522,7 @@ public abstract class NearestNeighbourSearch implements Serializable,
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10203 $");
     }
   }
 

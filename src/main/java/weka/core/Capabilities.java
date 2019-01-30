@@ -63,7 +63,7 @@ import weka.core.converters.ConverterUtils.DataSource;
  * </pre>
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class Capabilities implements Cloneable, Serializable, RevisionHandler {
 
@@ -1947,6 +1947,6 @@ public class Capabilities implements Cloneable, Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 }

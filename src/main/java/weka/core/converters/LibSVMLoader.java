@@ -48,7 +48,7 @@ import weka.core.SparseInstance;
  * <!-- globalinfo-end -->
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11360 $
  * @see Loader
  */
 public class LibSVMLoader
@@ -428,7 +428,7 @@ public class LibSVMLoader
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11360 $");
   }
 
   /**

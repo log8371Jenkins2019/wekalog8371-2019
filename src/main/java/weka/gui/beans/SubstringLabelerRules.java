@@ -46,7 +46,7 @@ import weka.gui.Logger;
  * constructing output instances that have been labeled according to the rules.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 12232 $
  */
 public class SubstringLabelerRules implements EnvironmentHandler, Serializable {
 

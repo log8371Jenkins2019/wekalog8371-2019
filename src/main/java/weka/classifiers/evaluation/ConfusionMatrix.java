@@ -33,7 +33,7 @@ import weka.core.matrix.Matrix;
  * predictions for each actual value / predicted value combination.
  * 
  * @author Len Trigg (len@reeltwo.com)
- * @version $Revision$
+ * @version $Revision: 10169 $
  */
 public class ConfusionMatrix extends Matrix {
 
@@ -340,6 +340,6 @@ public class ConfusionMatrix extends Matrix {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10169 $");
   }
 }

@@ -80,7 +80,7 @@ import weka.filters.UnsupervisedFilter;
  * 
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
  * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class RemoveMisclassified extends Filter implements UnsupervisedFilter,
   OptionHandler, WeightedAttributesHandler, WeightedInstancesHandler {
@@ -770,7 +770,7 @@ public class RemoveMisclassified extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

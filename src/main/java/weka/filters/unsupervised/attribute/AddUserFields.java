@@ -63,7 +63,7 @@ import weka.filters.UnsupervisedFilter;
  * <!-- options-end -->
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class AddUserFields extends Filter implements OptionHandler,
   EnvironmentHandler, UnsupervisedFilter, WeightedInstancesHandler, WeightedAttributesHandler {

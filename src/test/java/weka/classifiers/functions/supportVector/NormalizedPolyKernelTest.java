@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.functions.supportVector.NormalizedPolyKernelTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class NormalizedPolyKernelTest 
   extends AbstractKernelTest {

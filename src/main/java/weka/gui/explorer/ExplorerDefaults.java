@@ -33,7 +33,7 @@ import weka.core.Utils;
  * file <code>weka/gui/explorer/Explorer.props</code>.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14445 $
  * @see #PROPERTY_FILE
  */
 public class ExplorerDefaults implements Serializable {

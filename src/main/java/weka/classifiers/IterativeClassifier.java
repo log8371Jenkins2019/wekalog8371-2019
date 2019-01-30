@@ -29,7 +29,7 @@ import weka.core.Instances;
  *
  * @author Gabi Schmidberger (gabi@cs.waikato.ac.nz)
  * @author Bernhard Pfahringer (bernhard@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 15022 $
  */
 
 public interface IterativeClassifier extends Classifier {

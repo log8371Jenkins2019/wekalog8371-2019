@@ -30,7 +30,7 @@ import weka.core.Instances;
  * Event that encapsulates a single instance or header information only
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 9205 $
  * @see EventObject
  */
 public class InstanceEvent extends EventObject {

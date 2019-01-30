@@ -33,7 +33,7 @@ import weka.core.Utils;
  * the observed values.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 9785 $
  */
 public class NormalEstimator extends Estimator implements IncrementalEstimator,
     Aggregateable<NormalEstimator> {
@@ -224,7 +224,7 @@ public class NormalEstimator extends Estimator implements IncrementalEstimator,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 9785 $");
   }
 
   @Override

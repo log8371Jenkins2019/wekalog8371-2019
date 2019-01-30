@@ -26,7 +26,7 @@ package weka.estimators;
  * interval estimators.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface UnivariateIntervalEstimator {
 

@@ -161,7 +161,7 @@ import weka.core.Capabilities.Capability;
  * <!-- options-end -->
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14293 $
  * @see weka.classifiers.CheckClassifier
  */
 public class TestInstances implements Cloneable, Serializable, OptionHandler,
@@ -1906,7 +1906,7 @@ public class TestInstances implements Cloneable, Serializable, OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14293 $");
   }
 
   /**

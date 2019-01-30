@@ -40,7 +40,7 @@ import weka.core.WekaPackageClassLoaderManager;
  * Tested with Groovy 1.5.7.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 13695 $
  */
 public class Groovy implements Serializable, RevisionHandler {
 
@@ -210,7 +210,7 @@ public class Groovy implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 13695 $");
   }
 
   /**

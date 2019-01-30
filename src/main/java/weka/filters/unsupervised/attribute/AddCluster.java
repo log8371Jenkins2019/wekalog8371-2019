@@ -70,7 +70,7 @@ import weka.filters.UnsupervisedFilter;
  * 
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class AddCluster extends Filter implements UnsupervisedFilter,
   OptionHandler, WeightedAttributesHandler, WeightedInstancesHandler {
@@ -602,7 +602,7 @@ public class AddCluster extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

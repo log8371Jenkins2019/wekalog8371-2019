@@ -22,7 +22,7 @@ package weka.gui.beans;
 
 /**
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface CustomizerClosingListener {
 

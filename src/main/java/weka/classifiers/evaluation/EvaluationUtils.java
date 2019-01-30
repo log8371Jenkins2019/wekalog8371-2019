@@ -35,7 +35,7 @@ import weka.core.RevisionUtils;
  * manners.
  * 
  * @author Len Trigg (len@reeltwo.com)
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 public class EvaluationUtils implements RevisionHandler {
 
@@ -144,6 +144,6 @@ public class EvaluationUtils implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 }

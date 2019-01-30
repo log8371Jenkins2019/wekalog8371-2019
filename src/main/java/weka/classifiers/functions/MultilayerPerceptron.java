@@ -166,7 +166,7 @@ import weka.filters.unsupervised.attribute.NominalToBinary;
  * <!-- options-end -->
  * 
  * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 15022 $
  */
 public class MultilayerPerceptron extends AbstractClassifier implements
   OptionHandler, WeightedInstancesHandler, Randomizable, IterativeClassifier {
@@ -449,7 +449,7 @@ public class MultilayerPerceptron extends AbstractClassifier implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 15022 $");
     }
   }
 
@@ -696,7 +696,7 @@ public class MultilayerPerceptron extends AbstractClassifier implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 15022 $");
     }
   }
 
@@ -704,7 +704,7 @@ public class MultilayerPerceptron extends AbstractClassifier implements
    * This provides the basic controls for working with the neuralnetwork
    * 
    * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
-   * @version $Revision$
+   * @version $Revision: 15022 $
    */
   class ControlPanel extends JPanel implements RevisionHandler {
 
@@ -903,7 +903,7 @@ public class MultilayerPerceptron extends AbstractClassifier implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 15022 $");
     }
   }
 
@@ -2830,6 +2830,6 @@ public class MultilayerPerceptron extends AbstractClassifier implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 15022 $");
   }
 }

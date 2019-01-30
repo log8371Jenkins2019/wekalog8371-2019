@@ -25,7 +25,7 @@ import junit.framework.TestSuite;
  * 
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10160 $
  */
 public class AllTests extends TestSuite {
 

@@ -34,7 +34,7 @@ import java.util.List;
  * construct its display-dependent output.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com).
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface HeadlessEventCollector {
 

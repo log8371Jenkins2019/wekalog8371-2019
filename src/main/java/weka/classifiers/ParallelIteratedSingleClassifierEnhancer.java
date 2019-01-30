@@ -39,7 +39,7 @@ import weka.core.Utils;
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
  * @author Bernhard Pfahringer (bernhard@waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11909 $
  */
 public abstract class ParallelIteratedSingleClassifierEnhancer extends
   IteratedSingleClassifierEnhancer {

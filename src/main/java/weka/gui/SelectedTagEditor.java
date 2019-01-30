@@ -38,7 +38,7 @@ import weka.core.Tag;
  * weka.core.SelectedTag object.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class SelectedTagEditor extends PropertyEditorSupport {
 

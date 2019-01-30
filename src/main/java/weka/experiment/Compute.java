@@ -29,7 +29,7 @@ import java.rmi.RemoteException;
  * a task.
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface Compute extends Remote {
   

@@ -35,7 +35,7 @@ import java.awt.BorderLayout;
  * A slightly extended MatrixPanel for better support in the Explorer.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 12391 $
  * @see MatrixPanel
  */
 @PerspectiveInfo(ID = "weka.gui.workbench.visualizepanel", title = "Visualize",

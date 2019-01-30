@@ -161,7 +161,7 @@ import weka.core.converters.ConverterUtils.DataSource;
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class ExplicitTestsetResultProducer implements ResultProducer,
   OptionHandler, AdditionalMeasureProducer, RevisionHandler {
@@ -1223,6 +1223,6 @@ public class ExplicitTestsetResultProducer implements ResultProducer,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 }

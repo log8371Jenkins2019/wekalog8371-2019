@@ -48,7 +48,7 @@ import java.util.Vector;
  * Bean that encapsulates weka.gui.visualize.VisualizePanel
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class DataVisualizer extends JPanel implements DataSourceListener,
   TrainingSetListener, TestSetListener, Visible, UserRequestAcceptor,

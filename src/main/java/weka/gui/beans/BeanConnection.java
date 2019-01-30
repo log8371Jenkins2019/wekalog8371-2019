@@ -46,7 +46,7 @@ import javax.swing.SwingConstants;
  * of all connections
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 10221 $
  */
 public class BeanConnection implements Serializable {
 

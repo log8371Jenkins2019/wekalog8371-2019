@@ -89,7 +89,7 @@ import weka.core.Utils;
  * 
  * @author Gabi Schmidberger (gabi@cs.waikato.ac.nz)
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11006 $
  */
 public abstract class Estimator implements Cloneable, Serializable,
                                            OptionHandler, CapabilitiesHandler, 
@@ -137,7 +137,7 @@ public abstract class Estimator implements Cloneable, Serializable,
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 11006 $");
     }
   }
 
@@ -735,7 +735,7 @@ public abstract class Estimator implements Cloneable, Serializable,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11006 $");
   }
 
   /**

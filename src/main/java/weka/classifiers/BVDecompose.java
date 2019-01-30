@@ -108,7 +108,7 @@ import weka.core.Utils;
  * Options after -- are passed to the designated sub-learner. <p>
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10141 $
  */
 public class BVDecompose
   implements OptionHandler, TechnicalInformationHandler, RevisionHandler {
@@ -680,7 +680,7 @@ public class BVDecompose
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10141 $");
   }
 
   /**

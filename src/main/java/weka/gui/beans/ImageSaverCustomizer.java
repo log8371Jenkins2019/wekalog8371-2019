@@ -41,7 +41,7 @@ import weka.core.EnvironmentHandler;
  * Customizer for the ImageSaver component.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ImageSaverCustomizer extends JPanel implements BeanCustomizer,
     EnvironmentHandler, CustomizerClosingListener, CustomizerCloseRequester {

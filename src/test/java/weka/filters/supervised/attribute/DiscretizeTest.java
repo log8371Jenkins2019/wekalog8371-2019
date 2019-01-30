@@ -32,7 +32,7 @@ import junit.framework.TestSuite;
  * java weka.filters.supervised.attribute.DiscretizeTest
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class DiscretizeTest extends AbstractFilterTest {
   

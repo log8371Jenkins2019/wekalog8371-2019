@@ -310,7 +310,7 @@ public class MarginCalculator implements Serializable, RevisionHandler {
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10154 $");
     }
 
   } // class JunctionTreeSeparator
@@ -699,7 +699,7 @@ public class MarginCalculator implements Serializable, RevisionHandler {
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10154 $");
     }
 
   } // class JunctionTreeNode
@@ -995,7 +995,7 @@ public class MarginCalculator implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10154 $");
   }
 
   public static void main(String[] args) {

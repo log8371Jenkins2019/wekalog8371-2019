@@ -33,7 +33,7 @@ import java.util.Enumeration;
  * storage, so rearrange your nominal attribute value orderings if necessary.
  * Missing values are not supported, and will be treated as 1 (true).
  * 
- * @version $Revision$
+ * @version $Revision: 12472 $
  */
 public class BinarySparseInstance extends SparseInstance {
 
@@ -627,6 +627,6 @@ public class BinarySparseInstance extends SparseInstance {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12472 $");
   }
 }

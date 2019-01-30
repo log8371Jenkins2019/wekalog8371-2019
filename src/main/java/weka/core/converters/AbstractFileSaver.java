@@ -53,7 +53,7 @@ import weka.core.Utils;
  * 
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
  * @author Stefan Mutter (mutter@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12074 $
  */
 public abstract class AbstractFileSaver extends AbstractSaver implements
   OptionHandler, FileSourcedConverter, EnvironmentHandler {

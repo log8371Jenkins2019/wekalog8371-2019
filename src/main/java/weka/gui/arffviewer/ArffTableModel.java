@@ -56,7 +56,7 @@ import java.util.Vector;
  *
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14908 $
  */
 public class ArffTableModel extends DefaultTableModel implements Undoable {
 

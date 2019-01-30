@@ -33,7 +33,7 @@ import weka.core.Utils;
  * pruning set.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 public class PruneableDecList extends ClassifierDecList {
 
@@ -217,6 +217,6 @@ public class PruneableDecList extends ClassifierDecList {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 }

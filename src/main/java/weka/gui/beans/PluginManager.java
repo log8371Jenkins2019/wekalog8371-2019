@@ -36,7 +36,7 @@ import java.util.Set;
  * registering and instantiating plugins.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 12407 $
  * @deprecated Use weka.core.PluginManager instead
  */
 @Deprecated

@@ -34,7 +34,7 @@ import weka.filters.supervised.attribute.Discretize;
  * Class implementing a NBTree split on an attribute.
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10531 $
  */
 public class NBTreeSplit extends ClassifierSplitModel {
 
@@ -400,6 +400,6 @@ public class NBTreeSplit extends ClassifierSplitModel {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10531 $");
   }
 }

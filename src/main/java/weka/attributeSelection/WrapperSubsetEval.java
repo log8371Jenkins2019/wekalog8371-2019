@@ -140,7 +140,7 @@ import java.util.Vector;
  <!-- options-end -->
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12170 $
  */
 public class WrapperSubsetEval extends ASEvaluation
   implements SubsetEvaluator, OptionHandler, TechnicalInformationHandler {
@@ -1112,7 +1112,7 @@ public class WrapperSubsetEval extends ASEvaluation
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12170 $");
   }
 
   @Override

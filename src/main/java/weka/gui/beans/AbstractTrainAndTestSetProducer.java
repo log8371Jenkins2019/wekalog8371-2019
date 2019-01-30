@@ -35,7 +35,7 @@ import javax.swing.JPanel;
  * representation.
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 10216 $
  */
 public abstract class AbstractTrainAndTestSetProducer extends JPanel implements
   Visible, TrainingSetProducer, TestSetProducer, BeanCommon, Serializable,

@@ -46,7 +46,7 @@ import weka.core.Utils;
  <!-- options-end -->
  *
  * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
- * @version $Revision$
+ * @version $Revision: 15002 $
  */
 public class LinearNNSearch
   extends NearestNeighbourSearch {
@@ -346,6 +346,6 @@ public class LinearNNSearch
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 15002 $");
   }
 }

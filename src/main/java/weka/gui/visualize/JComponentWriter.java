@@ -38,7 +38,7 @@ import javax.swing.JComponent;
  *
  * @see #setScalingEnabled(boolean)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class JComponentWriter {
   /** whether to print some debug information */

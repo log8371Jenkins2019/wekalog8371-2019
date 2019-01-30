@@ -198,7 +198,7 @@ import weka.filters.unsupervised.attribute.ReplaceMissingValues;
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11444 $
  * @see RandomizableClusterer
  */
 public class SimpleKMeans extends RandomizableClusterer implements
@@ -2458,7 +2458,7 @@ public class SimpleKMeans extends RandomizableClusterer implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11444 $");
   }
 
   /**

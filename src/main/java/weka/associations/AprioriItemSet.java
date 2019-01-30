@@ -41,7 +41,7 @@ import weka.core.WekaEnumeration;
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Stefan Mutter (mutter@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12014 $
  */
 public class AprioriItemSet extends ItemSet implements Serializable,
   RevisionHandler {
@@ -598,6 +598,6 @@ public class AprioriItemSet extends ItemSet implements Serializable,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12014 $");
   }
 }

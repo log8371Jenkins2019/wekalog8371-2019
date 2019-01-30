@@ -46,7 +46,7 @@ import weka.core.Instances;
  * colour defined then this panel allows the colour to be changed.
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class LegendPanel extends JScrollPane {
 

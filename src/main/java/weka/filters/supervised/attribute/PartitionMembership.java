@@ -53,7 +53,7 @@ import weka.filters.SupervisedFilter;
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class PartitionMembership extends Filter implements SupervisedFilter,
   OptionHandler, RevisionHandler, TechnicalInformationHandler, WeightedInstancesHandler {
@@ -366,7 +366,7 @@ public class PartitionMembership extends Filter implements SupervisedFilter,
 
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 }
 

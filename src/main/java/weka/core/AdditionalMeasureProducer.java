@@ -28,7 +28,7 @@ import java.util.Enumeration;
  * calculated by evaluation modules. 
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10141 $
  */
 public interface AdditionalMeasureProducer {
 

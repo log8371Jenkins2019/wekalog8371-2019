@@ -32,7 +32,7 @@ import weka.core.matrix.Matrix;
  * over the observed values.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class MahalanobisEstimator extends Estimator implements IncrementalEstimator {
   
@@ -181,7 +181,7 @@ public class MahalanobisEstimator extends Estimator implements IncrementalEstima
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
   
   /**

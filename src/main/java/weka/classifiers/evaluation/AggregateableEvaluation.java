@@ -31,7 +31,7 @@ import weka.core.Instances;
  * stored in another Evaluation object.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 public class AggregateableEvaluation extends Evaluation implements
   Aggregateable<Evaluation> {

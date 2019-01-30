@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.meta.MultiClassClassifierUpdateableTest
  *
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class MultiClassClassifierUpdateableTest extends AbstractClassifierTest {
 

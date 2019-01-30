@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.functions.supportVector.StringKernelTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class StringKernelTest 
   extends AbstractKernelTest {

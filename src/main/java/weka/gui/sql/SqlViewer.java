@@ -52,7 +52,7 @@ import java.util.Properties;
  * Represents a little tool for querying SQL databases.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14780 $
  */
 public class SqlViewer extends JPanel implements ConnectionListener,
   HistoryChangedListener, QueryExecuteListener, ResultChangedListener {

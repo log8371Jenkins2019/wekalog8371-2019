@@ -25,7 +25,7 @@ package weka.core;
  * Interface to something that can be drawn as a graph.
  *
  * @author Ashraf M. Kibriya(amk14@cs.waikato.ac.nz), Eibe Frank(eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface Drawable {
 

@@ -46,7 +46,7 @@ import weka.gui.PropertySheetPanel;
  * GUI Customizer for the SerializedModelSaver bean
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}org
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class SerializedModelSaverCustomizer
   extends JPanel

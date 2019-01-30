@@ -35,7 +35,7 @@ import weka.core.RevisionUtils;
  * Class that splits up a KDTreeNode.
  * 
  * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public abstract class KDTreeNodeSplitter implements Serializable,
   OptionHandler, RevisionHandler {
@@ -244,6 +244,6 @@ public abstract class KDTreeNodeSplitter implements Serializable,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 }

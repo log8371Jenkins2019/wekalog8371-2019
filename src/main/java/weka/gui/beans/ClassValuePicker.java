@@ -35,7 +35,7 @@ import weka.filters.unsupervised.attribute.SwapValues;
 
 /**
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 11344 $
  */
 public class ClassValuePicker extends JPanel implements Visible,
   DataSourceListener, BeanCommon, EventConstraints, Serializable,

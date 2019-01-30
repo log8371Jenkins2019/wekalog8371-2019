@@ -49,7 +49,7 @@ import weka.gui.visualize.PlotData2D;
  * A bean that evaluates the performance of batch trained classifiers
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 12704 $
  */
 public class ClassifierPerformanceEvaluator extends AbstractEvaluator implements
   BatchClassifierListener, Serializable, UserRequestAcceptor, EventConstraints {
@@ -287,7 +287,7 @@ public class ClassifierPerformanceEvaluator extends AbstractEvaluator implements
    * Inner class for running an evaluation on a split
    * 
    * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
-   * @version $Revision$
+   * @version $Revision: 12704 $
    */
   protected class EvaluationTask implements Runnable, Task {
 

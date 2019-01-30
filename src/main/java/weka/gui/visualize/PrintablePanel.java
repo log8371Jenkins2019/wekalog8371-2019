@@ -35,7 +35,7 @@ import javax.swing.JPanel;
  * @see #getWriters()
  * @see #getWriter(String)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class PrintablePanel extends JPanel implements PrintableHandler {
 

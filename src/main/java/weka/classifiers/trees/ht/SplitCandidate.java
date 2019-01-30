@@ -29,7 +29,7 @@ import java.util.Map;
  * 
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9705 $
  */
 public class SplitCandidate implements Comparable<SplitCandidate> {
 

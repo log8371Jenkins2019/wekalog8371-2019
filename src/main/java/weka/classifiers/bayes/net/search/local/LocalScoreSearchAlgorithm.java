@@ -63,7 +63,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Remco Bouckaert
- * @version $Revision$
+ * @version $Revision: 10378 $
  */
 public class LocalScoreSearchAlgorithm extends SearchAlgorithm {
 
@@ -726,6 +726,6 @@ public class LocalScoreSearchAlgorithm extends SearchAlgorithm {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10378 $");
   }
 }

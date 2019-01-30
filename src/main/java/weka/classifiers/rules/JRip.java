@@ -178,7 +178,7 @@ import weka.filters.supervised.attribute.ClassOrder;
  * 
  * @author Xin Xu (xx5@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 13408 $
  */
 public class JRip extends AbstractClassifier implements
   AdditionalMeasureProducer, WeightedInstancesHandler,
@@ -860,7 +860,7 @@ public class JRip extends AbstractClassifier implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 13408 $");
     }
   }
 
@@ -1068,7 +1068,7 @@ public class JRip extends AbstractClassifier implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 13408 $");
     }
   }
 
@@ -1197,7 +1197,7 @@ public class JRip extends AbstractClassifier implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 13408 $");
     }
   }
 
@@ -1623,7 +1623,7 @@ public class JRip extends AbstractClassifier implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 13408 $");
     }
   }
 
@@ -2280,7 +2280,7 @@ public class JRip extends AbstractClassifier implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 13408 $");
   }
 
   /**

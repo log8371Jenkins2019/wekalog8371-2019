@@ -27,7 +27,7 @@ import java.io.Serializable;
  * Class encapsulating information on progress of a remote experiment
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class RemoteExperimentEvent
   implements Serializable {

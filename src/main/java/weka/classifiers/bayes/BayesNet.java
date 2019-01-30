@@ -92,7 +92,7 @@ import weka.filters.unsupervised.attribute.ReplaceMissingValues;
  * <!-- options-end -->
  * 
  * @author Remco Bouckaert (rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 13308 $
  */
 public class BayesNet extends AbstractClassifier implements OptionHandler,
   WeightedInstancesHandler, Drawable, AdditionalMeasureProducer {
@@ -1224,6 +1224,6 @@ public class BayesNet extends AbstractClassifier implements OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 13308 $");
   }
 } // class BayesNet

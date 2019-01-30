@@ -34,7 +34,7 @@ import javax.swing.table.DefaultTableCellRenderer;
  * DefaultTableCellRenderer.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class ResultSetTableCellRenderer extends DefaultTableCellRenderer {
 

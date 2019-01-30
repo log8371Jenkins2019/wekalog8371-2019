@@ -28,7 +28,7 @@ import java.beans.SimpleBeanInfo;
  * Bean info class for the clusterer performance evaluator
  *
  * @author <a href="mailto:mutter@cs.waikato.ac.nz">Stefan Mutter</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ClustererPerformanceEvaluatorBeanInfo extends SimpleBeanInfo {
   

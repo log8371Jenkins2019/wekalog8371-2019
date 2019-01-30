@@ -59,7 +59,7 @@ package weka.attributeSelection;
  * Abstract attribute set evaluator.
  *
  * @author Zheng Zhao: zhaozheng at asu.edu
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class AttributeSetEvaluator extends ASEvaluation {
   

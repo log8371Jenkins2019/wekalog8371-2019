@@ -32,7 +32,7 @@ import weka.core.Utils;
  * Class for selecting a NB tree split.
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10531 $
  */
 public class NBTreeModelSelection extends ModelSelection {
 
@@ -203,6 +203,6 @@ public class NBTreeModelSelection extends ModelSelection {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10531 $");
   }
 }

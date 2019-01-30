@@ -32,7 +32,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.attribute.NormalizeTest
  *
  * @author <a href="mailto:len@reeltwo.com">Eibe Frank</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class StandardizeTest extends AbstractFilterTest {
   

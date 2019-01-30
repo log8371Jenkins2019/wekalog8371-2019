@@ -57,7 +57,7 @@ import java.util.Properties;
  * @see #getWriters()
  * @see #getWriter(String)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14291 $
  */
 public class PrintableComponent implements PrintableHandler {
 

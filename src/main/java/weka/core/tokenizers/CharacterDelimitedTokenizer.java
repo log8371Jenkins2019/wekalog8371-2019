@@ -30,7 +30,7 @@ import weka.core.Utils;
  * Abstract superclass for tokenizers that take characters as delimiters.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public abstract class CharacterDelimitedTokenizer extends Tokenizer {
 

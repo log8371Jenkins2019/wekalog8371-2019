@@ -55,7 +55,7 @@ import javax.swing.*;
  * <!-- options-end -->
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11690 $
  */
 public class CSVResultListener implements ResultListener, OptionHandler,
   RevisionHandler {
@@ -370,6 +370,6 @@ public class CSVResultListener implements ResultListener, OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11690 $");
   }
 } // CSVResultListener

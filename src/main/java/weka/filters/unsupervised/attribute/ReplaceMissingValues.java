@@ -46,7 +46,7 @@ import weka.filters.UnsupervisedFilter;
  * <!-- options-end -->
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14797 $
  */
 public class ReplaceMissingValues extends PotentialClassIgnorer implements
   UnsupervisedFilter, Sourcable, WeightedInstancesHandler,
@@ -413,7 +413,7 @@ public class ReplaceMissingValues extends PotentialClassIgnorer implements
    * @return the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14797 $");
   }
 
   /**

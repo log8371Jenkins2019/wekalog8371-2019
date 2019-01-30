@@ -62,7 +62,7 @@ import weka.classifiers.CostMatrix;
  * matrices from files.
  * 
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10216 $
  */
 public class CostMatrixEditor implements PropertyEditor {
 

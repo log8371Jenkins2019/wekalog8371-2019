@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.clusterers.FarthestFirstTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class FarthestFirstTest 
   extends AbstractClustererTest {

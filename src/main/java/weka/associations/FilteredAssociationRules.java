@@ -30,7 +30,7 @@ import weka.filters.Filter;
  * that was applied before they were generated.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  *
  */
 public class FilteredAssociationRules extends AssociationRules {

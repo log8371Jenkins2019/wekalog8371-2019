@@ -32,7 +32,7 @@ import weka.core.Utils;
  *
  * @author   Mark Hall (mhall@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version  $Revision$
+ * @version  $Revision: 8034 $
  */
 public abstract class AbstractDensityBasedClusterer
   extends AbstractClusterer implements DensityBasedClusterer {

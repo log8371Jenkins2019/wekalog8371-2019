@@ -31,7 +31,7 @@ import weka.gui.ExtensionFileFilter;
  * Represents a <a href="http://groovy.codehaus.org/" target="_blank">Groovy</a> script.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class GroovyScript
   extends Script {
@@ -43,7 +43,7 @@ public class GroovyScript
    * Executes a Groovy script in a thread.
    * 
    * @author  fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   public static class GroovyThread
     extends ScriptThread {

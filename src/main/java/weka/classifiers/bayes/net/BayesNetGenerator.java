@@ -91,7 +91,7 @@ import weka.estimators.Estimator;
  * <!-- options-end -->
  * 
  * @author Remco Bouckaert (rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 12448 $
  */
 public class BayesNetGenerator extends EditableBayesNet {
   /** the seed value */
@@ -655,7 +655,7 @@ public class BayesNetGenerator extends EditableBayesNet {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12448 $");
   }
 
   /**

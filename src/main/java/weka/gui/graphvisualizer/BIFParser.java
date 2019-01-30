@@ -36,7 +36,7 @@ import org.w3c.dom.NodeList;
  * builds the datastructures that are passed to it through the constructor.
  * 
  * @author Ashraf M. Kibriya (amk14@cs.waikato.ac.nz)
- * @version $Revision$ - 24 Apr 2003 - Initial version (Ashraf M.
+ * @version $Revision: 10153 $ - 24 Apr 2003 - Initial version (Ashraf M.
  *          Kibriya)
  */
 public class BIFParser implements GraphConstants {

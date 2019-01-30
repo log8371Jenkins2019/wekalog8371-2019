@@ -131,7 +131,7 @@ import java.util.Enumeration;
  * @author Kurt Driessens (kurtd@cs.waikato.ac.nz)
  * @author Remco Bouckaert (remco@cs.waikato.ac.nz)
  * @author Eibe Frank, University of Waikato
- * @version $Revision$
+ * @version $Revision: 12745 $
  */
 public class GaussianProcesses extends RandomizableClassifier implements
   IntervalEstimator, ConditionalDensityEstimator,

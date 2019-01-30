@@ -31,7 +31,7 @@ import java.util.Vector;
  * and the corresponding query.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11247 $
  */
 public class ResultSetHelper {
 

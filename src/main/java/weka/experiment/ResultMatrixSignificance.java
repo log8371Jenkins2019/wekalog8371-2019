@@ -98,7 +98,7 @@ import weka.core.RevisionUtils;
  <!-- options-end -->
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ResultMatrixSignificance
   extends ResultMatrix {
@@ -306,7 +306,7 @@ public class ResultMatrixSignificance
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 
   /**

@@ -93,7 +93,7 @@ import weka.core.xml.XMLDocument;
  <!-- options-end -->
  *
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8937 $
  */
 public class XML
   extends AbstractOutput {

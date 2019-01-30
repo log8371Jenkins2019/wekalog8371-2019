@@ -114,7 +114,7 @@ import weka.filters.unsupervised.attribute.Add;
  * <!-- options-end -->
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 11556 $
  * @see RandomizableClusterer
  * @see Drawable
  */
@@ -755,7 +755,7 @@ public class Cobweb extends RandomizableClusterer implements Drawable,
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 11556 $");
     }
   }
 
@@ -1278,7 +1278,7 @@ public class Cobweb extends RandomizableClusterer implements Drawable,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11556 $");
   }
 
   /**

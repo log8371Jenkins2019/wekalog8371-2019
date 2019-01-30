@@ -29,7 +29,7 @@ import java.util.Date;
  * This Logger just sends messages to System.err.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class SysErrLog implements Logger {
 

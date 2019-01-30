@@ -87,7 +87,7 @@ import java.util.Vector;
  <!-- options-end -->
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 12226 $
  */
 public class WeightedInstancesHandlerWrapper
   extends RandomizableSingleClassifierEnhancer
@@ -270,7 +270,7 @@ public class WeightedInstancesHandlerWrapper
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12226 $");
   }
 
   /**

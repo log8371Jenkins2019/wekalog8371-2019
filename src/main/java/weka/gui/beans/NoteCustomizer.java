@@ -35,7 +35,7 @@ import javax.swing.JTextArea;
  * Customizer for the note component.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  *
  */
 public class NoteCustomizer extends JPanel implements BeanCustomizer,

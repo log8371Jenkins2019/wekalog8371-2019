@@ -36,7 +36,7 @@ import java.beans.PropertyChangeListener;
  * This panel switches between simple and advanced experiment setup panels.
  *
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12968 $
  */
 public class SetupModePanel
   extends JPanel {

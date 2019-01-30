@@ -109,7 +109,7 @@ import weka.filters.unsupervised.attribute.Remove;
  * All options after -- will be passed to the clusterer.
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}org
- * @version $Revision$
+ * @version $Revision: 11323 $
  */
 
 public class DensityBasedClustererSplitEvaluator implements SplitEvaluator,
@@ -766,6 +766,6 @@ public class DensityBasedClustererSplitEvaluator implements SplitEvaluator,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11323 $");
   }
 }

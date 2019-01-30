@@ -133,7 +133,7 @@ import weka.filters.unsupervised.attribute.ReplaceMissingValues;
  * <!-- options-end -->
  * 
  * @author Xin Xu (xx5@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14469 $
  */
 public class Logistic extends AbstractClassifier implements OptionHandler,
   WeightedInstancesHandler, TechnicalInformationHandler, PMMLProducer,
@@ -482,7 +482,7 @@ public class Logistic extends AbstractClassifier implements OptionHandler,
 
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 14469 $");
     }
   }
 
@@ -506,7 +506,7 @@ public class Logistic extends AbstractClassifier implements OptionHandler,
 
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 14469 $");
     }
   }
 
@@ -1082,7 +1082,7 @@ public class Logistic extends AbstractClassifier implements OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14469 $");
   }
 
   protected int m_numModels = 0;

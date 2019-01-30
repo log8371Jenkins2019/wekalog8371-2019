@@ -29,7 +29,7 @@ import java.util.EventListener;
  * ResultPanel.
  *
  * @author      FracPete (fracpete at waikato dot ac dot nz)
- * @version     $Revision$
+ * @version     $Revision: 8034 $
  */
 
 public interface ResultChangedListener extends EventListener {

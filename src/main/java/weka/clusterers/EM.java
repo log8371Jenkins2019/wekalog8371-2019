@@ -127,7 +127,7 @@ import weka.filters.unsupervised.attribute.ReplaceMissingValues;
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11451 $
  */
 public class EM extends RandomizableDensityBasedClusterer implements
 NumberOfClustersRequestable, WeightedInstancesHandler {
@@ -2021,7 +2021,7 @@ NumberOfClustersRequestable, WeightedInstancesHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11451 $");
   }
 
   // ============

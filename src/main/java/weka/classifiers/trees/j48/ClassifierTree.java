@@ -38,7 +38,7 @@ import weka.core.Utils;
  * Class for handling a tree structure used for classification.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class ClassifierTree implements Drawable, Serializable, RevisionHandler, CapabilitiesHandler {
 
@@ -770,6 +770,6 @@ public class ClassifierTree implements Drawable, Serializable, RevisionHandler, 
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 }

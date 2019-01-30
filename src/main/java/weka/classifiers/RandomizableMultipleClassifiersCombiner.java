@@ -35,7 +35,7 @@ import weka.core.Utils;
  * on a given random number seed.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10141 $
  */
 public abstract class RandomizableMultipleClassifiersCombiner
   extends MultipleClassifiersCombiner implements Randomizable {

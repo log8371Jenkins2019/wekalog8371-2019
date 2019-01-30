@@ -40,7 +40,7 @@ import weka.gui.PropertySheetPanel;
  * GUI customizer for the filter bean
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 9467 $
  */
 public class FilterCustomizer extends JPanel implements BeanCustomizer,
     CustomizerCloseRequester {

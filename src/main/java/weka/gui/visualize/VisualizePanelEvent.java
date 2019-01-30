@@ -32,7 +32,7 @@ import weka.core.Instances;
  * the panel.
  * 
  * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class VisualizePanelEvent {
 

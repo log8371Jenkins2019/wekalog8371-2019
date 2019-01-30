@@ -52,7 +52,7 @@ import weka.experiment.PropertyNode;
  * @see Experiment#m_ClassFirst
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10204 $
  */
 public class XMLExperiment extends XMLBasicSerialization {
 
@@ -292,7 +292,7 @@ public class XMLExperiment extends XMLBasicSerialization {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10204 $");
   }
 
   /**

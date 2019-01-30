@@ -85,7 +85,7 @@ import weka.core.Utils;
  * 
  * @author The Mathworks and NIST
  * @author Fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class Matrix implements Cloneable, Serializable, RevisionHandler {
 
@@ -1534,7 +1534,7 @@ public class Matrix implements Cloneable, Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   /**

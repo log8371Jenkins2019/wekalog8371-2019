@@ -28,7 +28,7 @@ import weka.core.RevisionHandler;
  * density estimators.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11318 $
  */
 public interface UnivariateDensityEstimator extends RevisionHandler {
 

@@ -41,7 +41,7 @@ import weka.core.RevisionUtils;
  * finished() is called to close the file.
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class OutputZipper
   implements RevisionHandler {
@@ -113,7 +113,7 @@ public class OutputZipper
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 
   /**

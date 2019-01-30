@@ -26,7 +26,7 @@ import java.util.Random;
  * Helper class for resampling.
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 12226 $
  */
 public class ResampleUtils {
 

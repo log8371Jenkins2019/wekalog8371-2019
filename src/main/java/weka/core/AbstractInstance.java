@@ -29,7 +29,7 @@ import java.util.Enumeration;
  * implementations.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10649 $
  */
 public abstract class AbstractInstance implements Instance, Serializable,
   RevisionHandler {
@@ -847,7 +847,7 @@ public abstract class AbstractInstance implements Instance, Serializable,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10649 $");
   }
 
   /**

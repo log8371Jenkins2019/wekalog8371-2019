@@ -71,7 +71,7 @@ import weka.core.TechnicalInformation;
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class NaiveBayesUpdateable extends NaiveBayes 
   implements UpdateableClassifier {
@@ -124,7 +124,7 @@ public class NaiveBayesUpdateable extends NaiveBayes
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 
   /**

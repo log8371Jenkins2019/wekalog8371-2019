@@ -29,7 +29,7 @@ import java.beans.SimpleBeanInfo;
  * Bean info class for the substring replacer
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class SubstringReplacerBeanInfo extends SimpleBeanInfo {
 

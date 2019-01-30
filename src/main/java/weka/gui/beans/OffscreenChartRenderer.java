@@ -31,7 +31,7 @@ import weka.core.Instances;
  * in headless mode.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 12055 $
  */
 public interface OffscreenChartRenderer {
 

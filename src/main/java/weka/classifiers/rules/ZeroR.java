@@ -52,7 +52,7 @@ import weka.core.WeightedInstancesHandler;
  * <!-- options-end -->
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12024 $
  */
 public class ZeroR extends AbstractClassifier implements
   WeightedInstancesHandler, Sourcable {
@@ -252,7 +252,7 @@ public class ZeroR extends AbstractClassifier implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12024 $");
   }
 
   /**

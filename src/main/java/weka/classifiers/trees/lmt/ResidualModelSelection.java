@@ -33,7 +33,7 @@ import weka.core.RevisionUtils;
  * splitting criterion based on residuals.
  * 
  * @author Niels Landwehr
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ResidualModelSelection
   extends ModelSelection {
@@ -125,6 +125,6 @@ public class ResidualModelSelection
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 }

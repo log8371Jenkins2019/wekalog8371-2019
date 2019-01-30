@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.functions.SGDTextTest
  *
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class SGDTextTest extends AbstractClassifierTest {
 

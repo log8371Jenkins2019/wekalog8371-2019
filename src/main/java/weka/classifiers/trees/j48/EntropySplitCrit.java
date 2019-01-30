@@ -29,7 +29,7 @@ import weka.core.ContingencyTables;
  * Class for computing the entropy for a given distribution.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10055 $
  */
 public final class EntropySplitCrit
   extends EntropyBasedSplitCrit {
@@ -78,6 +78,6 @@ public final class EntropySplitCrit
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10055 $");
   }
 }

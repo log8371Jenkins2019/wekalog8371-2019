@@ -39,7 +39,7 @@ import java.util.Vector;
  * <p>
  * 
  * @author Xin Xu (xx5@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11269 $
  */
 public class HierarchyPropertyParser implements Serializable {
 

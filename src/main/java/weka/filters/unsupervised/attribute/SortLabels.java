@@ -67,7 +67,7 @@ import weka.filters.SimpleStreamFilter;
  * <!-- options-end -->
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class SortLabels extends SimpleStreamFilter implements WeightedInstancesHandler, WeightedAttributesHandler{
 
@@ -78,7 +78,7 @@ public class SortLabels extends SimpleStreamFilter implements WeightedInstancesH
    * Represents a case-sensitive comparator for two strings.
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 14534 $
    */
   public static class CaseSensitiveComparator implements Comparator<String>,
     Serializable {
@@ -118,7 +118,7 @@ public class SortLabels extends SimpleStreamFilter implements WeightedInstancesH
    * Represents a case-insensitive comparator for two strings.
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 14534 $
    */
   public static class CaseInsensitiveComparator implements Comparator<String>,
     Serializable {
@@ -532,7 +532,7 @@ public class SortLabels extends SimpleStreamFilter implements WeightedInstancesH
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

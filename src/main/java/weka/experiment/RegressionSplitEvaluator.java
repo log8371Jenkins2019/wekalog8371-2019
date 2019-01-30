@@ -85,7 +85,7 @@ import weka.core.Utils;
  * All options after -- will be passed to the classifier.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11323 $
  */
 public class RegressionSplitEvaluator implements SplitEvaluator, OptionHandler,
   AdditionalMeasureProducer, RevisionHandler {
@@ -871,6 +871,6 @@ public class RegressionSplitEvaluator implements SplitEvaluator, OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11323 $");
   }
 }

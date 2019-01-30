@@ -26,7 +26,7 @@ package weka.attributeSelection;
  * Interface for classes that evaluate attributes individually.
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface AttributeEvaluator {
   

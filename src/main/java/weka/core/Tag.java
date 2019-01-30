@@ -27,7 +27,7 @@ import java.io.Serializable;
  * A <code>Tag</code> simply associates a numeric ID with a String description.
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class Tag implements Serializable, RevisionHandler {
 
@@ -195,6 +195,6 @@ public class Tag implements Serializable, RevisionHandler {
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 }

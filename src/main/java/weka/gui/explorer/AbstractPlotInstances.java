@@ -33,7 +33,7 @@ import weka.gui.visualize.PlotData2D;
  * Abstract superclass for generating plottable instances.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10220 $
  */
 public abstract class AbstractPlotInstances implements Serializable,
   OptionHandler {

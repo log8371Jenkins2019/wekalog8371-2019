@@ -32,7 +32,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.attribute.AddExpressionTest
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
- * @version $Revision$
+ * @version $Revision: 11497 $
  */
 public class AddExpressionTest extends AbstractFilterTest {
   

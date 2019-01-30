@@ -54,7 +54,7 @@ import java.util.Vector;
  * A dialog for setting various output format parameters.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14291 $
  */
 public class OutputFormatDialog extends JDialog {
 

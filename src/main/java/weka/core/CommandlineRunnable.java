@@ -25,7 +25,7 @@ package weka.core;
  * Interface to something that can be run from the command line.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 12184 $
  */
 public interface CommandlineRunnable {
 

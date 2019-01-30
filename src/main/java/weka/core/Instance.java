@@ -62,7 +62,7 @@ import java.util.Enumeration;
  * change of an instance's attribute values must not affect any other instances.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 15070 $
  */
 public interface Instance extends Copyable {
 

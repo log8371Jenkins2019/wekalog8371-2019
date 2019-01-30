@@ -60,7 +60,7 @@ import weka.gui.CustomPanelSupplier;
  * This class is deprecated - use the version in weka.gui instead.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 12232 $
  */
 @Deprecated
 public class EnvironmentField extends JPanel implements EnvironmentHandler,

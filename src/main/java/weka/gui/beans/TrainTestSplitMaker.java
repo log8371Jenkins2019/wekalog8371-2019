@@ -33,7 +33,7 @@ import weka.core.Instances;
  * training and test set by randomly spliting the data
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 10216 $
  */
 public class TrainTestSplitMaker extends AbstractTrainAndTestSetProducer
   implements DataSourceListener, TrainingSetListener, TestSetListener,

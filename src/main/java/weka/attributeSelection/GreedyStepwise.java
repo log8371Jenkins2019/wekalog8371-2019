@@ -100,7 +100,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 11227 $
  */
 public class GreedyStepwise extends ASSearch implements RankedOutputSearch,
   StartSetHandler, OptionHandler {
@@ -1043,6 +1043,6 @@ public class GreedyStepwise extends ASSearch implements RankedOutputSearch,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11227 $");
   }
 }

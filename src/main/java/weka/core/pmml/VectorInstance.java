@@ -32,7 +32,7 @@ import org.w3c.dom.NodeList;
  * Class encapsulating a PMML VectorInstance construct
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class VectorInstance implements Serializable {
   

@@ -39,7 +39,7 @@ import weka.core.Utils;
  * the training data and this gives better performance on test data.
  * 
  * @author Len Trigg (len@reeltwo.com)
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 public class MarginCurve implements RevisionHandler {
 
@@ -143,7 +143,7 @@ public class MarginCurve implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 
   /**

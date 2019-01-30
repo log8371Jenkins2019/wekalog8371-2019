@@ -121,7 +121,7 @@ import weka.filters.unsupervised.attribute.Discretize;
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11326 $
  */
 public class RegressionByDiscretization 
 extends SingleClassifierEnhancer implements IntervalEstimator, ConditionalDensityEstimator {
@@ -782,7 +782,7 @@ extends SingleClassifierEnhancer implements IntervalEstimator, ConditionalDensit
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11326 $");
   }
 
   /**

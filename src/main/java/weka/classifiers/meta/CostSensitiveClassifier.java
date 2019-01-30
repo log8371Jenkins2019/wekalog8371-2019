@@ -89,7 +89,7 @@ import weka.core.Capabilities.Capability;
  * Options after -- are passed to the designated classifier.<p>
  *
  * @author Len Trigg (len@reeltwo.com)
- * @version $Revision$
+ * @version $Revision: 14259 $
  */
 public class CostSensitiveClassifier 
   extends RandomizableSingleClassifierEnhancer
@@ -720,7 +720,7 @@ public class CostSensitiveClassifier
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14259 $");
   }
 
   /**

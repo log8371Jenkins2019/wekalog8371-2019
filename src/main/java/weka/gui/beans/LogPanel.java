@@ -45,7 +45,7 @@ import java.util.Iterator;
  * and a log area.
  * 
  * @author mhall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 12361 $
  */
 public class LogPanel extends JPanel implements Logger {
 

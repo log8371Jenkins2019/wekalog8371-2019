@@ -35,7 +35,7 @@ import java.io.Reader;
  * <a href="http://www.json.org/" target="_blank">JSON</a> data structure.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 12111 $
  */
 public class JSONNode extends DefaultMutableTreeNode {
 
@@ -46,7 +46,7 @@ public class JSONNode extends DefaultMutableTreeNode {
    * The type of a node.
    * 
    * @author FracPete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 12111 $
    */
   public static enum NodeType {
     /** a primitive. */

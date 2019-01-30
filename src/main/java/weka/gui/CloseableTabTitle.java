@@ -46,7 +46,7 @@ import javax.swing.plaf.basic.BasicButtonUI;
  * close the tab
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 11870 $
  */
 public class CloseableTabTitle extends JPanel {
 

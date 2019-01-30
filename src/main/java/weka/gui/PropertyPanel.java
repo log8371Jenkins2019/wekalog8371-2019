@@ -55,7 +55,7 @@ import weka.gui.GenericObjectEditorHistory.HistorySelectionListener;
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class PropertyPanel extends JPanel {
 

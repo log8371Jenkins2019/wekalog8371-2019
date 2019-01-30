@@ -35,7 +35,7 @@ import weka.gui.Logger;
  * of the mining schema.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class MappingInfo implements Serializable {
 

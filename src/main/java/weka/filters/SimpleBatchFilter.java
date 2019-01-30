@@ -142,7 +142,7 @@ import weka.core.Instances;
  * <p/>
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14805 $
  * @see SimpleStreamFilter
  * @see #input(Instance)
  * @see #batchFinished()

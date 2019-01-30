@@ -27,7 +27,7 @@ import java.util.EventObject;
  * An event encapsulating an instance stream event.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class InstanceEvent
   extends EventObject {

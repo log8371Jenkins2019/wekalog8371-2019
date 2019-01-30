@@ -35,7 +35,7 @@ import java.beans.PropertyEditor;
  * Property editor widget that wraps and displays a JPasswordField.
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 12418 $
  */
 public class PasswordField extends JPanel implements PropertyEditor,
   CustomPanelSupplier {

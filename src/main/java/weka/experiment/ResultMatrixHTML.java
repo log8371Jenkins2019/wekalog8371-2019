@@ -99,7 +99,7 @@ import weka.core.Utils;
  <!-- options-end -->
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ResultMatrixHTML
   extends ResultMatrix {
@@ -389,7 +389,7 @@ public class ResultMatrixHTML
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 
   /**

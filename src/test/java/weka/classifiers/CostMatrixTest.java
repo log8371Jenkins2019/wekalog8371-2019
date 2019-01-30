@@ -30,7 +30,7 @@ import weka.core.Instances;
  * Some simple tests for 2 class cost matrices with and without expressions
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 11474 $
  */
 public class CostMatrixTest extends TestCase {
 

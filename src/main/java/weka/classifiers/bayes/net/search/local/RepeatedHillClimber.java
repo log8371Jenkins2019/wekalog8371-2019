@@ -85,7 +85,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Remco Bouckaert (rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 10154 $
  */
 public class RepeatedHillClimber extends HillClimber {
 
@@ -377,7 +377,7 @@ public class RepeatedHillClimber extends HillClimber {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10154 $");
   }
 
 }

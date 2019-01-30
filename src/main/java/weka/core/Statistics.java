@@ -17,7 +17,7 @@ package weka.core;
  * @author wolfgang.hoschek@cern.ch
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class Statistics implements RevisionHandler {
 
@@ -1056,7 +1056,7 @@ public class Statistics implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   /**

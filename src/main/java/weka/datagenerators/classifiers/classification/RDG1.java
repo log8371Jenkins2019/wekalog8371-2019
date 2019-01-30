@@ -158,7 +158,7 @@ import weka.datagenerators.Test;
  * </pre>
  * 
  * @author Gabi Schmidberger (gabi@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class RDG1 extends ClassificationGenerator {
 
@@ -259,7 +259,7 @@ public class RDG1 extends ClassificationGenerator {
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10203 $");
     }
   } /* end class RuleList ***** */
 
@@ -1298,7 +1298,7 @@ public class RDG1 extends ClassificationGenerator {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   /**

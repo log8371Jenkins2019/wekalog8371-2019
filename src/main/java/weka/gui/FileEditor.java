@@ -37,7 +37,7 @@ import javax.swing.JFileChooser;
  * A PropertyEditor for File objects that lets the user select a file.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class FileEditor extends PropertyEditorSupport {
 

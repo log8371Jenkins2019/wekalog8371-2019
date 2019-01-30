@@ -127,7 +127,7 @@ import weka.core.converters.ArffLoader.ArffReader;
  <!-- options-end -->
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 14116 $
  */
 public class CSVLoader extends AbstractFileLoader implements BatchConverter,
   IncrementalConverter, OptionHandler {
@@ -263,7 +263,7 @@ public class CSVLoader extends AbstractFileLoader implements BatchConverter,
 
   @Override
   public String getRevision() {
-    return "$Revision$";
+    return "$Revision: 14116 $";
   }
 
   /**

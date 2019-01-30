@@ -49,7 +49,7 @@ import weka.gui.PropertySheetPanel;
  * GUI Customizer for the loader bean
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class LoaderCustomizer extends JPanel implements BeanCustomizer,
   CustomizerCloseRequester, EnvironmentHandler {

@@ -58,7 +58,7 @@ import weka.filters.UnsupervisedFilter;
  * <!-- options-end -->
  * 
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class ChangeDateFormat extends Filter implements UnsupervisedFilter,
   StreamableFilter, OptionHandler, WeightedInstancesHandler, WeightedAttributesHandler {
@@ -366,7 +366,7 @@ public class ChangeDateFormat extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

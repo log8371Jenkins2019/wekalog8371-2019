@@ -47,7 +47,7 @@ import java.util.Vector;
  * connections).
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 12409 $
  */
 public class AttributeSummarizerCustomizer extends JPanel implements
     BeanCustomizer, EnvironmentHandler, CustomizerClosingListener,

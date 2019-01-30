@@ -49,7 +49,7 @@ import weka.gui.PropertySheetPanel;
  * Customizer for the SubstringReplacer
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10383 $
  */
 public class SubstringReplacerCustomizer extends JPanel implements
   EnvironmentHandler, BeanCustomizer, CustomizerCloseRequester {

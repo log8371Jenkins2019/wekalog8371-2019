@@ -33,7 +33,7 @@ import weka.core.Utils;
  * Generates a single m5 tree or rule
  * 
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 10169 $
  */
 public class Rule implements Serializable, RevisionHandler {
 
@@ -623,6 +623,6 @@ public class Rule implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10169 $");
   }
 }

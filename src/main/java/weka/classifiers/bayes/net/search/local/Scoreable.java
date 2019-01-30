@@ -24,7 +24,7 @@ package weka.classifiers.bayes.net.search.local;
  * Interface for allowing to score a classifier
  * 
  * @author Remco Bouckaert (rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface Scoreable {
 

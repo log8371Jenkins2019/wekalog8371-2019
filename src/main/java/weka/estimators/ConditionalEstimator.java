@@ -51,7 +51,7 @@ import weka.core.RevisionHandler;
  * </pre> </code>
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface ConditionalEstimator extends RevisionHandler {
 

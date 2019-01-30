@@ -42,7 +42,7 @@ import weka.gui.visualize.VisualizeUtils;
  * A scripting panel for <a href="http://groovy.codehaus.org/" target="_blank">Groovy</a>.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class GroovyPanel
   extends FileScriptingPanel {

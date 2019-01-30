@@ -87,7 +87,7 @@ import weka.core.PartitionGenerator;
  * Options after -- are passed to the designated classifier.<p>
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11461 $
  */
 public class RandomCommittee 
   extends RandomizableParallelIteratedSingleClassifierEnhancer
@@ -303,7 +303,7 @@ public class RandomCommittee
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11461 $");
   }
 
   /**

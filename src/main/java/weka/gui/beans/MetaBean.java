@@ -50,7 +50,7 @@ import weka.gui.Logger;
  * 
  * 
  * @author Mark Hall (mhall at cs dot waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10221 $
  */
 public class MetaBean extends JPanel implements BeanCommon, Visible,
   EventConstraints, Serializable, UserRequestAcceptor, Startable {

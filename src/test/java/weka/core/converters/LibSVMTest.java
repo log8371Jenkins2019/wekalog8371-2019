@@ -27,7 +27,7 @@ import junit.framework.TestSuite;
  * java weka.core.converters.LibSVMTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class LibSVMTest 
   extends AbstractFileConverterTest {

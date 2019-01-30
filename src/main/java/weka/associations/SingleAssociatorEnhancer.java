@@ -37,7 +37,7 @@ import weka.core.Utils;
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10172 $
  */
 public abstract class SingleAssociatorEnhancer extends AbstractAssociator
   implements OptionHandler {

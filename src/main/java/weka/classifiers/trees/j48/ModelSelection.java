@@ -30,7 +30,7 @@ import weka.core.RevisionHandler;
  * Abstract class for model selection criteria.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class ModelSelection
   implements Serializable, RevisionHandler {

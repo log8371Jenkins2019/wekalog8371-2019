@@ -73,7 +73,7 @@ import java.util.Vector;
  * <!-- options-end -->
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}org)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class ReservoirSample extends Filter implements UnsupervisedFilter,
   OptionHandler, StreamableFilter, Randomizable, WeightedAttributesHandler {
@@ -428,7 +428,7 @@ public class ReservoirSample extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

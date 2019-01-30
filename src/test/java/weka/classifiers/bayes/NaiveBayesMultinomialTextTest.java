@@ -31,7 +31,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.bayes.NaiveBayesMultinomialText
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class NaiveBayesMultinomialTextTest 
   extends AbstractClassifierTest {

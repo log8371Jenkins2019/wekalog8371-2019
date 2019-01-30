@@ -43,7 +43,7 @@ import javax.swing.SwingConstants;
  * A dialog to enter URL, username and password for a database connection.
  *
  * @author Dale Fletcher (dale@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class DatabaseConnectionDialog
   extends JDialog {

@@ -31,7 +31,7 @@ import java.util.Vector;
  * to and from files or streams.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14293 $
  */
 public class SerializationHelper implements RevisionHandler {
 
@@ -413,7 +413,7 @@ public class SerializationHelper implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14293 $");
   }
 
   /**

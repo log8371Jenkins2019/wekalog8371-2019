@@ -125,7 +125,7 @@ import weka.filters.unsupervised.attribute.ReplaceMissingValues;
  *
  * @author Niels Landwehr
  * @author Marc Sumner
- * @version $Revision$
+ * @version $Revision: 11568 $
  */
 public class SimpleLogistic extends AbstractClassifier implements
   OptionHandler, AdditionalMeasureProducer, WeightedInstancesHandler,
@@ -799,6 +799,6 @@ public class SimpleLogistic extends AbstractClassifier implements
    * @return the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11568 $");
   }
 }

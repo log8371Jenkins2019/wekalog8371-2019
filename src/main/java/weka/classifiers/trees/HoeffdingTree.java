@@ -155,7 +155,7 @@ import weka.core.WeightedInstancesHandler;
  * 
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 11006 $
  */
 public class HoeffdingTree extends AbstractClassifier implements
     UpdateableClassifier, WeightedInstancesHandler, OptionHandler,
@@ -990,7 +990,7 @@ public class HoeffdingTree extends AbstractClassifier implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11006 $");
   }
 
   public static void main(String[] args) {

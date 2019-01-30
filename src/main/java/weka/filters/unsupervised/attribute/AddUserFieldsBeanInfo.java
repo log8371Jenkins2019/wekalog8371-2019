@@ -28,7 +28,7 @@ import java.beans.SimpleBeanInfo;
  * Bean info class for the AddUserFields filter.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9002 $
  */
 public class AddUserFieldsBeanInfo extends SimpleBeanInfo {
 

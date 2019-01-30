@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.clusterers.CanopyTest
  *
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 10451 $
  */
 public class CanopyTest 
   extends AbstractClustererTest {

@@ -101,7 +101,7 @@ import weka.filters.unsupervised.attribute.Remove;
  * <p/>
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14165 $
  * @see weka.core.Drawable
  */
 public class ClusterEvaluation implements Serializable, RevisionHandler {
@@ -1363,7 +1363,7 @@ public class ClusterEvaluation implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14165 $");
   }
 
   /**

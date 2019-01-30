@@ -29,7 +29,7 @@ import java.lang.annotation.*;
  * in GUI config dialogs).
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 11650 $
  */
 @Documented
 @Retention(RetentionPolicy.RUNTIME)

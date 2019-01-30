@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.functions.MultilayerPerceptronTest
  *
  * @author <a href="mailto:mfw4@cs.waikato.ac.nz">Malcolm Ware</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class MultilayerPerceptronTest extends AbstractClassifierTest {
 

@@ -60,7 +60,7 @@ import weka.gui.beans.Visible;
  * This class serializes and deserializes a KnowledgeFlow setup to and fro XML. <br>
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 13477 $
  */
 public class XMLBeans extends XMLBasicSerialization {
 

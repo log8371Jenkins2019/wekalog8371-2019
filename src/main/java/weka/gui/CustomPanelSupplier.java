@@ -30,7 +30,7 @@ import javax.swing.JPanel;
  * the standard PropertyPanel GUI.
  *
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface CustomPanelSupplier {
 

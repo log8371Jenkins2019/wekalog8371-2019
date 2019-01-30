@@ -100,7 +100,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Remco Bouckaert (rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 11247 $
  */
 public class GeneticSearch extends LocalScoreSearchAlgorithm {
 
@@ -331,7 +331,7 @@ public class GeneticSearch extends LocalScoreSearchAlgorithm {
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 11247 $");
     }
   } // class BayesNetRepresentation
 
@@ -805,6 +805,6 @@ public class GeneticSearch extends LocalScoreSearchAlgorithm {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11247 $");
   }
 } // GeneticSearch

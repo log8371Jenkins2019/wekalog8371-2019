@@ -151,7 +151,7 @@ import weka.core.PartitionGenerator;
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Len Trigg (len@reeltwo.com)
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14879 $
  */
 public class Bagging
   extends RandomizableParallelIteratedSingleClassifierEnhancer 
@@ -907,7 +907,7 @@ public class Bagging
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14879 $");
   }
 
   /**

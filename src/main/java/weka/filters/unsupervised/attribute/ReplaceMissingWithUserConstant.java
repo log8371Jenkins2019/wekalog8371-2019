@@ -42,7 +42,7 @@ import weka.filters.UnsupervisedFilter;
  * <!-- globalinfo-end -->
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class ReplaceMissingWithUserConstant extends PotentialClassIgnorer
   implements UnsupervisedFilter, StreamableFilter, EnvironmentHandler,
@@ -705,7 +705,7 @@ public class ReplaceMissingWithUserConstant extends PotentialClassIgnorer
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

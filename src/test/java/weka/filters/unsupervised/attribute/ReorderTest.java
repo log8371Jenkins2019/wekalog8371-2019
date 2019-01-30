@@ -31,7 +31,7 @@ import weka.filters.Filter;
  * java weka.filters.unsupervised.attribute.ReorderTest
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10160 $
  */
 public class ReorderTest extends AbstractFilterTest {
 

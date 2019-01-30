@@ -34,7 +34,7 @@ import weka.core.Capabilities.Capability;
  * classifiers that use a single base learner.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14259 $
  */
 public abstract class SingleClassifierEnhancer extends AbstractClassifier {
 

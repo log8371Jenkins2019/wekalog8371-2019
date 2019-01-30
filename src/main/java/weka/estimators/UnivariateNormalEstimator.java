@@ -31,7 +31,7 @@ import weka.core.Statistics;
  * Simple weighted normal density estimator.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11318 $
  */
 public class UnivariateNormalEstimator implements UnivariateDensityEstimator,
                                                   UnivariateIntervalEstimator,
@@ -175,7 +175,7 @@ public class UnivariateNormalEstimator implements UnivariateDensityEstimator,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11318 $");
   }
 
   /**

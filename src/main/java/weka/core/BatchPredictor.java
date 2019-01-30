@@ -26,7 +26,7 @@ package weka.core;
  * when presented with a set of Instances.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 11958 $
  */
 public interface BatchPredictor {
 

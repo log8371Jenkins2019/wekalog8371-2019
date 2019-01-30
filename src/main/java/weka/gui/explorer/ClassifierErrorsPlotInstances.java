@@ -64,7 +64,7 @@ import weka.gui.visualize.PlotData2D;
  * </pre>
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10220 $
  */
 public class ClassifierErrorsPlotInstances extends AbstractPlotInstances {
 

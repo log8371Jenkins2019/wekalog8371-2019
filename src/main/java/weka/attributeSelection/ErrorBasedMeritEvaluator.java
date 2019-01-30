@@ -27,7 +27,7 @@ package weka.attributeSelection;
  * as the error of a learning scheme
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface ErrorBasedMeritEvaluator {
 

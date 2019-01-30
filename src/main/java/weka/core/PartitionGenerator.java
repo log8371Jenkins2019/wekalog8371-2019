@@ -25,7 +25,7 @@ package weka.core;
  * a partition of the instance space (e.g., decision trees).
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 9117 $
  */
 public interface PartitionGenerator extends CapabilitiesHandler {
 

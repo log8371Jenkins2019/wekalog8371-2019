@@ -79,7 +79,7 @@ import weka.core.Utils;
  * @author Andrew Golightly (acg4@cs.waikato.ac.nz)
  * @author Bernhard Pfahringer (bernhard@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$ 
+ * @version $Revision: 14252 $ 
  */
 public class NaiveBayesMultinomialUpdateable extends NaiveBayesMultinomial implements UpdateableClassifier {
   
@@ -222,7 +222,7 @@ public class NaiveBayesMultinomialUpdateable extends NaiveBayesMultinomial imple
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14252 $");
   }
     
   /**

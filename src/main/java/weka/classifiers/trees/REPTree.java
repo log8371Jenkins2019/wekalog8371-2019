@@ -95,7 +95,7 @@ import weka.core.WeightedInstancesHandler;
  * <!-- options-end -->
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12893 $
  */
 public class REPTree extends AbstractClassifier implements OptionHandler,
   WeightedInstancesHandler, Drawable, AdditionalMeasureProducer, Sourcable,
@@ -1354,7 +1354,7 @@ public class REPTree extends AbstractClassifier implements OptionHandler,
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 12893 $");
     }
   }
 
@@ -2172,7 +2172,7 @@ public class REPTree extends AbstractClassifier implements OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12893 $");
   }
 
   /**

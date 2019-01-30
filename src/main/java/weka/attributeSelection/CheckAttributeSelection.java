@@ -223,7 +223,7 @@ import weka.core.WeightedInstancesHandler;
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11247 $
  * @see TestInstances
  */
 public class CheckAttributeSelection extends CheckScheme {
@@ -1557,7 +1557,7 @@ public class CheckAttributeSelection extends CheckScheme {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11247 $");
   }
 
   /**

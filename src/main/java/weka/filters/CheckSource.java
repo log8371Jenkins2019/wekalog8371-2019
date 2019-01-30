@@ -73,7 +73,7 @@ import weka.core.converters.ConverterUtils.DataSource;
  * <p>
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10210 $
  * @see weka.filters.Sourcable
  */
 public class CheckSource implements OptionHandler, RevisionHandler {
@@ -482,7 +482,7 @@ public class CheckSource implements OptionHandler, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10210 $");
   }
 
   /**

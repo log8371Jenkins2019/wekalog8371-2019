@@ -28,7 +28,7 @@ import weka.core.Instance;
  * one instance at a time.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface UpdateableClassifier {
 

@@ -46,7 +46,7 @@ import weka.gui.Logger;
  * matched.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 11956 $
  * 
  */
 @KFStep(category = "Tools", toolTipText = "Label instances according to substring matches in String attributes")

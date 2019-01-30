@@ -36,7 +36,7 @@ import weka.core.RevisionHandler;
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
  * @author Stefan Mutter (mutter@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface Saver
   extends Serializable, RevisionHandler {

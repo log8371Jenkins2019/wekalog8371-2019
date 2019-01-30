@@ -29,7 +29,7 @@ import weka.core.Instance;
  * specific display options.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9320 $
  */
 public interface StandardEvaluationMetric {
 

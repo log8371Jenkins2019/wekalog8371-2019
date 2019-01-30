@@ -41,7 +41,7 @@ import weka.gui.Logger;
  * attributes
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 11968 $
  */
 public class SubstringReplacerRules implements EnvironmentHandler, Serializable {
 

@@ -44,7 +44,7 @@ import weka.gui.SysErrLog;
  * A panel for generating artificial data via DataGenerators.
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14500 $
  */
 public class DataGeneratorPanel
   extends JPanel {

@@ -42,7 +42,7 @@ import java.util.*;
  * <p>
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14848 $
  */
 public class Option implements RevisionHandler {
 
@@ -686,6 +686,6 @@ public class Option implements RevisionHandler {
    * @return the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14848 $");
   }
 }

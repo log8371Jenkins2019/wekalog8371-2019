@@ -27,7 +27,7 @@ package weka.experiment;
  * progress
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface RemoteExperimentListener {
 

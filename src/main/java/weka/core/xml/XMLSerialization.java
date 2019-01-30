@@ -96,7 +96,7 @@ import weka.core.WekaPackageClassLoaderManager;
  * @see #writeToXML(Element, Object, String)
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 13477 $
  */
 public class XMLSerialization implements RevisionHandler {
 
@@ -1847,6 +1847,6 @@ public class XMLSerialization implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 13477 $");
   }
 }

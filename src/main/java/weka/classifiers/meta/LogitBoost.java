@@ -181,7 +181,7 @@ import weka.core.WeightedInstancesHandler;
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 15022 $
  */
 public class LogitBoost extends RandomizableIteratedSingleClassifierEnhancer
   implements Sourcable, WeightedInstancesHandler, TechnicalInformationHandler,
@@ -1512,7 +1512,7 @@ public class LogitBoost extends RandomizableIteratedSingleClassifierEnhancer
    * @return the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 15022 $");
   }
 
   /**

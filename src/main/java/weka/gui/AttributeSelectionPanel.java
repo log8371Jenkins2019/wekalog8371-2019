@@ -67,7 +67,7 @@ import weka.core.Instances;
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14428 $
  */
 public class AttributeSelectionPanel extends JPanel {
 

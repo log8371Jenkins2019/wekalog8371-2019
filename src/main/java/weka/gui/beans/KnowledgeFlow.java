@@ -31,7 +31,7 @@ import java.util.List;
  * Startup class for the KnowledgeFlow. Displays a splash screen.
  *
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 12269 $
  */
 public class KnowledgeFlow {
 

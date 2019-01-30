@@ -28,7 +28,7 @@ import weka.gui.scripting.Script;
  * Event that gets sent when a script is executed.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ScriptExecutionEvent
   extends EventObject {
@@ -40,7 +40,7 @@ public class ScriptExecutionEvent
    * Defines the type of event.
    * 
    * @author  fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   public enum Type {
     /** started execution. */

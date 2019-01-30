@@ -68,7 +68,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  * @see Saver
  */
 public class SVMLightSaver extends AbstractFileSaver implements BatchConverter,
@@ -432,7 +432,7 @@ public class SVMLightSaver extends AbstractFileSaver implements BatchConverter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   /**

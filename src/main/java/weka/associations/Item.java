@@ -29,7 +29,7 @@ import weka.core.Attribute;
  * is a value of a nominal attribute, so this class has a backing Attribute.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com).
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class Item implements Serializable, Comparable<Item> {
   

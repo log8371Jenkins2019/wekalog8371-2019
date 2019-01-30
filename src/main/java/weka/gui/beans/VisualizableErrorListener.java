@@ -27,7 +27,7 @@ import java.util.EventListener;
  * Interface to something that can accept VisualizableErrorEvents
  *
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 8034 $
  * @since 1.0
  * @see EventListener
  */

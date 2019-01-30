@@ -30,7 +30,7 @@ import java.awt.Graphics;
  * etc.)
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface Plot2DCompanion {
 

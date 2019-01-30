@@ -51,7 +51,7 @@ import weka.core.Utils;
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  * @see Loader
  */
 public class ArffLoader extends AbstractFileLoader implements BatchConverter,
@@ -110,7 +110,7 @@ public class ArffLoader extends AbstractFileLoader implements BatchConverter,
    * @author Eibe Frank (eibe@cs.waikato.ac.nz)
    * @author Len Trigg (trigg@cs.waikato.ac.nz)
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 14534 $
    */
   public static class ArffReader implements RevisionHandler {
 
@@ -1051,7 +1051,7 @@ public class ArffLoader extends AbstractFileLoader implements BatchConverter,
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 14534 $");
     }
   }
 
@@ -1347,7 +1347,7 @@ public class ArffLoader extends AbstractFileLoader implements BatchConverter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

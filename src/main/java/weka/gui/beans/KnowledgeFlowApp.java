@@ -136,7 +136,7 @@ import java.util.Vector;
  * with swt provided by Davide Zerbetto (davide dot zerbetto at eng dot it).
  * 
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 14497 $
  * @since 1.0
  * @see JPanel
  * @see PropertyChangeListener
@@ -705,7 +705,7 @@ public class KnowledgeFlowApp extends JPanel implements PropertyChangeListener,
    * Used for displaying the bean components and their visible connections
    *
    * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
-   * @version $Revision$
+   * @version $Revision: 14497 $
    * @since 1.0
    * @see PrintablePanel
    */

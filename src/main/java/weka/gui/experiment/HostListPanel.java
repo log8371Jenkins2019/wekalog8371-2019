@@ -46,7 +46,7 @@ import weka.experiment.RemoteExperiment;
  * use.
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class HostListPanel
   extends JPanel

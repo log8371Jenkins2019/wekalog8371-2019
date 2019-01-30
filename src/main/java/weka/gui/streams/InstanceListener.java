@@ -28,7 +28,7 @@ import java.util.EventListener;
  * An interface for objects interested in listening to streams of instances.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface InstanceListener extends EventListener {
   

@@ -34,7 +34,7 @@ import weka.core.Attribute;
  * results in the explorer.
  * 
  * @author Jeffery Grajkowski (grajkows@cs.ualberta.ca)
- * @version $Revision$
+ * @version $Revision: 10216 $
  */
 public interface VisualizePlugin {
 

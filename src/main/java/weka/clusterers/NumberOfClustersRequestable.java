@@ -26,7 +26,7 @@ package weka.clusterers;
  * clusters
  *
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface NumberOfClustersRequestable {
   

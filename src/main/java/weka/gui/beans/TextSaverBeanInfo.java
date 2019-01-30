@@ -29,7 +29,7 @@ import java.beans.SimpleBeanInfo;
  * 
  * @author (thuvh87{[at]}gmail{[dot]}com)
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9238 $
  */
 public class TextSaverBeanInfo extends SimpleBeanInfo {
 

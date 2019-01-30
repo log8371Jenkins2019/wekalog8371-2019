@@ -45,7 +45,7 @@ import weka.gui.ComponentHelper;
  * A simple panel for displaying information, e.g. progress information etc.
  *
  * @author      FracPete (fracpete at waikato dot ac dot nz)
- * @version     $Revision$
+ * @version     $Revision: 8034 $
  */
 
 public class InfoPanel

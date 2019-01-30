@@ -28,7 +28,7 @@ import junit.framework.TestSuite;
  * Tests the pmml SupportVectorMachineModel classifier.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10160 $
  */
 public class SupportVectorMachineModelTest extends AbstractPMMLClassifierTest {
 

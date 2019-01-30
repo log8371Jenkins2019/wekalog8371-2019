@@ -35,7 +35,7 @@ import junit.framework.TestSuite;
  * java weka.filters.supervised.attribute.AttributeSelectionTest
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class AttributeSelectionTest extends AbstractFilterTest {
   

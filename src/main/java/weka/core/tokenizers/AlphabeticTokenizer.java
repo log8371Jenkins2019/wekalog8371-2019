@@ -32,7 +32,7 @@ import weka.core.RevisionUtils;
  * 
  * @author Asrhaf M. Kibriya (amk14@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class AlphabeticTokenizer extends Tokenizer {
 
@@ -133,7 +133,7 @@ public class AlphabeticTokenizer extends Tokenizer {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   /**

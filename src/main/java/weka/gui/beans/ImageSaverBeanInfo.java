@@ -29,7 +29,7 @@ import java.beans.SimpleBeanInfo;
  * BeanInfo class for the ImageSaver component.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ImageSaverBeanInfo extends SimpleBeanInfo {
   

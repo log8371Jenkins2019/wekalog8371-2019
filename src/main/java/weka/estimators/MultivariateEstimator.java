@@ -24,7 +24,7 @@ package weka.estimators;
  * Interface to Multivariate Distribution Estimation
  * 
  * @author Uday Kamath, PhD candidate George Mason University
- * @version $Revision$
+ * @version $Revision: 12743 $
  */
 public interface MultivariateEstimator {
 

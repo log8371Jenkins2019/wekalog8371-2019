@@ -25,7 +25,7 @@ package weka.core;
  * descriptive than the class name.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface CustomDisplayStringProvider {
 

@@ -44,7 +44,7 @@ import java.util.Vector;
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14285 $
  * @see Serializable
  */
 public class ConverterUtils implements Serializable, RevisionHandler {
@@ -64,7 +64,7 @@ public class ConverterUtils implements Serializable, RevisionHandler {
    * and already loaded datasets.
    * 
    * @author FracPete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 14285 $
    * @see #hasMoreElements(Instances)
    * @see #nextElement(Instances)
    * @see #reset()
@@ -512,7 +512,7 @@ public class ConverterUtils implements Serializable, RevisionHandler {
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 14285 $");
     }
   }
 
@@ -522,7 +522,7 @@ public class ConverterUtils implements Serializable, RevisionHandler {
    * counterpart to <code>DataSource</code>.
    * 
    * @author FracPete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 14285 $
    * @see DataSource
    */
   public static class DataSink implements Serializable, RevisionHandler {
@@ -666,7 +666,7 @@ public class ConverterUtils implements Serializable, RevisionHandler {
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 14285 $");
     }
   }
 
@@ -948,6 +948,6 @@ public class ConverterUtils implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14285 $");
   }
 }

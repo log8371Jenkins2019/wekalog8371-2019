@@ -69,7 +69,7 @@ import weka.filters.unsupervised.instance.RemoveWithValues;
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
  * 
- * @version $Revision$
+ * @version $Revision: 9248 $
  */
 public class MultiClassClassifierUpdateable extends MultiClassClassifier
     implements OptionHandler, UpdateableClassifier {
@@ -213,7 +213,7 @@ public class MultiClassClassifierUpdateable extends MultiClassClassifier
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 9248 $");
   }
 
   /**

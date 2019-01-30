@@ -43,7 +43,7 @@ import weka.core.Instances;
 
 /**
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 11506 $
  */
 public class ClassValuePickerCustomizer
   extends JPanel

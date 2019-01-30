@@ -37,7 +37,7 @@ import java.lang.annotation.Target;
  * standard Weka classifiers, clusterers, associators, loaders etc.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 @Documented
 @Retention(RetentionPolicy.RUNTIME)

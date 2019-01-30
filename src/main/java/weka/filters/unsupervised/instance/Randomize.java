@@ -49,7 +49,7 @@ import weka.gui.ProgrammaticProperty;
  * <!-- options-end -->
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class Randomize extends Filter implements UnsupervisedFilter,
   OptionHandler, Randomizable, WeightedInstancesHandler, WeightedAttributesHandler {
@@ -285,7 +285,7 @@ public class Randomize extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

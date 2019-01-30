@@ -56,7 +56,7 @@ import weka.gui.sql.event.QueryExecuteListener;
  * Represents a panel for entering an SQL query.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class QueryPanel extends JPanel implements ConnectionListener,
   CaretListener {

@@ -37,7 +37,7 @@ import java.util.Comparator;
  *
  * @see     Instance
  * @author  FracPete (fracpete at cs dot waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14912 $
  * @see     java.util.Arrays
  * @see     java.util.Collections
  */
@@ -232,7 +232,7 @@ public class InstanceComparator
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14912 $");
   }
   
   /**

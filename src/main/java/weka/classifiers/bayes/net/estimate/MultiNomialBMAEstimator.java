@@ -58,7 +58,7 @@ import weka.estimators.Estimator;
  * 
  * <!-- options-end -->
  * 
- * @version $Revision$
+ * @version $Revision: 12470 $
  * @author Remco Bouckaert (rrb@xm.co.nz)
  */
 public class MultiNomialBMAEstimator extends BayesNetEstimator {
@@ -390,6 +390,6 @@ public class MultiNomialBMAEstimator extends BayesNetEstimator {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12470 $");
   }
 } // class MultiNomialBMAEstimator

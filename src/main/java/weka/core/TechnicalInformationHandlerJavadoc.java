@@ -60,7 +60,7 @@ import java.util.Vector;
  * <!-- options-end -->
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14293 $
  * @see #PLAINTEXT_STARTTAG
  * @see #PLAINTEXT_ENDTAG
  * @see #BIBTEX_STARTTAG
@@ -229,7 +229,7 @@ public class TechnicalInformationHandlerJavadoc extends Javadoc {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14293 $");
   }
 
   /**

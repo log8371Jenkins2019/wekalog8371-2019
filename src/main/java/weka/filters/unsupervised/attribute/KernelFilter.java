@@ -198,7 +198,7 @@ import weka.filters.UnsupervisedFilter;
  * 
  * @author Jonathan Miles (jdm18@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14271 $
  */
 public class KernelFilter extends SimpleBatchFilter implements
   UnsupervisedFilter, TechnicalInformationHandler {
@@ -983,7 +983,7 @@ public class KernelFilter extends SimpleBatchFilter implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14271 $");
   }
 
   /**

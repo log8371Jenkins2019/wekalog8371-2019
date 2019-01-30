@@ -86,7 +86,7 @@ import weka.filters.UnsupervisedFilter;
  * @author Mark Hall (mhall@cs.waikato.ac.nz) -- attribute selection code
  * @author Gabi Schmidberger (gabi@cs.waikato.ac.nz) -- attribute selection code
  * @author fracpete (fracpete at waikato dot ac dot nz) -- filter code
- * @version $Revision$
+ * @version $Revision: 12660 $
  */
 public class PrincipalComponents extends Filter implements OptionHandler,
   UnsupervisedFilter {
@@ -853,7 +853,7 @@ public class PrincipalComponents extends Filter implements OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12660 $");
   }
 
   /**

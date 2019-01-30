@@ -32,7 +32,7 @@ import weka.core.RevisionUtils;
  * Helper class for using stream tokenizers
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9284 $
  */
 public class StreamTokenizerUtils implements Serializable, RevisionHandler {
 
@@ -41,7 +41,7 @@ public class StreamTokenizerUtils implements Serializable, RevisionHandler {
 
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 9284 $");
   }
 
   /**

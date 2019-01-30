@@ -101,7 +101,7 @@ import weka.filters.SupervisedFilter;
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class Discretize extends Filter implements SupervisedFilter,
   OptionHandler, WeightedInstancesHandler, WeightedAttributesHandler, TechnicalInformationHandler {
@@ -1224,7 +1224,7 @@ public class Discretize extends Filter implements SupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

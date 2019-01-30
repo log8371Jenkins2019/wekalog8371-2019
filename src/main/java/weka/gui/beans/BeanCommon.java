@@ -35,7 +35,7 @@ import java.beans.EventSetDescriptor;
  * perhaps a limited number of sources.
  *
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  * @since 1.0
  */
 public interface BeanCommon {

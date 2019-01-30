@@ -236,7 +236,7 @@ public class SimpleCLIPanel extends ScriptingPanel implements ActionListener,
    * thread.
    * 
    * @author Len Trigg (trigg@cs.waikato.ac.nz)
-   * @version $Revision$
+   * @version $Revision: 14983 $
    */
   public static class ClassRunner extends Thread {
 
@@ -354,7 +354,7 @@ public class SimpleCLIPanel extends ScriptingPanel implements ActionListener,
    * A class for commandline completion of classnames.
    * 
    * @author FracPete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 14983 $
    */
   public static class CommandlineCompletion {
 

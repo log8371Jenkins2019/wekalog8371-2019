@@ -43,7 +43,7 @@ import java.util.Date;
  * messages.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class LogPanel extends JPanel implements Logger, TaskLogger {
 

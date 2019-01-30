@@ -35,7 +35,7 @@ import weka.core.RevisionUtils;
  * target="_blank">Jython</a>.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class Jython implements Serializable, RevisionHandler {
 
@@ -294,7 +294,7 @@ public class Jython implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   /**

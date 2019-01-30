@@ -93,7 +93,7 @@ import weka.core.TechnicalInformationHandler;
  <!-- options-end -->
  *
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class M5Rules 
   extends M5Base
@@ -154,7 +154,7 @@ public class M5Rules
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 
   /**

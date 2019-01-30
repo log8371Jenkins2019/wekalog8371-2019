@@ -27,7 +27,7 @@ import java.util.EventListener;
  * Interface to something that can process a BatchClustererEvent
  *
  * @author <a href="mailto:mutter@cs.waikato.ac.nz">MStefan Mutter</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  * @see EventListener
  */
 public interface BatchClustererListener extends EventListener {

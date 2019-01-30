@@ -26,7 +26,7 @@ package weka.gui.treevisualizer;
  * arrange them
  *
  * @author Malcolm F Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface NodePlace {
  

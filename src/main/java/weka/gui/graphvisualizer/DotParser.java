@@ -38,7 +38,7 @@ import java.util.ArrayList;
  * with things like subgraphs and grouping of nodes.
  * 
  * @author Ashraf M. Kibriya (amk14@cs.waikato.ac.nz)
- * @version $Revision$ - 23 Apr 2003 - Initial version (Ashraf M.
+ * @version $Revision: 10222 $ - 23 Apr 2003 - Initial version (Ashraf M.
  *          Kibriya)
  */
 public class DotParser implements GraphConstants {

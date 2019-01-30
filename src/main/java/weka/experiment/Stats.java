@@ -107,7 +107,7 @@ import weka.core.Utils;
  * </ol>
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14074 $
  */
 public class Stats
 implements Serializable, RevisionHandler {
@@ -345,7 +345,7 @@ implements Serializable, RevisionHandler {
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14074 $");
   }
 
   /**

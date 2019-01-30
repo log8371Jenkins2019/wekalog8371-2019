@@ -31,7 +31,7 @@ import java.awt.Window;
  * Frame whenever it suits them.
  *
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface CustomizerCloseRequester {
 

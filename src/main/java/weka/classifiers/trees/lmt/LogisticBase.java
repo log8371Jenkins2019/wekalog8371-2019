@@ -51,7 +51,7 @@ import weka.core.WeightedInstancesHandler;
  * 
  * @author Niels Landwehr
  * @author Marc Sumner
- * @version $Revision$
+ * @version $Revision: 14203 $
  */
 public class LogisticBase extends AbstractClassifier implements
   WeightedInstancesHandler {
@@ -1207,6 +1207,6 @@ public class LogisticBase extends AbstractClassifier implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14203 $");
   }
 }

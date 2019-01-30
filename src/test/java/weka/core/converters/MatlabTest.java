@@ -29,7 +29,7 @@ import junit.framework.TestSuite;
  * java weka.core.converters.MatlabTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class MatlabTest 
   extends AbstractFileConverterTest {

@@ -37,7 +37,7 @@ import weka.core.RevisionUtils;
  * @author John Langford (original C++ code)
  * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
  *         (Java port)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class Stack<T> implements Serializable, RevisionHandler {
 
@@ -173,6 +173,6 @@ public class Stack<T> implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 }

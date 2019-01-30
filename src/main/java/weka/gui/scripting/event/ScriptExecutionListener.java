@@ -24,7 +24,7 @@ package weka.gui.scripting.event;
  * For classes that want to be notified about changes in the script execution.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface ScriptExecutionListener {
   

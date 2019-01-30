@@ -26,7 +26,7 @@ package weka.estimators;
  * Interface for an incremental probability estimators.<p>
  *
  * @author Gabi Schmidberger (gabi@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface IncrementalEstimator {
 

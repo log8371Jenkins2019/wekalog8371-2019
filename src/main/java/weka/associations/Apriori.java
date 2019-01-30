@@ -171,7 +171,7 @@ import weka.filters.unsupervised.attribute.Remove;
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
  * @author Stefan Mutter (mutter@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12014 $
  */
 public class Apriori extends AbstractAssociator implements OptionHandler,
   AssociationRulesProducer, CARuleMiner, TechnicalInformationHandler {
@@ -1961,7 +1961,7 @@ public class Apriori extends AbstractAssociator implements OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12014 $");
   }
 
   /**

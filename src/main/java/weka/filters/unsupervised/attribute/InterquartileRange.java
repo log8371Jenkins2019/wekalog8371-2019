@@ -108,7 +108,7 @@ import weka.filters.SimpleBatchFilter;
  * 
  * @author Dale Fletcher (dale at cs dot waikato dot ac dot nz)
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class InterquartileRange extends SimpleBatchFilter implements WeightedAttributesHandler {
 
@@ -1004,7 +1004,7 @@ public class InterquartileRange extends SimpleBatchFilter implements WeightedAtt
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

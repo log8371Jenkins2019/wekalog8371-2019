@@ -31,7 +31,7 @@ import weka.filters.Filter;
  * java weka.filters.unsupervised.attribute.ReplaceMissingWithUserConstantTest
  * 
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 10160 $
  */
 public class ReplaceMissingWithUserConstantTest extends AbstractFilterTest {
 

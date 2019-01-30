@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.clusterers.HierarchicalClustererTest
  *
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class HierarchicalClustererTest
   extends AbstractClustererTest {

@@ -65,7 +65,7 @@ import weka.core.expressionlanguage.weka.InstancesHelper;
  * 
  * @author Mark Hall
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11868 $
  * @see weka.core.UnsupportedAttributeTypeException
  */
 public class CostMatrix implements Serializable, RevisionHandler {
@@ -848,7 +848,7 @@ public class CostMatrix implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11868 $");
   }
 
   private static class InstanceExpression {

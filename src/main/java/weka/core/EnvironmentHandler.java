@@ -30,7 +30,7 @@ package weka.core;
  * <code>weka.core.Environment.getSystemWide()</code>
  * 
  * @author mhall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface EnvironmentHandler {
   

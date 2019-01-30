@@ -42,7 +42,7 @@ import weka.core.EnvironmentHandler;
  * 
  * @author thuvh (thuvh87{[at]}gmail{[dot]}com)
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9238 $
  */
 public class TextSaverCustomizer extends JPanel implements BeanCustomizer,
     EnvironmentHandler, CustomizerClosingListener, CustomizerCloseRequester {

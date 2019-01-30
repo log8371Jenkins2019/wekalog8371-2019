@@ -28,7 +28,7 @@ import java.util.EventListener;
  * A listener for changes in a history.
  *
  * @author      FracPete (fracpete at waikato dot ac dot nz)
- * @version     $Revision$
+ * @version     $Revision: 8034 $
  */
 
 public interface HistoryChangedListener extends EventListener {

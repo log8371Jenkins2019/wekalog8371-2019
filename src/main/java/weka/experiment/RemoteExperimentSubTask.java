@@ -32,7 +32,7 @@ import weka.core.SerializedObject;
  * host.
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 13909 $
  */
 public class RemoteExperimentSubTask implements Task, RevisionHandler {
 
@@ -139,6 +139,6 @@ public class RemoteExperimentSubTask implements Task, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 13909 $");
   }
 }

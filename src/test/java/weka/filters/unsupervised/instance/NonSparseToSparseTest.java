@@ -32,7 +32,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.instance.NonSparseToSparseTest
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class NonSparseToSparseTest extends AbstractFilterTest {
   

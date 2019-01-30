@@ -44,7 +44,7 @@ import weka.gui.ProgrammaticProperty;
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public abstract class Kernel implements Serializable, OptionHandler,
   CapabilitiesHandler, RevisionHandler {
@@ -242,7 +242,7 @@ public abstract class Kernel implements Serializable, OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

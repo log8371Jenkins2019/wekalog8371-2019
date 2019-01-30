@@ -27,7 +27,7 @@ import java.util.EventListener;
  * Interface to something that can be notified of a successful startup
  *
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface StartUpListener extends EventListener {
 

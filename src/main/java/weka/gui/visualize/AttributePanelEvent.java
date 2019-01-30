@@ -27,7 +27,7 @@ package weka.gui.visualize;
  * attributes.
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class AttributePanelEvent {
 

@@ -40,7 +40,7 @@ import weka.core.Utils;
  * A general purpose server for executing Task objects sent via RMI.
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11247 $
  */
 public class RemoteEngine extends UnicastRemoteObject implements Compute,
   RevisionHandler {
@@ -304,7 +304,7 @@ public class RemoteEngine extends UnicastRemoteObject implements Compute,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11247 $");
   }
 
   /**

@@ -68,7 +68,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Remco Bouckaert
- * @version $Revision$
+ * @version $Revision: 10154 $
  */
 public class ICSSearchAlgorithm extends CISearchAlgorithm {
 
@@ -142,7 +142,7 @@ public class ICSSearchAlgorithm extends CISearchAlgorithm {
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10154 $");
     }
 
   } // class sepset
@@ -615,7 +615,7 @@ public class ICSSearchAlgorithm extends CISearchAlgorithm {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10154 $");
   }
 
   /**

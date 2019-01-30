@@ -34,7 +34,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.attribute.KernelFilterTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 9568 $
  */
 public class KernelFilterTest 
   extends AbstractFilterTest {

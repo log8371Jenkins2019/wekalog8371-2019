@@ -33,7 +33,7 @@ import org.w3c.dom.Element;
  * Class for encapsulating a PMML Array element.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class Array implements Serializable {
 

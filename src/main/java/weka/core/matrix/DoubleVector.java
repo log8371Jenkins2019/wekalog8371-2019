@@ -31,7 +31,7 @@ import weka.core.RevisionUtils;
  * A vector specialized on doubles.
  * 
  * @author Yong Wang
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class DoubleVector implements Cloneable, RevisionHandler {
 
@@ -855,7 +855,7 @@ public class DoubleVector implements Cloneable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   public static void main(String args[]) {

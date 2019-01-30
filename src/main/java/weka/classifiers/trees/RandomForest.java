@@ -184,7 +184,7 @@ import java.util.Vector;
  * <!-- options-end -->
  * 
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 13295 $
  */
 public class RandomForest extends Bagging {
 
@@ -851,7 +851,7 @@ public class RandomForest extends Bagging {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 13295 $");
   }
 
   /**

@@ -35,7 +35,7 @@ import weka.core.RevisionUtils;
  * Abstract class for splitting a ball tree's BallNode.
  * 
  * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public abstract class BallSplitter implements Serializable, OptionHandler,
   RevisionHandler {
@@ -174,6 +174,6 @@ public abstract class BallSplitter implements Serializable, OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 }

@@ -63,7 +63,7 @@ import weka.filters.UnsupervisedFilter;
  * <!-- options-end -->
  * 
  * @author Kathryn Hempstalk (kah18 at cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class MergeManyValues extends PotentialClassIgnorer implements UnsupervisedFilter,
   StreamableFilter, OptionHandler, WeightedInstancesHandler, WeightedAttributesHandler {
@@ -439,7 +439,7 @@ public class MergeManyValues extends PotentialClassIgnorer implements Unsupervis
    */
   @Override
   public String getRevision() {
-    return "$Revision$";
+    return "$Revision: 14534 $";
   }
 
   /**

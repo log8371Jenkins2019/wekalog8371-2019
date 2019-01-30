@@ -34,7 +34,7 @@ import weka.core.RevisionUtils;
  * the property; the property descriptor, and the current value.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class PropertyNode implements Serializable, RevisionHandler {
 
@@ -132,6 +132,6 @@ public class PropertyNode implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 } // PropertyNode

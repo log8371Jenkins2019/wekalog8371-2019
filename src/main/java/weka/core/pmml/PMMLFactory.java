@@ -57,7 +57,7 @@ import weka.gui.Logger;
  * This class is a factory class for reading/writing PMML models
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class PMMLFactory {
 
@@ -566,7 +566,7 @@ public class PMMLFactory {
 
     @Override
     public String getRevision() {
-      return weka.core.RevisionUtils.extract("$Revision$");
+      return weka.core.RevisionUtils.extract("$Revision: 10203 $");
     }
 
     public void evaluatePMMLClassifier(String[] options) {

@@ -56,7 +56,7 @@ import java.util.Vector;
  * <!-- options-end -->
  *
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class NumericToNominal extends SimpleBatchFilter implements WeightedInstancesHandler, WeightedAttributesHandler {
 
@@ -432,7 +432,7 @@ public class NumericToNominal extends SimpleBatchFilter implements WeightedInsta
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

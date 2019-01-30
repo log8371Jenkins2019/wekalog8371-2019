@@ -74,7 +74,7 @@ import java.util.Map;
  * @see #m_PSFontReplacement
  * @author Dale Fletcher (dale@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 
 public class PostscriptGraphics extends Graphics2D {

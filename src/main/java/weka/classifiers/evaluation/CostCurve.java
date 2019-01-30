@@ -37,7 +37,7 @@ import weka.core.RevisionUtils;
  * higher than 0.5 for the instance to be predicted as "positive".
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10169 $
  */
 
 public class CostCurve implements RevisionHandler {
@@ -143,7 +143,7 @@ public class CostCurve implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10169 $");
   }
 
   /**

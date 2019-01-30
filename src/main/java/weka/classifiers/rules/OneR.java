@@ -82,7 +82,7 @@ import weka.core.WekaException;
  * <!-- options-end -->
  * 
  * @author Ian H. Witten (ihw@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 public class OneR extends AbstractClassifier implements
   TechnicalInformationHandler, Sourcable {
@@ -233,7 +233,7 @@ public class OneR extends AbstractClassifier implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10153 $");
     }
   }
 
@@ -788,7 +788,7 @@ public class OneR extends AbstractClassifier implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 
   /**

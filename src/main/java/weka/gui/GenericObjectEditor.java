@@ -97,7 +97,7 @@ import java.util.Vector;
  * @author Xin Xu (xx5@cs.waikato.ac.nz)
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14914 $
  */
 public class GenericObjectEditor implements PropertyEditor, CustomPanelSupplier {
 

@@ -32,7 +32,7 @@ import weka.core.Utils;
  * Class implementing a binary C4.5-like split on an attribute.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14912 $
  */
 public class BinC45Split extends ClassifierSplitModel {
 
@@ -508,6 +508,6 @@ public class BinC45Split extends ClassifierSplitModel {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14912 $");
   }
 }

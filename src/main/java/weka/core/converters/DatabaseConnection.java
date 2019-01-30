@@ -34,7 +34,7 @@ import weka.experiment.DatabaseUtils;
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author Stefan Mutter (mutter@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class DatabaseConnection 
   extends DatabaseUtils {
@@ -124,6 +124,6 @@ public class DatabaseConnection
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 }

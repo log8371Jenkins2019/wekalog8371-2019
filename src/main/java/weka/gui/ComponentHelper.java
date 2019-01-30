@@ -34,7 +34,7 @@ import javax.swing.JOptionPane;
  *
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$ 
+ * @version $Revision: 8034 $ 
  */
 
 public class ComponentHelper {

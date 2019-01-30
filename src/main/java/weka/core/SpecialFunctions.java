@@ -26,7 +26,7 @@ package weka.core;
  * Class implementing some mathematical functions.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14912 $
  */
 public final class SpecialFunctions
   implements RevisionHandler {
@@ -89,7 +89,7 @@ public final class SpecialFunctions
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14912 $");
   }
 
   /**

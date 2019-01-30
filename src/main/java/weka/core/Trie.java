@@ -36,7 +36,7 @@ import javax.swing.tree.DefaultMutableTreeNode;
  * WikiPedia.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class Trie implements Serializable, Cloneable, Collection<String>,
   RevisionHandler {
@@ -48,7 +48,7 @@ public class Trie implements Serializable, Cloneable, Collection<String>,
    * Represents a node in the trie.
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 10203 $
    */
   public static class TrieNode extends DefaultMutableTreeNode implements
     RevisionHandler {
@@ -430,7 +430,7 @@ public class Trie implements Serializable, Cloneable, Collection<String>,
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10203 $");
     }
   }
 
@@ -438,7 +438,7 @@ public class Trie implements Serializable, Cloneable, Collection<String>,
    * Represents an iterator over a trie
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 10203 $
    */
   public static class TrieIterator implements Iterator<String>, RevisionHandler {
 
@@ -508,7 +508,7 @@ public class Trie implements Serializable, Cloneable, Collection<String>,
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10203 $");
     }
   }
 
@@ -901,7 +901,7 @@ public class Trie implements Serializable, Cloneable, Collection<String>,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   /**

@@ -71,7 +71,7 @@ import weka.gui.ProgrammaticProperty;
  * <!-- options-end -->
  * 
  * @author Stuart Inglis (stuart@reeltwo.com)
- * @version $Revision$
+ * @version $Revision: 14534 $
  **/
 public class SpreadSubsample extends Filter implements SupervisedFilter,
   OptionHandler, Randomizable, WeightedAttributesHandler {
@@ -616,7 +616,7 @@ public class SpreadSubsample extends Filter implements SupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

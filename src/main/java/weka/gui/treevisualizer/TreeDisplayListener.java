@@ -30,7 +30,7 @@ package weka.gui.treevisualizer;
  * from a tree displayer.
  *
  * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface TreeDisplayListener {
 

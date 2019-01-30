@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.rules.ZeroRTest
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ZeroRTest extends AbstractClassifierTest {
   

@@ -28,7 +28,7 @@ import weka.core.Instances;
  * Abstract attribute transformer. Transforms the dataset.
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface AttributeTransformer {
     // ===============

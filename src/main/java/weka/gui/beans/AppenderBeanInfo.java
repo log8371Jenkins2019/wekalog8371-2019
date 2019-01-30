@@ -28,7 +28,7 @@ import java.beans.SimpleBeanInfo;
  * Bean info class for the appender bean
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10150 $
  */
 public class AppenderBeanInfo extends SimpleBeanInfo {
 

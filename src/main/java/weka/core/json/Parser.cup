@@ -41,7 +41,7 @@ import java.util.*;
  * A parser for parsing JSON files.
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 5785 $
  */
 
 parser code {:

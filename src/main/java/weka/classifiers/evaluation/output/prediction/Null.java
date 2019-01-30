@@ -58,7 +58,7 @@ import weka.core.Instance;
  <!-- options-end -->
  *
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8937 $
  */
 public class Null
   extends AbstractOutput {

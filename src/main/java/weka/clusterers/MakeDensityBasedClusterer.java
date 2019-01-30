@@ -93,7 +93,7 @@ import weka.filters.unsupervised.attribute.ReplaceMissingValues;
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class MakeDensityBasedClusterer extends AbstractDensityBasedClusterer
   implements NumberOfClustersRequestable, OptionHandler,
@@ -621,7 +621,7 @@ public class MakeDensityBasedClusterer extends AbstractDensityBasedClusterer
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   /**

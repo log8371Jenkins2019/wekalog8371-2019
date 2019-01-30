@@ -818,7 +818,7 @@ public class NeuralNetwork extends PMMLClassifier {
    * @see weka.core.RevisionHandler#getRevision()
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
   
   /**                                                                                                             

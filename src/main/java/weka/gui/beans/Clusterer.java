@@ -52,7 +52,7 @@ import weka.gui.Logger;
  * Bean that wraps around weka.clusterers
  * 
  * @author <a href="mailto:mutter@cs.waikato.ac.nz">Stefan Mutter</a>
- * @version $Revision$
+ * @version $Revision: 10220 $
  * @see JPanel
  * @see BeanCommon
  * @see Visible

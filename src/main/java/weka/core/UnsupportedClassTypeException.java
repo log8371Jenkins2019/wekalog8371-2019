@@ -26,7 +26,7 @@ package weka.core;
  * class type of the data it has been passed.
  *
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class UnsupportedClassTypeException
   extends WekaException {

@@ -102,7 +102,7 @@ import weka.datagenerators.ClassificationGenerator;
  * 
  * @author Richard Kirkby (rkirkby at cs dot waikato dot ac dot nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 
 public class RandomRBF extends ClassificationGenerator {
@@ -644,7 +644,7 @@ public class RandomRBF extends ClassificationGenerator {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   /**

@@ -48,7 +48,7 @@ import weka.gui.scripting.event.TitleUpdatedListener;
  * Abstract ancestor for scripting panels.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class ScriptingPanel
   extends JPanel

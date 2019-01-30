@@ -30,7 +30,7 @@ import weka.associations.AssociationRules;
  * visualize association results in the explorer.
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface AssociationRuleVisualizePlugin {
 

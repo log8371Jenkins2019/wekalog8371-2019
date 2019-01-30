@@ -28,7 +28,7 @@ import weka.core.RevisionUtils;
  * neuralnode to perform all it's computations (as a Linear unit).
  *
  * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class LinearUnit
   implements NeuralMethod, RevisionHandler {
@@ -110,6 +110,6 @@ public class LinearUnit
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 }

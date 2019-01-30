@@ -34,7 +34,7 @@ import weka.core.RevisionHandler;
  * A superclass for all tokenizer algorithms.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public abstract class Tokenizer implements Enumeration<String>, OptionHandler,
   Serializable, RevisionHandler {

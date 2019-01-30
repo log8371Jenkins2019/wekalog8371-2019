@@ -26,7 +26,7 @@ package weka.core;
  * data is fixed to "bag/NOMINAL,data/RELATIONAL,class".
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface MultiInstanceCapabilitiesHandler
   extends CapabilitiesHandler {

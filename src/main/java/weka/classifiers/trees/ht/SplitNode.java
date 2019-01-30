@@ -31,7 +31,7 @@ import weka.core.Instance;
  * 
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10169 $
  */
 public class SplitNode extends HNode {
 

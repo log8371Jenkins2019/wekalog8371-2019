@@ -32,7 +32,7 @@ import java.lang.annotation.Target;
  * available in it's design pallete.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10998 $
  */
 @Documented
 @Retention(RetentionPolicy.RUNTIME)

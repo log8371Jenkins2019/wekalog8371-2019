@@ -34,7 +34,7 @@ import weka.core.Utils;
  * Class for handling a distribution of class values.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10531 $
  */
 public class Distribution implements Cloneable, Serializable, RevisionHandler {
 
@@ -763,6 +763,6 @@ public class Distribution implements Cloneable, Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10531 $");
   }
 }

@@ -26,7 +26,7 @@ package weka.core;
  * seeded with an integer.
  *
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface Randomizable {
 

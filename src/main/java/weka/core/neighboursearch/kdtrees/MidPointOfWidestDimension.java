@@ -55,7 +55,7 @@ import weka.core.TechnicalInformationHandler;
  <!-- options-end -->
  *
  * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class MidPointOfWidestDimension
   extends KDTreeNodeSplitter 
@@ -187,6 +187,6 @@ public class MidPointOfWidestDimension
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 }

@@ -74,7 +74,7 @@ import weka.filters.unsupervised.attribute.Remove;
  * <!-- options-end -->
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11215 $
  */
 public class OneRAttributeEval extends ASEvaluation implements
   AttributeEvaluator, OptionHandler {
@@ -466,7 +466,7 @@ public class OneRAttributeEval extends ASEvaluation implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11215 $");
   }
 
   @Override

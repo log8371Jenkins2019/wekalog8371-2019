@@ -56,7 +56,7 @@ import weka.filters.UnsupervisedFilter;
  * <!-- options-end -->
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14606 $
  */
 public class Reorder extends Filter implements UnsupervisedFilter,
   StreamableFilter, OptionHandler, WeightedAttributesHandler, WeightedInstancesHandler {
@@ -446,7 +446,7 @@ public class Reorder extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14606 $");
   }
 
   /**

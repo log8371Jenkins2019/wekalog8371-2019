@@ -90,7 +90,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11885 $
  */
 public class InstanceQuery extends DatabaseUtils implements OptionHandler,
   InstanceQueryAdapter {
@@ -734,6 +734,6 @@ public class InstanceQuery extends DatabaseUtils implements OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11885 $");
   }
 }

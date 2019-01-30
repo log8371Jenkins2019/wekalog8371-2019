@@ -33,7 +33,7 @@ import weka.core.RevisionUtils;
  * neighbour search (NNS) algorithm.
  * 
  * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
- * @version $Revision$
+ * @version $Revision: 10141 $
  */
 public class PerformanceStats
   implements AdditionalMeasureProducer, Serializable, RevisionHandler {
@@ -338,6 +338,6 @@ public class PerformanceStats
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10141 $");
   }
 }

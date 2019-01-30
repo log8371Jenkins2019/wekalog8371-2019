@@ -46,7 +46,7 @@ import weka.core.Utils;
  * </pre>
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public abstract class RegressionGenerator extends DataGenerator {
 

@@ -35,7 +35,7 @@ import javax.swing.text.StyledDocument;
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14867 $
  */
 public class ReaderToTextPane
   extends Thread {

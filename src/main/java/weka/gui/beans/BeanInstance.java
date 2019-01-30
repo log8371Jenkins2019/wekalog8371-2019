@@ -39,7 +39,7 @@ import javax.swing.JComponent;
  * Class that manages a set of beans.
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 10221 $
  * @since 1.0
  */
 public class BeanInstance implements Serializable {

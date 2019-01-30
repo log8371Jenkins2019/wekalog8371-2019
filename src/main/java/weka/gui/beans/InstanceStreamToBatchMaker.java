@@ -38,7 +38,7 @@ import weka.gui.Logger;
  * conjunction with the Reservoir sampling filter.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10220 $
  */
 @KFStep(category = "Flow", toolTipText = "Converts an incoming instance stream into a data set batch")
 public class InstanceStreamToBatchMaker extends JPanel implements BeanCommon,

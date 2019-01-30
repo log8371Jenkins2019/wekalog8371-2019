@@ -38,7 +38,7 @@ import weka.core.Utils;
  * attributes.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 9348 $
  */
 public class InstancesSummaryPanel extends JPanel {
 

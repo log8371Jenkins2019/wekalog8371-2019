@@ -42,7 +42,7 @@ import java.io.File;
  * tip-text.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class FileEnvironmentField extends EnvironmentField {
 

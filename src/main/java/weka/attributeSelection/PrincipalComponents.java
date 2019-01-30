@@ -76,7 +76,7 @@ import weka.filters.unsupervised.attribute.*;
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
  * @author Gabi Schmidberger (gabi@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12659 $
  */
 public class PrincipalComponents extends UnsupervisedAttributeEvaluator
   implements AttributeTransformer, OptionHandler {
@@ -1063,7 +1063,7 @@ public class PrincipalComponents extends UnsupervisedAttributeEvaluator
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12659 $");
   }
 
   /**

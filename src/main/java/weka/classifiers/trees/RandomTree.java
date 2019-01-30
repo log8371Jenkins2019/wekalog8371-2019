@@ -124,7 +124,7 @@ import java.util.Vector;
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 13865 $
  */
 public class RandomTree extends AbstractClassifier implements OptionHandler,
   WeightedInstancesHandler, Randomizable, Drawable, PartitionGenerator {
@@ -1998,7 +1998,7 @@ public class RandomTree extends AbstractClassifier implements OptionHandler,
      * @return the revision
      */
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 13865 $");
     }
 
     /**

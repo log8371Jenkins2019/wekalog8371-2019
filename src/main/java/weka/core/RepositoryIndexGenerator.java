@@ -53,7 +53,7 @@ import java.util.zip.ZipOutputStream;
  * 1 (or create the file with an initial value of 1 if it doesn't exist yet).
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 12051 $
  */
 public class RepositoryIndexGenerator {
 

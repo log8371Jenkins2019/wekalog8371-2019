@@ -95,7 +95,7 @@ import weka.estimators.Estimator;
  * <!-- options-end -->
  * 
  * @author Remco Bouckaert (rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 public class BIFReader extends BayesNet implements TechnicalInformationHandler {
 
@@ -663,7 +663,7 @@ public class BIFReader extends BayesNet implements TechnicalInformationHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 
   /**

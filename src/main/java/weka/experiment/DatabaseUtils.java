@@ -63,7 +63,7 @@ import java.util.Vector;
  * <p>
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 13477 $
  */
 public class DatabaseUtils implements Serializable, RevisionHandler {
 
@@ -1516,7 +1516,7 @@ public class DatabaseUtils implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 13477 $");
   }
 
   /**

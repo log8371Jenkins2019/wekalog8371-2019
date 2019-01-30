@@ -27,7 +27,7 @@ import weka.core.Instance;
  * at a time.
  * 
  * @author  FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10829 $
  */
 public interface UpdateableClusterer {
 

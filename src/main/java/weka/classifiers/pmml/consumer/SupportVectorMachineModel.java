@@ -45,7 +45,7 @@ import weka.gui.Logger;
  * Implements a PMML SupportVectorMachineModel
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class SupportVectorMachineModel extends PMMLClassifier 
   implements Serializable {
@@ -1030,7 +1030,7 @@ public class SupportVectorMachineModel extends PMMLClassifier
   }
   
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
   
   /**

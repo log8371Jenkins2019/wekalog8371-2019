@@ -53,7 +53,7 @@ import weka.gui.ViewerDialog;
  * 
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14589 $
  */
 public class ArffTable extends JTable {
 

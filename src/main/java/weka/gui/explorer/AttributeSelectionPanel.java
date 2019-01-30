@@ -93,7 +93,7 @@ import weka.gui.visualize.MatrixPanel;
  * results are accessible.
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 @PerspectiveInfo(ID = "weka.gui.explorer.attributeselectionpanel",
   title = "Select attributes",

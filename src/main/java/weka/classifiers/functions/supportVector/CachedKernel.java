@@ -39,7 +39,7 @@ import weka.core.Utils;
  * @author Stuart Inglis (stuart@reeltwo.com) (sparse vector code)
  * @author Steven Hugg (hugg@fasterlight.com) (refactored, LRU cache)
  * @author Bernhard Pfahringer (bernhard@cs.waikato.ac.nz) (full cache)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public abstract class CachedKernel extends Kernel {
 

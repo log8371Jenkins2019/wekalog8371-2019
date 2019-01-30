@@ -31,7 +31,7 @@ import junit.framework.TestSuite;
  * java weka.filters.supervised.attribute.ClassOrderTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ClassOrderTest 
   extends AbstractFilterTest {

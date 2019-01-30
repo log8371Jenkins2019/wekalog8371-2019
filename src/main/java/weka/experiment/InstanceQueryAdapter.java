@@ -27,7 +27,7 @@ package weka.experiment;
  * InstanceQuery.retrieveInstances(InstanceQueryAdapter, ResultSet).
  *
  * @author Wes Munsil (wes_munsil@cytoanalytics.com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface InstanceQueryAdapter
 {

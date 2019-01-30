@@ -54,7 +54,7 @@ import java.util.Vector;
  * can set a Capabilities filter.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14285 $
  * @see #setCapabilitiesFilter(Capabilities)
  */
 public class ConverterFileChooser extends JFileChooser {

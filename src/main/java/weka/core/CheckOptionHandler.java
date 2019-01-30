@@ -72,7 +72,7 @@ import java.util.Vector;
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class CheckOptionHandler extends Check {
 
@@ -601,7 +601,7 @@ public class CheckOptionHandler extends Check {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   /**

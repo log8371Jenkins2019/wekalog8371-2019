@@ -30,7 +30,7 @@ import java.util.ArrayList;
  * in the GOE for the modelPath property.
  * 
  * @author Mar Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  *
  */
 public class InputMappedClassifierBeanInfo extends SimpleBeanInfo {

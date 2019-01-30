@@ -66,7 +66,7 @@ import weka.core.Utils;
  <!-- options-end -->
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10141 $
  */
 public class MultiScheme 
   extends RandomizableMultipleClassifiersCombiner {
@@ -461,7 +461,7 @@ public class MultiScheme
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10141 $");
   }
 
   /**

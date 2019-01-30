@@ -98,7 +98,7 @@ import weka.filters.unsupervised.attribute.ReplaceMissingValues;
  * 
  * @author Eibe Frank (eibe{[at]}cs{[dot]}waikato{[dot]}ac{[dot]}nz)
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 14788 $
  * 
  */
 public class SGD extends RandomizableClassifier implements
@@ -953,7 +953,7 @@ public class SGD extends RandomizableClassifier implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14788 $");
   }
 
   protected int m_numModels = 0;

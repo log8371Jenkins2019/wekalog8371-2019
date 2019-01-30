@@ -32,7 +32,7 @@ import weka.core.Instances;
  * classification with standard output and information retrieval stats.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9556 $
  */
 public class EvaluationTest extends TestCase {
 
@@ -50,6 +50,35 @@ public class EvaluationTest extends TestCase {
     super(name);
   }
 
+  public void testRegression() throws Exception {
+    Instances inst = new Instances(new StringReader(DATA));
+    inst.setClassIndex(inst.numAttributes() - 1);
+    Evaluation eval = new Evaluation(inst);
+
+    for (int i = 0; i < inst.numInstances(); i++) {
+      eval.evaluateModelOnceAndRecordPrediction(PREDS[i], inst.instance(i));
+    }
+
+    String standard = eval.toSummaryString();
+    String info = eval.toClassDetailsString();
+
+    weka.test.Regression reg = new weka.test.Regression(getClass());
+
+    reg.println(standard);
+    reg.println(info);
+
+    try {
+      String diff = reg.diff();
+
+      if (diff == null) {
+        System.err.println("Warning: No reference available, creating.");
+      } else if (!diff.equals("")) {
+        fail("Regression tst failed. Difference:\n" + diff);
+      }
+    } catch (IOException ex) {
+      fail("Problem during regression testing.\n" + ex);
+    }
+  }
 
   public static Test suite() {
     return new TestSuite(weka.classifiers.evaluation.EvaluationTest.class);

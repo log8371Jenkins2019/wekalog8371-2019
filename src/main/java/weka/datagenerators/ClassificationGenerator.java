@@ -34,7 +34,7 @@ import weka.core.Utils;
  * 
  * @author Gabi Schmidberger (gabi@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public abstract class ClassificationGenerator extends DataGenerator {
 

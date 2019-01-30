@@ -33,7 +33,7 @@ import weka.gui.ExtensionFileFilter;
  * script.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class JythonScript extends Script {
 
@@ -44,7 +44,7 @@ public class JythonScript extends Script {
    * Executes a Jython script in a thread.
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 10222 $
    */
   public static class JythonThread extends ScriptThread {
 

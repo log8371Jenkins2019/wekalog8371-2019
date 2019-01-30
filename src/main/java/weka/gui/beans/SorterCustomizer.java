@@ -53,7 +53,7 @@ import weka.gui.PropertySheetPanel;
  * Customizer for the Sorter step
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8051 $
  *
  */
 public class SorterCustomizer extends JPanel implements BeanCustomizer,

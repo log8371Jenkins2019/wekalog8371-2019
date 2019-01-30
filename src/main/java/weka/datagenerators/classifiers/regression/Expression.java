@@ -109,7 +109,7 @@ import weka.filters.unsupervised.attribute.AddExpression;
  * <!-- options-end -->
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11504 $
  * @see AddExpression
  * @see MexicanHat
  */
@@ -474,7 +474,7 @@ public class Expression extends MexicanHat {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11504 $");
   }
 
   /**

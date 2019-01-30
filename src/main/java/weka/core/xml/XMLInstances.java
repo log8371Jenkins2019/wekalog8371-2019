@@ -48,7 +48,7 @@ import weka.core.Version;
  * XML representation of the Instances class.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class XMLInstances extends XMLDocument implements Serializable {
 
@@ -885,7 +885,7 @@ public class XMLInstances extends XMLDocument implements Serializable {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   /**

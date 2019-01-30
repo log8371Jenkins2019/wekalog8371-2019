@@ -72,7 +72,7 @@ import static weka.core.WekaPackageManager.DISABLE_KEY;
  * A GUI interface the the package management system.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 14904 $
  */
 public class PackageManager extends JPanel {
 

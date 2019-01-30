@@ -225,7 +225,7 @@ import java.util.Vector;
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Shane Legg (shane@intelligenesis.net) (sparse vector code)
  * @author Stuart Inglis (stuart@reeltwo.com) (sparse vector code)
- * @version $Revision$
+ * @version $Revision: 14825 $
  */
 public class SMO 
   extends AbstractClassifier 
@@ -1198,7 +1198,7 @@ public class SMO
      * @return		the revision
      */
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 14825 $");
     }
   }
 
@@ -2291,7 +2291,7 @@ public class SMO
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14825 $");
   }
   
   /**

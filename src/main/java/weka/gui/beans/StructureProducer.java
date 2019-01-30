@@ -38,7 +38,7 @@ import weka.core.Instances;
  * any implementing class can return null to indicate this. 
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  *
  */
 public interface StructureProducer {

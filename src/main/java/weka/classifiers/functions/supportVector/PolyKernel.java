@@ -72,7 +72,7 @@ import weka.core.Utils;
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Shane Legg (shane@intelligenesis.net) (sparse vector code)
  * @author Stuart Inglis (stuart@reeltwo.com) (sparse vector code)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class PolyKernel extends CachedKernel {
 
@@ -355,6 +355,6 @@ public class PolyKernel extends CachedKernel {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 }

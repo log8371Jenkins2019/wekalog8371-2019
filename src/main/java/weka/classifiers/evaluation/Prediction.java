@@ -26,7 +26,7 @@ package weka.classifiers.evaluation;
  * actual class value.
  *
  * @author Len Trigg (len@reeltwo.com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface Prediction {
 

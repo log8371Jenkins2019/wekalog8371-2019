@@ -35,7 +35,7 @@ import weka.filters.unsupervised.attribute.Add;
  * 1 with the instances) can also be provided.
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 15074 $
  */
 public class PlotData2D implements Serializable {
 

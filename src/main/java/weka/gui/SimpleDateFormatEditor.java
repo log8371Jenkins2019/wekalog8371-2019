@@ -43,7 +43,7 @@ import javax.swing.event.DocumentListener;
  * Class for editing SimpleDateFormat strings. 
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  * @see SimpleDateFormat
  */
 public class SimpleDateFormatEditor 

@@ -31,7 +31,7 @@ import weka.core.Instances;
  * Class encapsulating an incrementally built classifier and current instance
  *
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  * @since 1.0
  * @see EventObject
  */

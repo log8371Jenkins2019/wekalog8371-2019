@@ -34,7 +34,7 @@ import weka.core.Instances;
  * index of an attribute given its name.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class AbstractOffscreenChartRenderer implements OffscreenChartRenderer {
   

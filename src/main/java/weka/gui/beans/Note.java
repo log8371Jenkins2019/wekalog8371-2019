@@ -32,7 +32,7 @@ import javax.swing.JPanel;
  * Simple bean for displaying a textual note on the layout.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  *
  */
 public class Note extends JPanel {

@@ -27,7 +27,7 @@ import java.util.Random;
  * Class implementing some simple random variates generator.
  *
  * @author Xin Xu (xx5@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public final class RandomVariates extends Random implements RevisionHandler {
 
@@ -229,7 +229,7 @@ public final class RandomVariates extends Random implements RevisionHandler {
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 
 

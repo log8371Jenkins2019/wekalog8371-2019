@@ -55,7 +55,7 @@ import java.util.Random;
  * value are displayed in black.
  * 
  * @author Ashraf M. Kibriya (amk14@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class MatrixPanel extends JPanel {
 

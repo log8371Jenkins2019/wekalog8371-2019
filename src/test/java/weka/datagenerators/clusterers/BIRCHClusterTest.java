@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.datagenerators.clusterers.BIRCHClusterTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class BIRCHClusterTest 
   extends AbstractDataGeneratorTest {

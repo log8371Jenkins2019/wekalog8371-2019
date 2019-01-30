@@ -31,7 +31,7 @@ import java.util.HashSet;
  * associating names with the alternative behaviours.
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a> 
- * @version $Revision$
+ * @version $Revision: 11718 $
  */
 public class SelectedTag
   implements RevisionHandler, Serializable {
@@ -155,6 +155,6 @@ public class SelectedTag
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11718 $");
   }
 }

@@ -55,7 +55,7 @@ import weka.gui.PropertySelectorDialog;
  * property for an experiment to iterate over.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10295 $
  */
 public class GeneratorPropertyIteratorPanel extends JPanel implements
   ActionListener {

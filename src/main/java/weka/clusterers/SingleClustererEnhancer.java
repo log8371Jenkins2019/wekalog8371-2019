@@ -35,7 +35,7 @@ import weka.core.Utils;
  * Meta-clusterer for enhancing a base clusterer.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public abstract class SingleClustererEnhancer extends AbstractClusterer
   implements OptionHandler {

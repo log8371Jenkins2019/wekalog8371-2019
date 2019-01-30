@@ -36,7 +36,7 @@ import weka.core.Instances;
  * A bean that saves a stream of instances to a file.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class InstanceSavePanel
   extends Panel

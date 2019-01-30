@@ -40,7 +40,7 @@ import weka.gui.Logger;
  * 
  * @author thuvh (thuvh87{[at]}gmail{[dot]}com)
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9250 $
  */
 @KFStep(category = "DataSinks", toolTipText = "Save text output to a file")
 public class TextSaver extends JPanel implements TextListener, BeanCommon,

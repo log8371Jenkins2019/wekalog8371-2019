@@ -52,7 +52,7 @@ import weka.experiment.PropertyNode;
  * properties that any of it's property values may have.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class PropertySelectorDialog extends JDialog {
 

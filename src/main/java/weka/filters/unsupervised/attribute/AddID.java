@@ -54,7 +54,7 @@ import weka.filters.UnsupervisedFilter;
  * <!-- options-end -->
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class AddID extends Filter
         implements UnsupervisedFilter, OptionHandler, WeightedInstancesHandler, WeightedAttributesHandler{
@@ -380,7 +380,7 @@ public class AddID extends Filter
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

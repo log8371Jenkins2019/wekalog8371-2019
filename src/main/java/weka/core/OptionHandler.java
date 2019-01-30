@@ -28,7 +28,7 @@ import java.util.Enumeration;
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10141 $
  */
 public interface OptionHandler {
 

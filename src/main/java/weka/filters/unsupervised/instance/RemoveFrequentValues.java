@@ -78,7 +78,7 @@ import weka.filters.UnsupervisedFilter;
  * <!-- options-end -->
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class RemoveFrequentValues extends Filter implements OptionHandler,
   UnsupervisedFilter, WeightedAttributesHandler {
@@ -654,7 +654,7 @@ public class RemoveFrequentValues extends Filter implements OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

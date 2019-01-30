@@ -31,7 +31,7 @@ import weka.core.Utils;
  * Simple symbolic probability estimator based on symbol counts.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11247 $
  */
 public class DiscreteEstimator extends Estimator implements
     IncrementalEstimator, Aggregateable<DiscreteEstimator> {
@@ -198,7 +198,7 @@ public class DiscreteEstimator extends Estimator implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11247 $");
   }
 
   @Override

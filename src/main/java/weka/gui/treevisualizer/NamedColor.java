@@ -28,7 +28,7 @@ import java.awt.Color;
  * This class contains a color name and the rgb values of that color
  *
  * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class NamedColor {
 

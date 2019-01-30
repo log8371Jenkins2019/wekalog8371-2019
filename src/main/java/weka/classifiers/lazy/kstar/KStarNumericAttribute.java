@@ -616,6 +616,6 @@ public class KStarNumericAttribute implements KStarConstants, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 } // class

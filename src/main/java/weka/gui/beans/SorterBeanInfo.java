@@ -29,7 +29,7 @@ import java.beans.SimpleBeanInfo;
  * BeanInfo class for the Sorter step
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8051 $
  */
 public class SorterBeanInfo extends SimpleBeanInfo {
   

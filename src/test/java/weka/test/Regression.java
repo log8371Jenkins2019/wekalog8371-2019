@@ -34,7 +34,7 @@ import java.util.Properties;
  * <code>Regression</code> provides support for performing regression testing.
  * 
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
- * @version $Revision$
+ * @version $Revision: 10160 $
  */
 public class Regression {
 

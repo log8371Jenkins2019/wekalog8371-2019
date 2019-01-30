@@ -31,7 +31,7 @@ import weka.core.Instance;
  * formatted representation is not required.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9320 $
  */
 public interface InformationRetrievalEvaluationMetric {
 

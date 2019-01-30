@@ -30,7 +30,7 @@ import javax.swing.JFrame;
  * menu in the main GUI of Weka.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface MainMenuExtension {
   

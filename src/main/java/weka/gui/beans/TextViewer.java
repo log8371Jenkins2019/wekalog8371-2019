@@ -54,7 +54,7 @@ import weka.gui.SaveBuffer;
  * Bean that collects and displays pieces of text
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class TextViewer extends JPanel implements TextListener,
   DataSourceListener, TrainingSetListener, TestSetListener, Visible,

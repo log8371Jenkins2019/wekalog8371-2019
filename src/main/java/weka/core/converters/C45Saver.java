@@ -66,7 +66,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Stefan Mutter (mutter@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  * @see Saver
  */
 public class C45Saver extends AbstractFileSaver implements BatchConverter,
@@ -564,7 +564,7 @@ public class C45Saver extends AbstractFileSaver implements BatchConverter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   /**

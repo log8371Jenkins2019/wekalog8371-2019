@@ -91,7 +91,7 @@ import weka.core.neighboursearch.covertrees.Stack;
  * @author John Langford (original C++ code)
  * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
  *         (Java port)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class CoverTree extends NearestNeighbourSearch implements
   TechnicalInformationHandler {
@@ -103,7 +103,7 @@ public class CoverTree extends NearestNeighbourSearch implements
    * class representing a node of the cover tree.
    * 
    * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
-   * @version $Revision$
+   * @version $Revision: 10203 $
    */
   public class CoverTreeNode implements Serializable, RevisionHandler {
 
@@ -178,7 +178,7 @@ public class CoverTree extends NearestNeighbourSearch implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10203 $");
     }
   }
 
@@ -186,7 +186,7 @@ public class CoverTree extends NearestNeighbourSearch implements
    * Private class holding a point's distance to the current reference point p.
    * 
    * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
-   * @version $Revision$
+   * @version $Revision: 10203 $
    */
   private class DistanceNode implements RevisionHandler {
 
@@ -216,7 +216,7 @@ public class CoverTree extends NearestNeighbourSearch implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10203 $");
     }
   }
 
@@ -696,7 +696,7 @@ public class CoverTree extends NearestNeighbourSearch implements
    * distance away. i.e. the minimum size of the heap is k.
    * 
    * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
-   * @version $Revision$
+   * @version $Revision: 10203 $
    */
   protected class MyHeap implements RevisionHandler {
 
@@ -899,7 +899,7 @@ public class CoverTree extends NearestNeighbourSearch implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10203 $");
     }
   }
 
@@ -907,7 +907,7 @@ public class CoverTree extends NearestNeighbourSearch implements
    * A class for storing data about a neighboring instance.
    * 
    * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
-   * @version $Revision$
+   * @version $Revision: 10203 $
    */
   protected class MyHeapElement implements RevisionHandler {
 
@@ -936,7 +936,7 @@ public class CoverTree extends NearestNeighbourSearch implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10203 $");
     }
   }
 
@@ -944,7 +944,7 @@ public class CoverTree extends NearestNeighbourSearch implements
    * stores a CoverTreeNode and its distance to the current query node.
    * 
    * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
-   * @version $Revision$
+   * @version $Revision: 10203 $
    */
   private class d_node implements RevisionHandler {
 
@@ -972,7 +972,7 @@ public class CoverTree extends NearestNeighbourSearch implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10203 $");
     }
   };
 
@@ -1976,7 +1976,7 @@ public class CoverTree extends NearestNeighbourSearch implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   /**

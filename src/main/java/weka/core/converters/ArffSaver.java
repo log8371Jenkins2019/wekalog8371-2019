@@ -65,7 +65,7 @@ import weka.core.Capabilities.Capability;
  * <!-- options-end -->
  * 
  * @author Stefan Mutter (mutter@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14860 $
  * @see Saver
  */
 public class ArffSaver extends AbstractFileSaver implements BatchConverter,
@@ -476,7 +476,7 @@ public class ArffSaver extends AbstractFileSaver implements BatchConverter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14860 $");
   }
 
   /**

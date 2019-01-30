@@ -27,7 +27,7 @@ import java.beans.BeanDescriptor;
  * Bean info class for the saver bean
  *
  * @author <a href="mailto:mutter@cs.waikato.ac.nz">Stefan Mutter</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class SaverBeanInfo extends AbstractDataSinkBeanInfo {
   

@@ -34,7 +34,7 @@ import weka.core.Utils;
  * 
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @revision $Revision$
+ * @revision $Revision: 9707 $
  */
 public abstract class HNode implements Serializable {
   /**

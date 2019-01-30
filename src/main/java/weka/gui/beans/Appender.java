@@ -64,7 +64,7 @@ import weka.gui.Logger;
  * connections).
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10149 $
  */
 @KFStep(category = "Flow", toolTipText = "Append multiple sets of instances")
 public class Appender extends JPanel implements BeanCommon, Visible,

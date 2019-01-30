@@ -28,7 +28,7 @@ import weka.core.Instances;
  * in weka.classifiers.evaluation.AggregateableEvaluation.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9320 $
  */
 public class AggregateableEvaluation extends Evaluation {
 

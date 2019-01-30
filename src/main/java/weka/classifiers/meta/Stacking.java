@@ -87,7 +87,7 @@ import weka.core.TechnicalInformation.Type;
  <!-- options-end -->
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$ 
+ * @version $Revision: 15033 $ 
  */
 public class Stacking 
   extends RandomizableParallelMultipleClassifiersCombiner
@@ -642,7 +642,7 @@ public class Stacking
    * @return the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 15033 $");
   }
 
   /**

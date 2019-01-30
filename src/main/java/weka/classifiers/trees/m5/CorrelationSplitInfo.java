@@ -33,7 +33,7 @@ import weka.experiment.PairedStats;
  * Finds split points using correlation.
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10169 $
  */
 public final class CorrelationSplitInfo implements Cloneable, Serializable,
   SplitEvaluate, RevisionHandler {
@@ -237,6 +237,6 @@ public final class CorrelationSplitInfo implements Cloneable, Serializable,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10169 $");
   }
 }

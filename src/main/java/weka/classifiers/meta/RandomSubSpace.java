@@ -124,7 +124,7 @@ import weka.filters.unsupervised.attribute.Remove;
  *
  * @author Bernhard Pfahringer (bernhard@cs.waikato.ac.nz)
  * @author Peter Reutemann (fracpete@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14620 $
  */
 public class RandomSubSpace
   extends RandomizableParallelIteratedSingleClassifierEnhancer 
@@ -532,7 +532,7 @@ public class RandomSubSpace
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14620 $");
   }
 
   /**

@@ -37,7 +37,7 @@ import javax.swing.JComponent;
  * this issue. :-(
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  * @see PostscriptGraphics
  */
 public class PostscriptWriter

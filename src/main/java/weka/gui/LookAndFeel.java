@@ -45,7 +45,7 @@ import java.util.Properties;
  * available Look and Feel themes.
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 12702 $
  */
 public class LookAndFeel {
 

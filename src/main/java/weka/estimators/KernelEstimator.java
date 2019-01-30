@@ -33,7 +33,7 @@ import weka.core.Utils;
  * value.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 9785 $
  */
 public class KernelEstimator extends Estimator implements IncrementalEstimator,
     Aggregateable<KernelEstimator> {
@@ -336,7 +336,7 @@ public class KernelEstimator extends Estimator implements IncrementalEstimator,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 9785 $");
   }
 
   @Override

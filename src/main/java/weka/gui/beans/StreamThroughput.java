@@ -40,7 +40,7 @@ import weka.gui.Logger;
  * instances/sec is reported to the status area of the log.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9243 $
  */
 public class StreamThroughput implements Serializable {
 

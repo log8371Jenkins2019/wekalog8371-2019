@@ -27,7 +27,7 @@ package weka.gui.graphvisualizer;
  * stream.
  *
  * @author Ashraf M. Kibriya (amk14@cs.waikato.ac.nz)
- * @version $Revision$ - 24 Apr 2003 - Initial version (Ashraf M. Kibriya)
+ * @version $Revision: 8034 $ - 24 Apr 2003 - Initial version (Ashraf M. Kibriya)
  */
 public class BIFFormatException
   extends Exception {

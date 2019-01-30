@@ -30,7 +30,7 @@ import weka.core.RevisionHandler;
  * Abstract unit in a NeuralNetwork.
  *
  * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class NeuralConnection
   implements Serializable, RevisionHandler {

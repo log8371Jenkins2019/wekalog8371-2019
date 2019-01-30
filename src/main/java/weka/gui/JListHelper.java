@@ -30,7 +30,7 @@ import javax.swing.JList;
  * derived models.
  *
  * @author  FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  * @see     JList
  * @see     DefaultListModel
  */

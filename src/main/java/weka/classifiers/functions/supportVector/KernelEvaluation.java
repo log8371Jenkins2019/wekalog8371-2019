@@ -35,7 +35,7 @@ import weka.core.Utils;
  * Class for evaluating Kernels.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class KernelEvaluation implements RevisionHandler {
 
@@ -360,7 +360,7 @@ public class KernelEvaluation implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

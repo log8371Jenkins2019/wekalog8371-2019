@@ -36,7 +36,7 @@ import weka.core.Instances;
  * might be more spreadsheet-like
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class InstanceViewer
   extends JPanel

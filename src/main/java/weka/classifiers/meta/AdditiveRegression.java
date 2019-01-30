@@ -105,7 +105,7 @@ import weka.core.UnassignedClassException;
  <!-- options-end -->
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 15022 $
  */
 public class AdditiveRegression extends IteratedSingleClassifierEnhancer implements OptionHandler, 
         AdditionalMeasureProducer, WeightedInstancesHandler, TechnicalInformationHandler, IterativeClassifier {
@@ -692,7 +692,7 @@ public class AdditiveRegression extends IteratedSingleClassifierEnhancer impleme
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 15022 $");
   }
 
   /**

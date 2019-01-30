@@ -99,7 +99,7 @@ import weka.core.Utils;
  * @author Ashraf M. Kibriya (amk14 at cs.waikato.ac.nz)
  * @author Richard Kirkby (rkirkby at cs.waikato.ac.nz)
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 12184 $
  * @see Loader
  */
 public class TextDirectoryLoader extends AbstractLoader implements
@@ -641,7 +641,7 @@ public class TextDirectoryLoader extends AbstractLoader implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12184 $");
   }
 
   /**

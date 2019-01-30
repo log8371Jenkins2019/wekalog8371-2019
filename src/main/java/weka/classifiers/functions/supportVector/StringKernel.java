@@ -311,7 +311,7 @@ import weka.core.Utils;
  * 
  * @author Florian Kleedorfer (kleedorfer@austria.fm)
  * @author Alexander K. Seewald (alex@seewald.at)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class StringKernel extends Kernel implements TechnicalInformationHandler {
 
@@ -1580,6 +1580,6 @@ public class StringKernel extends Kernel implements TechnicalInformationHandler 
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 }

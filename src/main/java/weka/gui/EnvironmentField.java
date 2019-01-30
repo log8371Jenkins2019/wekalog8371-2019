@@ -56,7 +56,7 @@ import java.util.Vector;
  * values are displayed in a tip-text.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 13074 $
  */
 public class EnvironmentField extends JPanel implements EnvironmentHandler,
   PropertyEditor, CustomPanelSupplier {

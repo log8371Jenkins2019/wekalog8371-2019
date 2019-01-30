@@ -31,7 +31,7 @@ import java.net.URLClassLoader;
  * Utility class that can add jar files to the classpath dynamically.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}org
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class ClassloaderUtil implements RevisionHandler {
 
@@ -95,6 +95,6 @@ public class ClassloaderUtil implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 }

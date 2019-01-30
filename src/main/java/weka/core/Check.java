@@ -28,7 +28,7 @@ import java.util.Vector;
  * Abstract general class for testing in Weka.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public abstract class Check implements OptionHandler, RevisionHandler {
 

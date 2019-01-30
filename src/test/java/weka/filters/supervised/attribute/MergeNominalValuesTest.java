@@ -32,7 +32,7 @@ import weka.filters.Filter;
  * java weka.filters.unsupervised.attribute.MergeNominalValuesTest
  * 
  * @author Eibe Frank
- * @version $Revision$
+ * @version $Revision: 10160 $
  */
 public class MergeNominalValuesTest extends AbstractFilterTest {
 

@@ -103,7 +103,7 @@ import weka.core.Capabilities.Capability;
  <!-- options-end -->
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14259 $
  */
 public class AttributeSelectedClassifier 
   extends SingleClassifierEnhancer
@@ -755,7 +755,7 @@ public class AttributeSelectedClassifier
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14259 $");
   }
 
   /**

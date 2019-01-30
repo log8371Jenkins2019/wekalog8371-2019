@@ -49,7 +49,7 @@ import weka.core.RevisionUtils;
  <!-- technical-bibtex-end -->
  *
  * @author  Eibe Frank (eibe at cs dot waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  * @see     LovinsStemmer
  */
 public class IteratedLovinsStemmer 
@@ -97,7 +97,7 @@ public class IteratedLovinsStemmer
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 
   /**

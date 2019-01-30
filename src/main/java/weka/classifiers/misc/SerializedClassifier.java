@@ -63,7 +63,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 public class SerializedClassifier extends AbstractClassifier {
 
@@ -334,7 +334,7 @@ public class SerializedClassifier extends AbstractClassifier {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 
   /**

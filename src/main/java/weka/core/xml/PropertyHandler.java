@@ -32,7 +32,7 @@ import weka.core.RevisionUtils;
  * are allowed for a certain class.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11247 $
  */
 public class PropertyHandler implements RevisionHandler {
 
@@ -363,6 +363,6 @@ public class PropertyHandler implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11247 $");
   }
 }

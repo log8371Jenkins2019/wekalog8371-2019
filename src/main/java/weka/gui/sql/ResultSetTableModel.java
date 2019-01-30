@@ -31,7 +31,7 @@ import javax.swing.table.TableModel;
  * The model for an SQL ResultSet.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class ResultSetTableModel implements TableModel {
 

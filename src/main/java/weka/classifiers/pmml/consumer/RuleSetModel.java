@@ -41,7 +41,7 @@ import weka.core.pmml.MiningSchema;
  * classifier for prediction only (buildClassifier() raises an Exception).
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class RuleSetModel extends PMMLClassifier {
   
@@ -817,7 +817,7 @@ public class RuleSetModel extends PMMLClassifier {
    * @return the revision string
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
   
 }

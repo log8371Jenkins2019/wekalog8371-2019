@@ -29,7 +29,7 @@ import java.util.EventObject;
  *
  * @see         ResultChangedListener
  * @author      FracPete (fracpete at waikato dot ac dot nz)
- * @version     $Revision$
+ * @version     $Revision: 8034 $
  */
 public class ResultChangedEvent
   extends EventObject {

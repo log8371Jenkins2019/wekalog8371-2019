@@ -147,7 +147,7 @@ import weka.datagenerators.ClusterGenerator;
  * 
  * @author Gabi Schmidberger (gabi@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 12478 $
  */
 public class SubspaceCluster extends ClusterGenerator {
 
@@ -1080,7 +1080,7 @@ public class SubspaceCluster extends ClusterGenerator {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12478 $");
   }
 
   /**

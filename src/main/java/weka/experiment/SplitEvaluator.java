@@ -40,7 +40,7 @@ import weka.core.Instances;
  * </ul>
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface SplitEvaluator extends Serializable {
   

@@ -98,7 +98,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
- * @version $Revision$
+ * @version $Revision: 11269 $
  */
 public class MiddleOutConstructor extends BallTreeConstructor implements
   Randomizable, TechnicalInformationHandler {
@@ -1006,7 +1006,7 @@ public class MiddleOutConstructor extends BallTreeConstructor implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11269 $");
   }
 
   /**
@@ -1017,7 +1017,7 @@ public class MiddleOutConstructor extends BallTreeConstructor implements
    * centre/anchor point.
    * 
    * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
-   * @version $Revision$
+   * @version $Revision: 11269 $
    */
   protected class TempNode implements RevisionHandler {
 
@@ -1074,7 +1074,7 @@ public class MiddleOutConstructor extends BallTreeConstructor implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 11269 $");
     }
   }
 
@@ -1083,7 +1083,7 @@ public class MiddleOutConstructor extends BallTreeConstructor implements
    * specific point (usually a node's anchor point).
    * 
    * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
-   * @version $Revision$
+   * @version $Revision: 11269 $
    */
   protected class ListNode implements RevisionHandler, Serializable {
 
@@ -1111,7 +1111,7 @@ public class MiddleOutConstructor extends BallTreeConstructor implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 11269 $");
     }
   }
 
@@ -1121,7 +1121,7 @@ public class MiddleOutConstructor extends BallTreeConstructor implements
    * list.
    * 
    * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
-   * @version $Revision$
+   * @version $Revision: 11269 $
    */
   protected class MyIdxList implements Serializable, RevisionHandler {
 
@@ -1254,7 +1254,7 @@ public class MiddleOutConstructor extends BallTreeConstructor implements
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 11269 $");
     }
   }
 }

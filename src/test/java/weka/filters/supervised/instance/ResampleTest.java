@@ -32,7 +32,7 @@ import junit.framework.TestSuite;
  * java weka.filters.supervised.instance.ResampleTest
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
- * @version $Revision$
+ * @version $Revision: 11310 $
  */
 public class ResampleTest
   extends AbstractFilterTest {

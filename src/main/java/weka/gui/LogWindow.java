@@ -58,7 +58,7 @@ import weka.core.Utils;
  * Frame that shows the output from stdout and stderr.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10216 $
  */
 public class LogWindow extends JFrame implements CaretListener, ChangeListener {
 

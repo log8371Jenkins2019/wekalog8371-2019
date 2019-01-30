@@ -33,7 +33,7 @@ import java.util.Properties;
  * This class contains utility routines for visualization
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 13477 $
  */
 
 public class VisualizeUtils {

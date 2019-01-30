@@ -37,7 +37,7 @@ import java.util.Set;
  * ${WEKA_HOME}/wekaMetaStore
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 14281 $
  */
 public class XMLFileBasedMetaStore implements MetaStore {
 

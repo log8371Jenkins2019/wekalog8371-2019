@@ -34,7 +34,7 @@ import javax.swing.JComponent;
  * Scaling is by default disabled, since we always take a screenshot.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class BMPWriter
   extends JComponentWriter {

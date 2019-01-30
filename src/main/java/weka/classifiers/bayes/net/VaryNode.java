@@ -30,7 +30,7 @@ import weka.core.RevisionUtils;
  * Part of ADTree implementation. See ADNode.java for more details.
  * 
  * @author Remco Bouckaert (rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 public class VaryNode implements Serializable, RevisionHandler {
 
@@ -111,6 +111,6 @@ public class VaryNode implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 }

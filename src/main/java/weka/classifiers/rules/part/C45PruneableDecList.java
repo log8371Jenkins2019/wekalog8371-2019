@@ -34,7 +34,7 @@ import weka.core.Utils;
  * heuristic.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 public class C45PruneableDecList extends ClassifierDecList {
 
@@ -209,6 +209,6 @@ public class C45PruneableDecList extends ClassifierDecList {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 }

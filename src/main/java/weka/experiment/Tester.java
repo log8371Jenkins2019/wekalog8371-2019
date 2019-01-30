@@ -32,7 +32,7 @@ import weka.core.Range;
  * Interface for different kinds of Testers in the Experimenter.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface Tester
   extends Serializable {

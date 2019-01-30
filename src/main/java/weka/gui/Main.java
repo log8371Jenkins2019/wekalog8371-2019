@@ -118,7 +118,7 @@ import weka.gui.visualize.VisualizePanel;
  * <!-- options-end -->
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10434 $
  */
 public class Main extends JFrame implements OptionHandler {
 
@@ -129,7 +129,7 @@ public class Main extends JFrame implements OptionHandler {
    * DesktopPane with background image.
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 10434 $
    */
   public static class BackgroundDesktopPane extends JDesktopPane {
 
@@ -181,7 +181,7 @@ public class Main extends JFrame implements OptionHandler {
    * Specialized JFrame class.
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 10434 $
    */
   public static class ChildFrameSDI extends JFrame {
 
@@ -246,7 +246,7 @@ public class Main extends JFrame implements OptionHandler {
    * Specialized JInternalFrame class.
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 10434 $
    */
   public static class ChildFrameMDI extends JInternalFrame {
 

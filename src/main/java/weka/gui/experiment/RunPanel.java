@@ -52,7 +52,7 @@ import weka.gui.LogPanel;
  * This panel controls the running of an experiment.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14604 $
  */
 public class RunPanel
   extends JPanel

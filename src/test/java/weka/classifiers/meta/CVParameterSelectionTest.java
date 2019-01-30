@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.meta.CVParameterSelectionTest
  *
  * @author <a href="mailto:eibe@cs.waikato.ac.nz">Eibe Frank</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class CVParameterSelectionTest extends AbstractClassifierTest {
 

@@ -199,7 +199,7 @@ import weka.core.WeightedInstancesHandler;
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11451 $
  * @see TestInstances
  */
 public class CheckClusterer extends CheckScheme {
@@ -1326,7 +1326,7 @@ public class CheckClusterer extends CheckScheme {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11451 $");
   }
 
   /**

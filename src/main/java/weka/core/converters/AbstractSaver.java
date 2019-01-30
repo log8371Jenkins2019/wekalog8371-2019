@@ -36,7 +36,7 @@ import weka.core.Instances;
  * 
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
  * @author Stefan Mutter (mutter@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11006 $
  */
 public abstract class AbstractSaver implements Saver, CapabilitiesHandler,
                                                CapabilitiesIgnorer {

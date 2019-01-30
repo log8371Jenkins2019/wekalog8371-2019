@@ -29,7 +29,7 @@ import weka.core.Instances;
  * Event encapsulating a data set
  *
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  * @see EventObject
  */
 public class DataSetEvent

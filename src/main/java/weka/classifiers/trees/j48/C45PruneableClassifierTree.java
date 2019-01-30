@@ -32,7 +32,7 @@ import weka.core.Utils;
  * be pruned using C4.5 procedures.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 
 public class C45PruneableClassifierTree 
@@ -346,6 +346,6 @@ public class C45PruneableClassifierTree
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 }

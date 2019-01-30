@@ -123,7 +123,7 @@ import weka.filters.unsupervised.attribute.ReplaceMissingValues;
  <!-- options-end -->
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 11012 $
  */
 public class Canopy extends RandomizableClusterer implements
   UpdateableClusterer, NumberOfClustersRequestable, OptionHandler,

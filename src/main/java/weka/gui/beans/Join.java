@@ -49,7 +49,7 @@ import weka.gui.Logger;
 
 /**
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 11251 $
  */
 @KFStep(category = "Flow", toolTipText = "Inner join on one or more key fields")
 public class Join extends JPanel implements BeanCommon, Visible, Serializable,

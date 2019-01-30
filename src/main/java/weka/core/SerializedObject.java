@@ -45,7 +45,7 @@ import java.util.zip.GZIPOutputStream;
  * <p>
  *
  * @author Richard Kirkby (rbk1@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14685 $
  */
 public class SerializedObject implements Serializable, RevisionHandler {
 
@@ -274,6 +274,6 @@ public class SerializedObject implements Serializable, RevisionHandler {
    * @return the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14685 $");
   }
 }

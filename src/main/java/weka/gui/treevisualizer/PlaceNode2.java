@@ -38,7 +38,7 @@ import java.util.Vector;
  * 
  * 
  * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class PlaceNode2 implements NodePlace {
   /** The space each row will take up. */

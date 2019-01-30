@@ -60,7 +60,7 @@ import weka.gui.Logger;
  * <!-- globalinfo-end -->
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 11132 $
  */
 @KFStep(category = "Tools",
   toolTipText = "Sort instances in ascending or descending order")

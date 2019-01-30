@@ -105,7 +105,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class M5P extends M5Base implements Drawable {
 
@@ -287,7 +287,7 @@ public class M5P extends M5Base implements Drawable {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

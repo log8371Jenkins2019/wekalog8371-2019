@@ -49,7 +49,7 @@ import weka.gui.PropertySheetPanel;
  * Customizer component for the Join step
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10642 $
  */
 public class JoinCustomizer extends JPanel implements EnvironmentHandler,
   BeanCustomizer, CustomizerCloseRequester {

@@ -71,7 +71,7 @@ import weka.core.converters.ConverterUtils.DataSource;
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14912 $
  */
 public class Instances extends AbstractList<Instance> implements Serializable,
 RevisionHandler {
@@ -2671,6 +2671,6 @@ RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14912 $");
   }
 }

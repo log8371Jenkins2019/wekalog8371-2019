@@ -28,7 +28,7 @@ import java.util.Enumeration;
  * action
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 10216 $
  * @since 1.0
  */
 public interface UserRequestAcceptor {

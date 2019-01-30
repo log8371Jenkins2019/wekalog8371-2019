@@ -35,7 +35,7 @@ import weka.core.RevisionHandler;
  * format.
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 9866 $
  */
 public interface Loader extends Serializable, RevisionHandler {
 

@@ -40,7 +40,7 @@ import weka.core.RevisionUtils;
  * Reflection.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}org)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class XStream implements RevisionHandler {
 
@@ -352,6 +352,6 @@ public class XStream implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 }

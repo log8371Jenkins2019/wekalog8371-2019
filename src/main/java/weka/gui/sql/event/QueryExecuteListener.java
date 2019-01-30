@@ -27,7 +27,7 @@ import java.util.EventListener;
  * A listener for executing queries.
  *
  * @author      FracPete (fracpete at waikato dot ac dot nz)
- * @version     $Revision$
+ * @version     $Revision: 8034 $
  */
 
 public interface QueryExecuteListener extends EventListener {

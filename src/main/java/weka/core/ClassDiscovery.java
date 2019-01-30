@@ -40,7 +40,7 @@ import java.util.jar.JarFile;
  * or a derived from a certain class.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14293 $
  * @see StringCompare
  */
 public class ClassDiscovery implements RevisionHandler {
@@ -402,7 +402,7 @@ public class ClassDiscovery implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14293 $");
   }
 
   /**
@@ -582,7 +582,7 @@ public class ClassDiscovery implements RevisionHandler {
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 14293 $");
     }
   }
 }

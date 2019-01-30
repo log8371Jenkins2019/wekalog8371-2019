@@ -98,7 +98,7 @@ import weka.filters.unsupervised.instance.RemoveWithValues;
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Len Trigg (len@reeltwo.com)
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11889 $
  */
 public class MultiClassClassifier 
   extends RandomizableSingleClassifierEnhancer 
@@ -239,7 +239,7 @@ public class MultiClassClassifier
      * @return		the revision
      */
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 11889 $");
     }
   }
 
@@ -271,7 +271,7 @@ public class MultiClassClassifier
      * @return		the revision
      */
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 11889 $");
     }
   }
 
@@ -353,7 +353,7 @@ public class MultiClassClassifier
      * @return		the revision
      */
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 11889 $");
     }
   }
 
@@ -398,7 +398,7 @@ public class MultiClassClassifier
      * @return		the revision
      */
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 11889 $");
     }
   }
 
@@ -1038,7 +1038,7 @@ public class MultiClassClassifier
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11889 $");
   }
 
   /**

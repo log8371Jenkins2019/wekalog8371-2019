@@ -47,7 +47,7 @@ import weka.core.Utils;
  <!-- globalinfo-end -->
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 9290 $
  * @see Loader
  */
 public class C45Loader extends AbstractFileLoader implements BatchConverter,
@@ -516,7 +516,7 @@ public class C45Loader extends AbstractFileLoader implements BatchConverter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 9290 $");
   }
 
   /**

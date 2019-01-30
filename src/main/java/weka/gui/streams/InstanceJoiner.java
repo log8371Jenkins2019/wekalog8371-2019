@@ -31,7 +31,7 @@ import weka.core.Instances;
  * A bean that joins two streams of instances into one.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class InstanceJoiner implements Serializable, InstanceProducer,
   SerialInstanceListener {

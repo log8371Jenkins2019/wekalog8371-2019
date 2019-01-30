@@ -38,7 +38,7 @@ import weka.core.Utils;
  * Abstract class for constructing a BallTree .
  * 
  * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public abstract class BallTreeConstructor implements OptionHandler,
   Serializable, RevisionHandler {
@@ -336,6 +336,6 @@ public abstract class BallTreeConstructor implements OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 }

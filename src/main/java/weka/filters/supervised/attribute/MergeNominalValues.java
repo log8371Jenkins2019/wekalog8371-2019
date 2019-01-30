@@ -90,7 +90,7 @@ import weka.filters.SupervisedFilter;
  * <!-- options-end -->
  * 
  * @author Eibe Frank
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class MergeNominalValues extends SimpleBatchFilter implements
   SupervisedFilter, WeightedInstancesHandler, WeightedAttributesHandler, TechnicalInformationHandler {
@@ -759,7 +759,7 @@ public class MergeNominalValues extends SimpleBatchFilter implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

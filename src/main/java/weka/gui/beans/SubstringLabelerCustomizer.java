@@ -50,7 +50,7 @@ import weka.gui.PropertySheetPanel;
  * Customizer class for the Substring labeler step
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10383 $
  */
 public class SubstringLabelerCustomizer extends JPanel implements
   EnvironmentHandler, BeanCustomizer, CustomizerCloseRequester {

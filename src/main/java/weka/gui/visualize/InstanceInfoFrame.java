@@ -34,7 +34,7 @@ import weka.core.Instances;
  * Frame for displaying information on the displayed data.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class InstanceInfoFrame
   extends JFrame

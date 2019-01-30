@@ -29,7 +29,7 @@ import weka.gui.Logger;
  * Interface for all PMML models
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface PMMLModel {
   

@@ -80,7 +80,7 @@ import weka.core.converters.ConverterUtils.DataSource;
  * </pre>
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14069 $
  */
 public abstract class AbstractOutput implements Serializable, OptionHandler {
 

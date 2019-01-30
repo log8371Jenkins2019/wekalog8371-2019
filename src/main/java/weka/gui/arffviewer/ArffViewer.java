@@ -37,7 +37,7 @@ import weka.gui.LookAndFeel;
  * 
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10434 $
  */
 
 public class ArffViewer extends JFrame implements WindowListener {

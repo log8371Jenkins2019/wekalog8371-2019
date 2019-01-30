@@ -34,7 +34,7 @@ import weka.core.Utils;
  * meta classifiers that build an ensemble from a single base learner.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10141 $
  */
 public abstract class RandomizableSingleClassifierEnhancer
   extends SingleClassifierEnhancer implements Randomizable {

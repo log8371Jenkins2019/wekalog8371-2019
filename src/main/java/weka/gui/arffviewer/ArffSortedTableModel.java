@@ -35,7 +35,7 @@ import javax.swing.table.TableModel;
  * A sorter for the ARFF-Viewer - necessary because of the custom CellRenderer.
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$ 
+ * @version $Revision: 14908 $ 
  */
 
 public class ArffSortedTableModel 

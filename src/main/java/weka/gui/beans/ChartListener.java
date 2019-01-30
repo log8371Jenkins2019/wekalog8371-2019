@@ -27,7 +27,7 @@ import java.util.EventListener;
  * Interface to something that can process a ChartEvent
  *
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface ChartListener extends EventListener {
 

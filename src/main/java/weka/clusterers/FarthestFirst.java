@@ -94,7 +94,7 @@ import weka.filters.unsupervised.attribute.ReplaceMissingValues;
  <!-- options-end -->
  * 
  * @author Bernhard Pfahringer (bernhard@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10453 $
  * @see RandomizableClusterer
  */
 public class FarthestFirst extends RandomizableClusterer implements
@@ -621,7 +621,7 @@ public class FarthestFirst extends RandomizableClusterer implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10453 $");
   }
 
   /**

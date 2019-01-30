@@ -28,7 +28,7 @@ import weka.core.RevisionUtils;
  * Encapsulates performance functions for two-class problems.
  * 
  * @author Len Trigg (len@reeltwo.com)
- * @version $Revision$
+ * @version $Revision: 14382 $
  */
 public class TwoClassStats implements RevisionHandler {
 
@@ -267,6 +267,6 @@ public class TwoClassStats implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14382 $");
   }
 }

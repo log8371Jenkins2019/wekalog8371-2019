@@ -35,7 +35,7 @@ import weka.core.Utils;
  * clusterers.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10601 $
  */
 public abstract class RandomizableClusterer extends AbstractClusterer implements
   OptionHandler, Randomizable {

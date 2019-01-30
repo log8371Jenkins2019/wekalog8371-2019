@@ -1,6 +1,6 @@
 # Properties for visualization
 #
-# Version: $Revision$
+# Version: $Revision: 14589 $
 
 # Maximum precision for numeric values
 weka.gui.visualize.precision=10

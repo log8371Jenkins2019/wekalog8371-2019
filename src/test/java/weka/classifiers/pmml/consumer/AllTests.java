@@ -33,6 +33,10 @@ public class AllTests extends TestSuite {
   public static Test suite() {
     TestSuite suite = new TestSuite();
 
+    suite.addTest(RegressionTest.suite());
+    suite.addTest(GeneralRegressionTest.suite());
+    suite.addTest(NeuralNetworkTest.suite());
+    suite.addTest(TreeModelTest.suite());
     
     return suite;
   }

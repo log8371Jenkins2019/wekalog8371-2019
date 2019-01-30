@@ -29,7 +29,7 @@ import weka.core.RevisionHandler;
  * Interface for all stemming algorithms.
  *
  * @author    FracPete (fracpete at waikato dot ac dot nz)
- * @version   $Revision$
+ * @version   $Revision: 8034 $
  */
 public interface Stemmer 
   extends Serializable, RevisionHandler {

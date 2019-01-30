@@ -27,7 +27,7 @@ import java.util.EventListener;
  * Interface to something that can accept instance events
  *
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface InstanceListener extends EventListener {
   

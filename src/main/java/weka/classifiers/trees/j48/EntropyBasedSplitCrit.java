@@ -28,7 +28,7 @@ import weka.core.ContingencyTables;
  * based on the entropy of a class distribution.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10055 $
  */
 public abstract class EntropyBasedSplitCrit
   extends SplitCriterion {

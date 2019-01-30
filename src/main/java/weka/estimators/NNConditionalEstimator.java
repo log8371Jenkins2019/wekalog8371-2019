@@ -33,7 +33,7 @@ import weka.core.matrix.Matrix;
  * numeric domain (using Mahalanobis distance).
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 public class NNConditionalEstimator implements ConditionalEstimator {
 
@@ -209,7 +209,7 @@ public class NNConditionalEstimator implements ConditionalEstimator {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 
   /**

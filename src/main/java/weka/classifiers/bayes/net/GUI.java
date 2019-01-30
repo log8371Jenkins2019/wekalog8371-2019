@@ -89,7 +89,7 @@ import weka.gui.visualize.PrintablePanel;
  * network inference.
  * 
  * @author Remco Bouckaert (remco@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class GUI extends JPanel implements LayoutCompleteEventListener {
 

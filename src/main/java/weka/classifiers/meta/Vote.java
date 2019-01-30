@@ -159,7 +159,7 @@ import java.util.Vector;
  * @author Alexander K. Seewald (alex@seewald.at)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Roberto Perdisci (roberto.perdisci@gmail.com)
- * @version $Revision$
+ * @version $Revision: 14142 $
  */
 public class Vote extends RandomizableMultipleClassifiersCombiner implements
   TechnicalInformationHandler, EnvironmentHandler, Aggregateable<Classifier> {
@@ -1182,7 +1182,7 @@ public class Vote extends RandomizableMultipleClassifiersCombiner implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14142 $");
   }
 
   /**

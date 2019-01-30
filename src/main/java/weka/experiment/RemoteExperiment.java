@@ -221,7 +221,7 @@ import weka.experiment.xml.XMLExperiment;
  * <!-- options-end -->
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12590 $
  */
 public class RemoteExperiment extends Experiment {
 
@@ -946,7 +946,7 @@ public class RemoteExperiment extends Experiment {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12590 $");
   }
 
   /**

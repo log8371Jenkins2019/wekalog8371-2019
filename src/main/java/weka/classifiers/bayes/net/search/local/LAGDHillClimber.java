@@ -89,7 +89,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Manuel Neubach
- * @version $Revision$
+ * @version $Revision: 10154 $
  */
 public class LAGDHillClimber extends HillClimber {
 
@@ -506,7 +506,7 @@ public class LAGDHillClimber extends HillClimber {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10154 $");
   }
 
 } // LAGDHillClimber

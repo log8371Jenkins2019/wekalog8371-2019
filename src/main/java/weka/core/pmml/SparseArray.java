@@ -34,7 +34,7 @@ import org.w3c.dom.NodeList;
  * Implementation of a sparse array. Extends Array.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class SparseArray extends Array implements Serializable {
   

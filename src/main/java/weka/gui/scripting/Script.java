@@ -45,7 +45,7 @@ import weka.gui.scripting.event.ScriptExecutionListener;
  * A simple helper class for loading, saving scripts.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public abstract class Script implements OptionHandler, Serializable {
 
@@ -56,7 +56,7 @@ public abstract class Script implements OptionHandler, Serializable {
    * The Thread for running a script.
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 10222 $
    */
   public abstract static class ScriptThread extends Thread {
 

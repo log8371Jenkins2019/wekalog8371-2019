@@ -29,7 +29,7 @@ import java.beans.SimpleBeanInfo;
  * BeanInfo class for the Clusterer wrapper bean
  *
  * @author <a href="mailto:mutter@cs.waikato.ac.nz">Stefan Mutter</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ClustererBeanInfo extends SimpleBeanInfo {
  

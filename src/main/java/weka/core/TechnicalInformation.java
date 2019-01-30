@@ -39,7 +39,7 @@ import java.util.Vector;
  * target="_blank">http://bib2web.djvuzone.org/bibtex.html</a>
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  * @see TechnicalInformationHandler
  */
 public class TechnicalInformation implements RevisionHandler {
@@ -796,7 +796,7 @@ public class TechnicalInformation implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   /**

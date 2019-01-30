@@ -83,7 +83,7 @@ import weka.core.Utils;
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz) Martin Guetlein (cashing merit of
  *         expanded nodes)
- * @version $Revision$
+ * @version $Revision: 10396 $
  */
 public class BestFirst extends ASSearch implements OptionHandler,
   StartSetHandler {
@@ -132,7 +132,7 @@ public class BestFirst extends ASSearch implements OptionHandler,
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10396 $");
     }
   }
 
@@ -251,7 +251,7 @@ public class BestFirst extends ASSearch implements OptionHandler,
      * @return the revision
      */
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10396 $");
     }
   }
 
@@ -937,6 +937,6 @@ public class BestFirst extends ASSearch implements OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10396 $");
   }
 }

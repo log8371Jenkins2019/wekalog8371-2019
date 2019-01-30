@@ -51,7 +51,7 @@ import weka.gui.beans.GOECustomizer;
  * Customizer for the AddUserFields filter.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 12733 $
  */
 public class AddUserFieldsCustomizer extends JPanel implements
     EnvironmentHandler, GOECustomizer {

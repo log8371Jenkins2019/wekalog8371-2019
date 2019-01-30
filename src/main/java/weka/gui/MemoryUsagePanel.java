@@ -46,7 +46,7 @@ import weka.gui.visualize.VisualizeUtils;
  * A panel for displaying the memory usage.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10216 $
  */
 public class MemoryUsagePanel extends JPanel {
 
@@ -57,7 +57,7 @@ public class MemoryUsagePanel extends JPanel {
    * Specialized thread for monitoring the memory usage.
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 10216 $
    */
   protected class MemoryMonitor extends Thread {
 

@@ -30,7 +30,7 @@ import weka.core.Capabilities.Capability;
  * through. Basically just for testing purposes.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class AllFilter
   extends Filter
@@ -174,7 +174,7 @@ public class AllFilter
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

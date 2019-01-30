@@ -32,7 +32,7 @@ import weka.filters.Filter;
  * java weka.filters.unsupervised.instance.SubsetByExpressionTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11497 $
  */
 public class SubsetByExpressionTest
   extends AbstractFilterTest {

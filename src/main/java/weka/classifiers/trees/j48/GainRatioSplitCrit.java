@@ -29,7 +29,7 @@ import weka.core.Utils;
  * Class for computing the gain ratio for a given distribution.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10169 $
  */
 public final class GainRatioSplitCrit extends EntropyBasedSplitCrit {
 
@@ -114,6 +114,6 @@ public final class GainRatioSplitCrit extends EntropyBasedSplitCrit {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10169 $");
   }
 }

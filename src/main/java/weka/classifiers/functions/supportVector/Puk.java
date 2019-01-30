@@ -79,7 +79,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Bernhard Pfahringer (bernhard@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class Puk extends CachedKernel implements TechnicalInformationHandler {
 
@@ -432,6 +432,6 @@ public class Puk extends CachedKernel implements TechnicalInformationHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 }

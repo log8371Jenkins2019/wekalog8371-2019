@@ -110,7 +110,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Remco Bouckaert (remco@cs.waikato.ac.nz,rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 10169 $
  */
 public class RegSMOImproved extends RegSMO implements
   TechnicalInformationHandler {
@@ -1002,6 +1002,6 @@ public class RegSMOImproved extends RegSMO implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10169 $");
   }
 }

@@ -31,7 +31,7 @@ import weka.core.RevisionUtils;
  * distribution plus the actual class value.
  *
  * @author Len Trigg (len@reeltwo.com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class NominalPrediction
   implements Prediction, Serializable, RevisionHandler {
@@ -241,7 +241,7 @@ public class NominalPrediction
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 }
 

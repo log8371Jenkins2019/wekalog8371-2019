@@ -71,7 +71,7 @@ import weka.gui.ProgrammaticProperty;
  * @author Len Trigg (len@reeltwo.com)
  * @author FracPete (fracpete at waikato dot ac dot nz)
  * @author Eibe Frank
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class Resample extends Filter implements UnsupervisedFilter,
   OptionHandler, Randomizable, WeightedAttributesHandler {
@@ -505,7 +505,7 @@ public class Resample extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

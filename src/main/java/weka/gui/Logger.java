@@ -27,7 +27,7 @@ package weka.gui;
  * status (transient) messages.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface Logger {
 

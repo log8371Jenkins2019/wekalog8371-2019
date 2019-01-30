@@ -73,7 +73,7 @@ import weka.gui.visualize.VisualizePanel;
  * Bean that aids in analyzing cost/benefit tradeoffs.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10220 $
  */
 @KFStep(category = "Visualize", toolTipText = "Interactive cost/benefit analysis")
 public class CostBenefitAnalysis extends JPanel implements BeanCommon,

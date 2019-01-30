@@ -146,7 +146,7 @@ import weka.filters.unsupervised.attribute.Remove;
  * <!-- options-end -->
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 13387 $
  */
 public class DecisionTable extends AbstractClassifier implements OptionHandler,
   WeightedInstancesHandler, AdditionalMeasureProducer,
@@ -1435,7 +1435,7 @@ public class DecisionTable extends AbstractClassifier implements OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 13387 $");
   }
 
   /**

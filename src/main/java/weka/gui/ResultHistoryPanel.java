@@ -51,7 +51,7 @@ import weka.gui.visualize.PrintableComponent;
  * that will have it's text set to the named result text on a left-click.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class ResultHistoryPanel extends JPanel {
 

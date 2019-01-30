@@ -55,7 +55,7 @@ import java.util.Vector;
  * scheme error plots
  * 
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 12409 $
  */
 public class ModelPerformanceChart extends JPanel implements
   ThresholdDataListener, VisualizableErrorListener, Visible,

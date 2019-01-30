@@ -31,7 +31,7 @@ import java.util.Vector;
  * tree.
  * 
  * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class Edge {
   /** The text caption for the edge. */

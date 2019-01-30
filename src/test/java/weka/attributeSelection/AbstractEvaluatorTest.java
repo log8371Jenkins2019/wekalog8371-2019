@@ -31,7 +31,7 @@ import weka.core.CheckScheme.PostProcessor;
  * method.
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  *
  * @see CheckAttributeSelection
  * @see CheckAttributeSelection#testsPerClassType(int, boolean, boolean)

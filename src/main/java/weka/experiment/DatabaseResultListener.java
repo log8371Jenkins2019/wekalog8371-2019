@@ -34,7 +34,7 @@ import weka.core.RevisionUtils;
  * <!-- globalinfo-end -->
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11247 $
  */
 public class DatabaseResultListener extends DatabaseUtils implements
   ResultListener {
@@ -395,6 +395,6 @@ public class DatabaseResultListener extends DatabaseUtils implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11247 $");
   }
 }

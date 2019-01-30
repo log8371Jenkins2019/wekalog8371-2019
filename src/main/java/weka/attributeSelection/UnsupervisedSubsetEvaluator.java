@@ -27,7 +27,7 @@ import weka.clusterers.Clusterer;
  * Abstract unsupervised attribute subset evaluator.
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class UnsupervisedSubsetEvaluator 
   extends ASEvaluation

@@ -54,7 +54,7 @@ import weka.core.RevisionUtils;
  * 
  * @see #PI 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class XMLDocument
   implements RevisionHandler {
@@ -652,7 +652,7 @@ public class XMLDocument
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
   
   /**

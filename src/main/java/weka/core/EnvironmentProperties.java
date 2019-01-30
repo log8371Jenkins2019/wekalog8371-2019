@@ -30,7 +30,7 @@ import java.util.Set;
  * weka.core.Utils.readProperties().
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 12232 $
  */
 public class EnvironmentProperties extends Properties {
 

@@ -67,7 +67,7 @@ import weka.gui.ListSelectorDialog;
  * 
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11342 $
  */
 
 public class ArffViewerMainPanel extends JPanel implements ActionListener,

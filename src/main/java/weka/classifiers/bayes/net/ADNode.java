@@ -62,7 +62,7 @@ import weka.core.TechnicalInformationHandler;
  * <!-- technical-bibtex-end -->
  * 
  * @author Remco Bouckaert (rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 public class ADNode implements Serializable, TechnicalInformationHandler,
   RevisionHandler {
@@ -306,6 +306,6 @@ public class ADNode implements Serializable, TechnicalInformationHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 } // class ADNode

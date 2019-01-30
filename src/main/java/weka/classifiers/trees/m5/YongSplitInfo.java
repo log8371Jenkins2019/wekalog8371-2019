@@ -33,7 +33,7 @@ import weka.core.Utils;
  * 
  * @author Yong Wang (yongwang@cs.waikato.ac.nz)
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11269 $
  */
 public final class YongSplitInfo implements Cloneable, Serializable,
   SplitEvaluate, RevisionHandler {
@@ -215,6 +215,6 @@ public final class YongSplitInfo implements Cloneable, Serializable,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11269 $");
   }
 }

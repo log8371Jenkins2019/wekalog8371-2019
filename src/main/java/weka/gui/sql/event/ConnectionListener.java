@@ -28,7 +28,7 @@ import java.util.EventListener;
  * A listener for connect/disconnect events.
  *
  * @author      FracPete (fracpete at waikato dot ac dot nz)
- * @version     $Revision$
+ * @version     $Revision: 8034 $
  */
 
 public interface ConnectionListener extends EventListener {

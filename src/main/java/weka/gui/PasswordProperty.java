@@ -27,7 +27,7 @@ import java.lang.annotation.*;
  * password.
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 11660 $
  */
 @Documented
 @Retention(RetentionPolicy.RUNTIME)

@@ -30,7 +30,7 @@ import weka.core.Utils;
  * Class encapsulating a list of association rules.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class AssociationRules implements Serializable {
   

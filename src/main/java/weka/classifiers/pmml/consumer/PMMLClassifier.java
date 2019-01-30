@@ -39,7 +39,7 @@ import weka.gui.Logger;
  * Abstract base class for all PMML classifiers.
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class PMMLClassifier extends AbstractClassifier
   implements Serializable, PMMLModel {

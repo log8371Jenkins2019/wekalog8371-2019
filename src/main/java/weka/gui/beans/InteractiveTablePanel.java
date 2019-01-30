@@ -24,7 +24,7 @@ package weka.gui.beans;
  * Provides a panel using an interactive table model.
  * 
  * @author Mark Hall (mhall{[at]}penthao{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 12316 $
  * @deprecated Use {@code weka.gui.InteractiveTablePanel} instead. Retained for
  * backward compatibility
  */

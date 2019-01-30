@@ -32,7 +32,7 @@ import weka.core.Utils;
  * Bean that evaluates incremental classifiers
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 10220 $
  */
 public class IncrementalClassifierEvaluator extends AbstractEvaluator implements
   IncrementalClassifierListener, EventConstraints {

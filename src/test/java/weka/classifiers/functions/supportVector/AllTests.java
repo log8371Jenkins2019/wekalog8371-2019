@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.functions.supportVector.AllTests
  *
  * @author FracPete (frapcete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class AllTests 
   extends WekaTestSuite {

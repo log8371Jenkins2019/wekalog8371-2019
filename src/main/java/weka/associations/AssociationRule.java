@@ -28,7 +28,7 @@ import java.util.Collection;
  * Abstract class for storing and manipulating an association rule.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com).
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class AssociationRule implements Comparable<AssociationRule> {
 

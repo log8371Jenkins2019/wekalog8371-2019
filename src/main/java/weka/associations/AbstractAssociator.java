@@ -41,7 +41,7 @@ import java.util.Vector;
  * associations implemement this class
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12201 $
  */
 public abstract class AbstractAssociator
   implements Cloneable, Associator, Serializable, CapabilitiesHandler,
@@ -199,7 +199,7 @@ public abstract class AbstractAssociator
    * @return the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12201 $");
   }
 
   /**

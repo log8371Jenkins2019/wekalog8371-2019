@@ -33,7 +33,7 @@ import javax.swing.JOptionPane;
  * disabled by using the setEnabled(boolean) method.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11271 $
  * @see #setEnabled(boolean)
  */
 public class Memory implements RevisionHandler {
@@ -340,7 +340,7 @@ public class Memory implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11271 $");
   }
 
   /**

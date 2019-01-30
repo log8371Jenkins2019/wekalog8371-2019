@@ -30,7 +30,7 @@ import weka.test.WekaTestSuite;
  * 
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
  * @author FracPete (frapcete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11475 $
  */
 public class AllTests
   extends WekaTestSuite {

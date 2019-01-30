@@ -32,7 +32,7 @@ import weka.core.RevisionUtils;
  * plus the actual class value.
  *
  * @author Len Trigg (len@reeltwo.com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class NumericPrediction
   implements Prediction, Serializable, RevisionHandler {
@@ -174,6 +174,6 @@ public class NumericPrediction
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 }

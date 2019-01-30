@@ -35,7 +35,7 @@ import weka.gui.visualize.PlotData2D;
  * classes.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class WekaOffscreenChartRenderer extends AbstractOffscreenChartRenderer {
   

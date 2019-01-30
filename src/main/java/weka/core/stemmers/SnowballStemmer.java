@@ -66,7 +66,7 @@ import java.util.Vector;
  * <!-- options-end -->
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14291 $
  */
 public class SnowballStemmer implements Stemmer, OptionHandler {
 
@@ -457,7 +457,7 @@ public class SnowballStemmer implements Stemmer, OptionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14291 $");
   }
 
   /**

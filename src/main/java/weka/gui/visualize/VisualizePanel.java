@@ -85,7 +85,7 @@ import java.util.Random;
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
  * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14761 $
  */
 public class VisualizePanel extends PrintablePanel {
 

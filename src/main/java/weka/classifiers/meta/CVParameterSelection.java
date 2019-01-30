@@ -112,7 +112,7 @@ import weka.core.Utils;
  * Options after -- are passed to the designated sub-classifier. <p>
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$ 
+ * @version $Revision: 13370 $ 
 */
 public class CVParameterSelection 
   extends RandomizableSingleClassifierEnhancer
@@ -242,7 +242,7 @@ public class CVParameterSelection
      * @return		the revision
      */
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 13370 $");
     }
   }
 
@@ -836,7 +836,7 @@ public class CVParameterSelection
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 13370 $");
   }
   
   /**

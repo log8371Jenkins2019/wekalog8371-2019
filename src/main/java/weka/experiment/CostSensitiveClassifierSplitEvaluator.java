@@ -101,7 +101,7 @@ import weka.core.Utils;
  * All options after -- will be passed to the classifier.
  *
  * @author Len Trigg (len@reeltwo.com)
- * @version $Revision$
+ * @version $Revision: 11323 $
  */
 public class CostSensitiveClassifierSplitEvaluator extends
   ClassifierSplitEvaluator {
@@ -595,6 +595,6 @@ public class CostSensitiveClassifierSplitEvaluator extends
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11323 $");
   }
 } // CostSensitiveClassifierSplitEvaluator

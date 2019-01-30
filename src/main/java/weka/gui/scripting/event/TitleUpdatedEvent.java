@@ -28,7 +28,7 @@ import weka.gui.scripting.ScriptingPanel;
  * Event that gets send in case a scripting panel updates the title.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class TitleUpdatedEvent
   extends EventObject {

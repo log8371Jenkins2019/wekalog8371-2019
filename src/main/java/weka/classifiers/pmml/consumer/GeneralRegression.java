@@ -43,7 +43,7 @@ import weka.core.pmml.TargetMetaInfo;
  * raises an Exception).
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class GeneralRegression extends PMMLClassifier
   implements Serializable {
@@ -1469,6 +1469,6 @@ public class GeneralRegression extends PMMLClassifier
    * @see weka.core.RevisionHandler#getRevision()
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 }

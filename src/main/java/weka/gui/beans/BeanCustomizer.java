@@ -31,7 +31,7 @@ import java.beans.Customizer;
  * is closed.
  * 
  * @author Mark Hall (mhall{[at]}penthao{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  *
  */
 public interface BeanCustomizer extends Customizer {

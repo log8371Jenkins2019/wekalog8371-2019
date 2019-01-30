@@ -35,7 +35,7 @@ import weka.core.RevisionUtils;
  <!-- options-end -->
  * 
  * @author Remco Bouckaert
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class NaiveBayes 
 	extends SearchAlgorithm {
@@ -75,7 +75,7 @@ public class NaiveBayes
 	 * @return		the revision
 	 */
 	public String getRevision() {
-	  return RevisionUtils.extract("$Revision$");
+	  return RevisionUtils.extract("$Revision: 8034 $");
 	}
 	
 } // class NaiveBayes

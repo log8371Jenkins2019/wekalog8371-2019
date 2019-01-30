@@ -31,7 +31,7 @@ import weka.gui.sql.DbUtils;
  *
  * @see         QueryExecuteListener
  * @author      FracPete (fracpete at waikato dot ac dot nz)
- * @version     $Revision$
+ * @version     $Revision: 8034 $
  */
 public class QueryExecuteEvent
   extends EventObject {

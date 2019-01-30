@@ -58,7 +58,7 @@ import weka.core.Utils;
  * 
  * @author Sebastian Germesin (sebastian.germesin@dfki.de)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10971 $
  */
 public class NGramTokenizer extends CharacterDelimitedTokenizer {
 
@@ -338,7 +338,7 @@ public class NGramTokenizer extends CharacterDelimitedTokenizer {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10971 $");
   }
 
   /**

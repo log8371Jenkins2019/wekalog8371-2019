@@ -41,7 +41,7 @@ import weka.test.Regression;
  * java weka.classifiers.misc.SerializedClassifierTest
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10160 $
  */
 public class SerializedClassifierTest extends TestCase {
 
@@ -235,7 +235,80 @@ public class SerializedClassifierTest extends TestCase {
     return sb.toString();
   }
 
-  
+  /**
+   * Runs a regression test -- this checks that the output of the tested object
+   * matches that in a reference version. When this test is run without any
+   * pre-existing reference output, the reference version is created. Uses J48
+   * for this purpose.
+   */
+  public void testRegression() {
+    Regression reg;
+    Instances train;
+    Instances test;
+    Instances data;
+    TestInstances testInst;
+    int tot;
+    int mid;
+    EvaluationUtils evaluation;
+    ArrayList<Prediction> regressionResults;
+
+    reg = new Regression(this.getClass());
+
+    // generate test data
+    try {
+      testInst = new TestInstances();
+      testInst.setClassType(Attribute.NOMINAL);
+      testInst.setNumNominal(5);
+      testInst.setNumNominalValues(4);
+      testInst.setNumNumeric(0);
+      testInst.setNumDate(0);
+      testInst.setNumString(0);
+      testInst.setNumRelational(0);
+      testInst.setNumInstances(100);
+      data = testInst.generate();
+    } catch (Exception e) {
+      fail("Failed generating data: " + e);
+      return;
+    }
+
+    // split data into train/test
+    tot = data.numInstances();
+    mid = tot / 2;
+    train = null;
+    test = null;
+
+    try {
+      train = new Instances(data, 0, mid);
+      test = new Instances(data, mid, tot - mid);
+      m_Classifier = new SerializedClassifier();
+      m_Classifier.setModelFile(new File(MODEL_FILENAME));
+    } catch (Exception e) {
+      e.printStackTrace();
+      fail("Problem setting up to use classifier: " + e);
+    }
+
+    evaluation = new EvaluationUtils();
+    try {
+      trainAndSerializeClassifier(train);
+      regressionResults = evaluation.getTrainTestPredictions(m_Classifier,
+        train, test);
+      reg.println(predictionsToString(regressionResults));
+    } catch (Exception e) {
+      fail("Failed obtaining classifier predictions: " + e);
+    }
+
+    try {
+      String diff = reg.diff();
+      if (diff == null) {
+        System.err.println("Warning: No reference available, creating.");
+      } else if (!diff.equals("")) {
+        fail("Regression test failed. Difference:\n" + diff);
+      }
+    } catch (java.io.IOException ex) {
+      fail("Problem during regression testing.\n" + ex);
+    }
+  }
+
   /**
    * tests the listing of the options
    */

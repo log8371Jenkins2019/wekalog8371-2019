@@ -65,7 +65,7 @@ import java.io.File;
 *
  * @author Richard kirkby (rkirkby@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz) 
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class SimpleSetupPanel
   extends AbstractSetupPanel {

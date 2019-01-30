@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.core.UtilsTest
  *
  * @author  FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11410 $
  */
 public class UtilsTest 
   extends TestCase {

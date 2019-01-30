@@ -31,7 +31,7 @@ import javax.swing.ListCellRenderer;
  * A specialized renderer that takes care of JLabels in a JList.
  *
  * @author  FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 
 public class InfoPanelCellRenderer 

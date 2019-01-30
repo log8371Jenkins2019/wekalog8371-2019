@@ -80,7 +80,7 @@ import weka.gui.visualize.PrintablePanel;
  * over nodes.
  * 
  * @author Ashraf M. Kibriya (amk14@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class GraphVisualizer extends JPanel implements GraphConstants,
   LayoutCompleteEventListener {

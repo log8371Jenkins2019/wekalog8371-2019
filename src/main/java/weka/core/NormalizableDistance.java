@@ -36,7 +36,7 @@ import weka.core.neighboursearch.PerformanceStats;
  *         weka.core.EuclideanDistance
  * @author Ashraf M. Kibriya (amk14@cs.waikato.ac.nz) -- original code from
  *         weka.core.EuclideanDistance
- * @version $Revision$
+ * @version $Revision: 14814 $
  */
 public abstract class NormalizableDistance implements DistanceFunction,
   OptionHandler, Serializable, RevisionHandler {

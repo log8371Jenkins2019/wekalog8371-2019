@@ -50,7 +50,7 @@ import weka.gui.visualize.VisualizeUtils;
  * multiple plots simultaneously
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class StripChart extends JPanel implements ChartListener,
   InstanceListener, Visible, BeanCommon, UserRequestAcceptor {

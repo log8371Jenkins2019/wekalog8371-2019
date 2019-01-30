@@ -45,7 +45,7 @@ import weka.core.Utils;
  * <p>
  * 
  * @author Xin Xu (xx5@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 public class RuleStats implements Serializable, RevisionHandler {
 
@@ -902,6 +902,6 @@ public class RuleStats implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 }

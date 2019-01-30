@@ -32,7 +32,7 @@ import weka.experiment.DatabaseUtils;
  * @see       DatabaseUtils
  * @see       #execute(String)
  * @author    FracPete (fracpete at waikato dot ac dot nz)
- * @version   $Revision$
+ * @version   $Revision: 8034 $
  */
 public class DbUtils
   extends DatabaseUtils {
@@ -66,6 +66,6 @@ public class DbUtils
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 }

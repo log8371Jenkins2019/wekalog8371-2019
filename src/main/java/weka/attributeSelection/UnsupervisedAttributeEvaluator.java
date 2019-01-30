@@ -25,7 +25,7 @@ package weka.attributeSelection;
  * Abstract unsupervised attribute evaluator.
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class UnsupervisedAttributeEvaluator
   extends ASEvaluation

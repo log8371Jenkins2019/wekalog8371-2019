@@ -78,7 +78,7 @@ import java.io.ObjectOutputStream;
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 13477 $
  */
 public class SetupPanel extends AbstractSetupPanel {
 

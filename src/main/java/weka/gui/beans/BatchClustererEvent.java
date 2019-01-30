@@ -30,7 +30,7 @@ import weka.clusterers.Clusterer;
  * test on.
  *
  * @author <a href="mailto:mutter@cs.waikato.ac.nz">Stefan Mutter</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  * @since 1.0
  * @see EventObject
  */

@@ -33,7 +33,7 @@ import weka.core.Utils;
  * Class encapsulating information about a MiningField.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class MiningFieldMetaInfo extends FieldMetaInfo implements Serializable {
   

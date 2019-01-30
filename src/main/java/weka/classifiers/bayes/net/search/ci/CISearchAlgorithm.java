@@ -48,7 +48,7 @@ import weka.core.RevisionUtils;
  <!-- options-end -->
  *
  * @author Remco Bouckaert (rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class CISearchAlgorithm 
 	extends LocalScoreSearchAlgorithm {
@@ -114,6 +114,6 @@ public class CISearchAlgorithm
 	 * @return		the revision
 	 */
 	public String getRevision() {
-	  return RevisionUtils.extract("$Revision$");
+	  return RevisionUtils.extract("$Revision: 8034 $");
 	}
 } // class CISearchAlgorithm

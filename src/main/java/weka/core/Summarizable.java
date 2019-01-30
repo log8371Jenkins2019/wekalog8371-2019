@@ -26,7 +26,7 @@ package weka.core;
  * to toString() which is usually a fairly complete description) of itself.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface Summarizable {
 

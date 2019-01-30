@@ -91,7 +91,7 @@ import weka.filters.unsupervised.attribute.Remove;
  * <p/>
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11942 $
  */
 public class AttributeSelection implements Serializable, RevisionHandler {
 
@@ -1085,6 +1085,6 @@ public class AttributeSelection implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11942 $");
   }
 }

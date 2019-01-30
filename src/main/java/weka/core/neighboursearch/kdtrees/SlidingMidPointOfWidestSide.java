@@ -55,7 +55,7 @@ import weka.core.TechnicalInformationHandler;
  <!-- options-end -->
  *
  * @author  Ashraf M. Kibriya (amk14@waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class SlidingMidPointOfWidestSide
   extends KDTreeNodeSplitter 
@@ -261,6 +261,6 @@ public class SlidingMidPointOfWidestSide
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 }

@@ -42,7 +42,7 @@ import weka.core.pmml.MiningSchema;
  * for prediction (buildClassifier() raises and Exception).
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$;
+ * @version $Revision: 10153 $;
  */
 public class TreeModel extends PMMLClassifier implements Drawable {
 
@@ -1731,7 +1731,7 @@ public class TreeModel extends PMMLClassifier implements Drawable {
 
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 
   @Override

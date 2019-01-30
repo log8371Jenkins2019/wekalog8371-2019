@@ -30,7 +30,7 @@ import weka.core.Utils;
  * Class that encapsulates a numeric item.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10172 $
  */
 public class NumericItem extends Item implements Serializable {
 

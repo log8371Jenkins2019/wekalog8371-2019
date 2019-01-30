@@ -41,7 +41,7 @@ import weka.gui.PropertySheetPanel;
  * GUI customizer for the classifier performance evaluator component
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9320 $
  */
 public class ClassifierPerformanceEvaluatorCustomizer extends JPanel implements
     BeanCustomizer, CustomizerCloseRequester, CustomizerClosingListener {

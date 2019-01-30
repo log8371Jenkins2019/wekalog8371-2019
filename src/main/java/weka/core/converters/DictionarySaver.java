@@ -127,7 +127,7 @@ import weka.core.tokenizers.Tokenizer;
  * <!-- options-end -->
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 12690 $
  */
 public class DictionarySaver extends AbstractFileSaver implements
   BatchConverter, IncrementalConverter {
@@ -652,7 +652,7 @@ public class DictionarySaver extends AbstractFileSaver implements
 
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12690 $");
   }
 
   public static void main(String[] args) {

@@ -27,7 +27,7 @@ package weka.classifiers;
  * data structures, pruning dictionaries etc.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 11061 $
  */
 public interface UpdateableBatchProcessor {
 

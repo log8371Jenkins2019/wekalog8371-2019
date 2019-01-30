@@ -42,7 +42,7 @@ import weka.gui.visualize.VisualizeUtils;
  * A scripting panel for <a href="http://www.jython.org/" target="_blank">Jython</a>.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class JythonPanel
   extends FileScriptingPanel {

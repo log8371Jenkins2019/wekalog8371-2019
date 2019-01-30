@@ -83,7 +83,7 @@ import weka.filters.unsupervised.attribute.Reorder;
  * <!-- options-end -->
  * 
  * @author Remco Bouckaert (rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 
 public class EditableBayesNet extends BayesNet {
@@ -2863,7 +2863,7 @@ public class EditableBayesNet extends BayesNet {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 
   /**

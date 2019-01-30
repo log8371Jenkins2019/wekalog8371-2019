@@ -29,7 +29,7 @@ import java.beans.SimpleBeanInfo;
  * BeanInfo class for the Associator wrapper bean
  *
  * @author Mark Hall (mhall at cs dot waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class AssociatorBeanInfo extends SimpleBeanInfo {
  

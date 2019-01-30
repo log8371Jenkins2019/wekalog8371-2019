@@ -38,7 +38,7 @@ import weka.filters.UnsupervisedFilter;
  * <!-- globalinfo-end -->
  * 
  * @author Len Trigg (len@reeltwo.com)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class Obfuscate extends Filter implements UnsupervisedFilter,
   StreamableFilter, WeightedAttributesHandler, WeightedInstancesHandler {
@@ -161,7 +161,7 @@ public class Obfuscate extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

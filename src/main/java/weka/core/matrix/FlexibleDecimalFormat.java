@@ -29,7 +29,7 @@ import weka.core.RevisionUtils;
 
 /**
  * @author Yong Wang
- * @version $Revision$
+ * @version $Revision: 10835 $
  */
 public class FlexibleDecimalFormat extends DecimalFormat implements
   RevisionHandler {
@@ -237,6 +237,6 @@ public class FlexibleDecimalFormat extends DecimalFormat implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10835 $");
   }
 }

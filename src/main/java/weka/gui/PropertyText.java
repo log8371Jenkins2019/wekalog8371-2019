@@ -35,7 +35,7 @@ import javax.swing.JTextField;
  * somewhere other than this field simultaneously
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 class PropertyText
   extends JTextField {

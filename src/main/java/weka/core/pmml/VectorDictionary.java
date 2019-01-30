@@ -38,7 +38,7 @@ import weka.core.Instances;
  * Class encapsulating the PMML VectorDictionary construct.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class VectorDictionary implements Serializable {
   

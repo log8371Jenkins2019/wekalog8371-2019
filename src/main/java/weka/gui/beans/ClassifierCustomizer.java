@@ -48,7 +48,7 @@ import weka.gui.PropertySheetPanel;
  * GUI customizer for the classifier wrapper bean
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 9213 $
  */
 public class ClassifierCustomizer extends JPanel implements BeanCustomizer,
     CustomizerClosingListener, CustomizerCloseRequester, EnvironmentHandler {

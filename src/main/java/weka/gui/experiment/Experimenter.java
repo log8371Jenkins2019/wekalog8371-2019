@@ -42,7 +42,7 @@ import java.beans.PropertyChangeListener;
  * save, configure, run experiments, and analyse experimental results.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12971 $
  */
 @PerspectiveInfo(ID = "weka.gui.experimenter", title = "Experiment",
   toolTipText = "Run large scale experiments",

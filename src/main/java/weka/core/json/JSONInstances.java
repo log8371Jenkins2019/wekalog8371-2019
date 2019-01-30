@@ -35,7 +35,7 @@ import weka.core.converters.ConverterUtils.DataSource;
  * objects and vice versa. Missing values get stored as "?".
  * 
  * @author  FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 9664 $
  * @see #MISSING_VALUE
  */
 public class JSONInstances {

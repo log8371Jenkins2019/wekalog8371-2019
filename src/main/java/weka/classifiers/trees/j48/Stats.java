@@ -30,7 +30,7 @@ import weka.core.Statistics;
  * compute its error estimate.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class Stats
   implements RevisionHandler {
@@ -96,6 +96,6 @@ public class Stats
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 }

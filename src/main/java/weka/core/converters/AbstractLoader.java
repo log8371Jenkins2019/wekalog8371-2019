@@ -34,7 +34,7 @@ import weka.core.Instances;
  * methods must be overridden.
  * 
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12184 $
  */
 public abstract class AbstractLoader implements Loader {
 

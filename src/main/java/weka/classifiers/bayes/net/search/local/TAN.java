@@ -79,7 +79,7 @@ import weka.core.TechnicalInformationHandler;
  * <!-- options-end -->
  * 
  * @author Remco Bouckaert
- * @version $Revision$
+ * @version $Revision: 10154 $
  */
 public class TAN extends LocalScoreSearchAlgorithm implements
   TechnicalInformationHandler {
@@ -300,7 +300,7 @@ public class TAN extends LocalScoreSearchAlgorithm implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10154 $");
   }
 
 } // TAN

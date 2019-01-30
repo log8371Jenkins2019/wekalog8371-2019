@@ -49,7 +49,7 @@ import weka.core.Utils;
  * 
  * @author Gabi Schmidberger (gabi@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 12478 $
  */
 public abstract class ClusterGenerator extends DataGenerator {
 

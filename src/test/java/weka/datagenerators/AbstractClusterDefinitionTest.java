@@ -28,7 +28,7 @@ import junit.framework.TestCase;
  * Abstract Test class for ClusterDefinitions.
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class AbstractClusterDefinitionTest 
   extends TestCase {

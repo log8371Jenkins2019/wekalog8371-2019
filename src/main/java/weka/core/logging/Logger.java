@@ -32,7 +32,7 @@ import weka.core.Utils;
  * Abstract superclass for all loggers.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11646 $
  */
 public abstract class Logger implements RevisionHandler {
 
@@ -213,7 +213,7 @@ public abstract class Logger implements RevisionHandler {
    * The logging level.
    *
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 11646 $
    */
   public enum Level {
     /** logs all messages. */

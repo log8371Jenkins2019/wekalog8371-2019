@@ -39,7 +39,7 @@ import java.util.Vector;
  * props file <code>weka/gui/experiment/Experimenter.props</code>.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11944 $
  * @see #PROPERTY_FILE
  */
 public class ExperimenterDefaults implements Serializable {

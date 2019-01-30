@@ -33,7 +33,7 @@ import weka.core.Utils;
  * Abstract attribute selection search class.
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class ASSearch
   implements Serializable, RevisionHandler {
@@ -51,7 +51,7 @@ public abstract class ASSearch
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
   
   /**

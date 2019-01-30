@@ -35,7 +35,7 @@ import weka.core.RevisionUtils;
  * execute.
  *
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class TaskStatusInfo
   implements Serializable, RevisionHandler {
@@ -125,6 +125,6 @@ public class TaskStatusInfo
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 }

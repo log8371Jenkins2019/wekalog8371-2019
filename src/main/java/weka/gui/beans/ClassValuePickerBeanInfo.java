@@ -30,7 +30,7 @@ import java.beans.SimpleBeanInfo;
  * BeanInfo class for the class value picker bean
  *
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ClassValuePickerBeanInfo 
   extends SimpleBeanInfo {

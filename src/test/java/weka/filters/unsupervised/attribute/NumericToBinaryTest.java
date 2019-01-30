@@ -31,7 +31,7 @@ import junit.framework.TestSuite;
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
  * @author Christopher Beckham (cjb60 at students dot waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11520 $
  */
 public class NumericToBinaryTest extends AbstractFilterTest {
   

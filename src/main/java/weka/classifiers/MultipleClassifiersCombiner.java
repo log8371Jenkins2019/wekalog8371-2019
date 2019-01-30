@@ -33,7 +33,7 @@ import weka.core.Capabilities.Capability;
  * meta classifiers that build an ensemble from multiple classifiers.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12204 $
  */
 public abstract class MultipleClassifiersCombiner extends AbstractClassifier {
 

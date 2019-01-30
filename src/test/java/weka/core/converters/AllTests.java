@@ -31,7 +31,7 @@ import weka.test.WekaTestSuite;
  * java weka.core.converter.AllTests
  * 
  * @author FracPete (frapcete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class AllTests extends WekaTestSuite {
 

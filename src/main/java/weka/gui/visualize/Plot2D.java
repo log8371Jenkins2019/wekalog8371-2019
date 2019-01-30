@@ -48,7 +48,7 @@ import java.util.Vector;
  * errors and clusterer predictions.
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14589 $
  */
 public class Plot2D extends JPanel {
 

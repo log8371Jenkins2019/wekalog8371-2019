@@ -64,7 +64,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11213 $
  */
 public class Ranker extends ASSearch implements RankedOutputSearch,
   StartSetHandler, OptionHandler {
@@ -633,6 +633,6 @@ public class Ranker extends ASSearch implements RankedOutputSearch,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11213 $");
   }
 }

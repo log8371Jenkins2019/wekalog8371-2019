@@ -31,7 +31,7 @@ import javax.swing.JComboBox;
  * Support for any PropertyEditor that uses tags.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 class PropertyValueSelector
   extends JComboBox {

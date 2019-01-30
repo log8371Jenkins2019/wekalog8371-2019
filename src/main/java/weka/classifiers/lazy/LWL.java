@@ -115,7 +115,7 @@ import weka.core.neighboursearch.NearestNeighbourSearch;
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
- * @version $Revision$ 
+ * @version $Revision: 10141 $ 
  */
 public class LWL 
   extends SingleClassifierEnhancer
@@ -732,7 +732,7 @@ public class LWL
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10141 $");
   }
   
   /**

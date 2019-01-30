@@ -37,7 +37,7 @@ import javax.swing.JPanel;
  * Abstract class for objects that can provide instances from some source
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 10216 $
  * @since 1.0
  * @see JPanel
  * @see DataSource

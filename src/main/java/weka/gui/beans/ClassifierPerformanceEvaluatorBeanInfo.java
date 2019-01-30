@@ -30,7 +30,7 @@ import java.beans.SimpleBeanInfo;
  * Bean info class for the classifier performance evaluator
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 9455 $
  */
 public class ClassifierPerformanceEvaluatorBeanInfo extends SimpleBeanInfo {
 

@@ -35,7 +35,7 @@ import weka.core.Instances;
  * Bean that assigns a class attribute to a data set.
  * 
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 10220 $
  */
 public class ClassAssigner extends JPanel implements Visible,
   DataSourceListener, TrainingSetListener, TestSetListener, DataSource,

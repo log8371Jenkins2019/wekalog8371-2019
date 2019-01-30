@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.associations.AprioriTest
  *
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class FPGrowthTest 
   extends AbstractAssociatorTest {

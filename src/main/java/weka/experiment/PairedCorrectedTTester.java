@@ -130,7 +130,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class PairedCorrectedTTester extends PairedTTester implements
   TechnicalInformationHandler {
@@ -350,6 +350,6 @@ public class PairedCorrectedTTester extends PairedTTester implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 }

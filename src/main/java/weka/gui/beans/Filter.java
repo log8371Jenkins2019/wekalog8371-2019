@@ -45,7 +45,7 @@ import weka.gui.Logger;
  * A wrapper bean for Weka filters
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 10220 $
  */
 public class Filter extends JPanel implements BeanCommon, Visible, WekaWrapper,
   Serializable, UserRequestAcceptor, TrainingSetListener, TestSetListener,

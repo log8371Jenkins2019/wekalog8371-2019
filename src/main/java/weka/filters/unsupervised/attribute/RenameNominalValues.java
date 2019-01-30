@@ -70,7 +70,7 @@ import weka.filters.UnsupervisedFilter;
  <!-- options-end -->
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 14865 $
  */
 public class RenameNominalValues extends Filter implements UnsupervisedFilter,
   StreamableFilter, OptionHandler, WeightedInstancesHandler, WeightedAttributesHandler {
@@ -513,7 +513,7 @@ public class RenameNominalValues extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14865 $");
   }
 
   /**

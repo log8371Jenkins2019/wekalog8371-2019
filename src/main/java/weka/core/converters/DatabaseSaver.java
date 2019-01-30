@@ -105,7 +105,7 @@ import java.util.Vector;
  * <!-- options-end -->
  * 
  * @author Stefan Mutter (mutter@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12418 $
  */
 public class DatabaseSaver extends AbstractSaver implements BatchConverter,
   IncrementalConverter, DatabaseConverter, OptionHandler, EnvironmentHandler {
@@ -1264,6 +1264,6 @@ public class DatabaseSaver extends AbstractSaver implements BatchConverter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12418 $");
   }
 }

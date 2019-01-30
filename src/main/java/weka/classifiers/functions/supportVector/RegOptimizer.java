@@ -56,7 +56,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Remco Bouckaert (remco@cs.waikato.ac.nz,rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 12533 $
  */
 public class RegOptimizer implements OptionHandler, Serializable,
   RevisionHandler {
@@ -585,6 +585,6 @@ public class RegOptimizer implements OptionHandler, Serializable,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12533 $");
   }
 }

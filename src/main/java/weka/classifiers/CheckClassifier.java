@@ -193,7 +193,7 @@ import weka.core.WeightedInstancesHandler;
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11253 $
  * @see TestInstances
  */
 public class CheckClassifier extends CheckScheme {
@@ -1811,7 +1811,7 @@ public class CheckClassifier extends CheckScheme {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11253 $");
   }
 
   /**

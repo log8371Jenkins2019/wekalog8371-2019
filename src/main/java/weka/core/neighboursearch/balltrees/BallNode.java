@@ -33,7 +33,7 @@ import weka.core.RevisionUtils;
  * Class representing a node of a BallTree.
  * 
  * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class BallNode
   implements Serializable, RevisionHandler {
@@ -365,6 +365,6 @@ public class BallNode
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 }

@@ -43,7 +43,7 @@ import weka.gui.sql.event.ResultChangedListener;
  * A little dialog containing the SqlViewer.
  *
  * @author      FracPete (fracpete at waikato dot ac dot nz)
- * @version     $Revision$
+ * @version     $Revision: 8034 $
  */
 public class SqlViewerDialog 
   extends JDialog 

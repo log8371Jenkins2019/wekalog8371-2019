@@ -39,7 +39,7 @@ import weka.gui.PropertySheetPanel;
  * GUI customizer for the associator wrapper bean
  *
  * @author Mark Hall (mhall at cs dot waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class AssociatorCustomizer
   extends JPanel

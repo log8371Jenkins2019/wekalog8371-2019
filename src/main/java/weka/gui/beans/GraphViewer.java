@@ -49,7 +49,7 @@ import weka.gui.treevisualizer.TreeVisualizer;
  * A bean encapsulating weka.gui.treevisualize.TreeVisualizer
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class GraphViewer extends JPanel implements Visible, GraphListener,
   UserRequestAcceptor, Serializable, BeanContextChild {

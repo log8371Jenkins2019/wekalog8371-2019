@@ -67,7 +67,7 @@ import java.util.List;
  * 
  * @author Werner Randelshofer
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 12268 $
  */
 public class SplashWindow extends Window {
 

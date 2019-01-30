@@ -25,7 +25,7 @@ package weka.filters;
  * Interface for filters that make use of a class attribute.
  *
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 
 public interface SupervisedFilter {

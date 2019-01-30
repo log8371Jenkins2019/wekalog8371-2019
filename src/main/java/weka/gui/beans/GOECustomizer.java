@@ -35,7 +35,7 @@ package weka.gui.beans;
  * the customizer is displayed by the GOE at the top level.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface GOECustomizer extends BeanCustomizer {
   

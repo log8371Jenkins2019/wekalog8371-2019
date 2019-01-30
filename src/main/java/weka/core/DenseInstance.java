@@ -64,7 +64,7 @@ import java.util.Enumeration;
  * values, it may be faster to create a new instance from scratch.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 15070 $
  */
 public class DenseInstance extends AbstractInstance {
 
@@ -544,6 +544,6 @@ public class DenseInstance extends AbstractInstance {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 15070 $");
   }
 }

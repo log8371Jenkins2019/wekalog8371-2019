@@ -106,7 +106,7 @@ import weka.core.neighboursearch.kdtrees.SlidingMidPointOfWidestSide;
  * @author Gabi Schmidberger (gabi[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
  * @author Malcolm Ware (mfw4[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
  * @author Ashraf M. Kibriya (amk14[at-the-rate]cs[dot]waikato[dot]ac[dot]nz)
- * @version $Revision$
+ * @version $Revision: 14831 $
  */
 public class KDTree
   extends NearestNeighbourSearch
@@ -1330,6 +1330,6 @@ public class KDTree
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14831 $");
   }
 }

@@ -155,7 +155,7 @@ import weka.core.matrix.Matrix;
  * <p/>
  * 
  * @author Xin Xu (xx5@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11271 $
  * @see #getTechnicalInformation()
  */
 public abstract class Optimization implements TechnicalInformationHandler,
@@ -1509,7 +1509,7 @@ public abstract class Optimization implements TechnicalInformationHandler,
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 11271 $");
     }
   }
 }

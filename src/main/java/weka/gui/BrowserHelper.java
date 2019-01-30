@@ -41,7 +41,7 @@ import javax.swing.JOptionPane;
  * Browser Launch</a>, which is placed in the public domain.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 12296 $
  */
 public class BrowserHelper {
 

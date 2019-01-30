@@ -34,7 +34,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.attribute.PartitionMembershipTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 9911 $
  */
 public class PartitionMembershipTest 
   extends AbstractFilterTest {

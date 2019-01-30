@@ -67,7 +67,7 @@ class CompareNode implements Comparator<LMTNode>, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11566 $");
   }
 }
 
@@ -77,7 +77,7 @@ class CompareNode implements Comparator<LMTNode>, RevisionHandler {
  * 
  * @author Niels Landwehr
  * @author Marc Sumner
- * @version $Revision$
+ * @version $Revision: 11566 $
  */
 public class LMTNode extends LogisticBase {
 
@@ -917,6 +917,6 @@ public class LMTNode extends LogisticBase {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11566 $");
   }
 }

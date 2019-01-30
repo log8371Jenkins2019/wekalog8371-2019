@@ -40,7 +40,7 @@ import weka.gui.Logger;
  * images to a file.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ImageSaver extends JPanel implements ImageListener, BeanCommon,
     Visible, Serializable, EnvironmentHandler {

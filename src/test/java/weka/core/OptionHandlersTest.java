@@ -36,7 +36,7 @@ import weka.gui.GenericPropertiesCreator;
  * java weka.core.OptionHandlerTest
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14293 $
  */
 public class OptionHandlersTest extends TestCase {
 

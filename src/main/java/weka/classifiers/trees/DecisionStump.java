@@ -54,7 +54,7 @@ import weka.core.WeightedInstancesHandler;
  <!-- options-end -->
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 9171 $
  */
 public class DecisionStump 
   extends AbstractClassifier 
@@ -757,7 +757,7 @@ public class DecisionStump
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 9171 $");
   }
  
   /**

@@ -49,7 +49,7 @@ import java.util.Vector;
  * @author Yong Wang
  * @author Len Trigg
  * @author Julien Prados
- * @version $Revision$
+ * @version $Revision: 14910 $
  */
 public final class Utils implements RevisionHandler {
 
@@ -2513,7 +2513,7 @@ public final class Utils implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14910 $");
   }
 
   /**

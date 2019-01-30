@@ -5,7 +5,7 @@
 #
 # url:     http://weka.wikispaces.com/Windows+Databases
 # author:  Fracpete (fracpete at waikato dot ac dot nz)
-# version: $Revision$
+# version: $Revision: 11885 $
 
 # JDBC driver (comma-separated list)
 jdbcDriver=sun.jdbc.odbc.JdbcOdbcDriver

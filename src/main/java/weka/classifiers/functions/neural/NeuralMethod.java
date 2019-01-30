@@ -28,7 +28,7 @@ import java.io.Serializable;
  * neuralnode to perform all it's computations.
  *
  * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface NeuralMethod extends Serializable {
   

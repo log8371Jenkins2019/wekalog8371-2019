@@ -53,7 +53,7 @@ import weka.core.TechnicalInformationHandler;
  <!-- technical-bibtex-end -->
  *
  * @author  Eibe Frank (eibe at cs dot waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class LovinsStemmer 
   implements Stemmer, TechnicalInformationHandler {
@@ -981,7 +981,7 @@ public class LovinsStemmer
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 
   /**

@@ -29,7 +29,7 @@ import java.beans.SimpleBeanInfo;
  * Bean info class for the model performance chart
  *
  * @author Mark Hall
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ModelPerformanceChartBeanInfo extends SimpleBeanInfo {
   

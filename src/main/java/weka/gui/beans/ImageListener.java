@@ -27,7 +27,7 @@ import java.util.EventListener;
  * Interface to something that can process an ImageEvent
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface ImageListener extends EventListener {
   

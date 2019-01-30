@@ -91,7 +91,7 @@ import weka.core.Utils;
  *
  * @author Len Trigg (len@reeltwo.com)
  * @author Abdelaziz Mahoui (am14@cs.waikato.ac.nz) - Java port
- * @version $Revision$
+ * @version $Revision: 10141 $
  */
 public class KStar 
   extends AbstractClassifier
@@ -713,7 +713,7 @@ public class KStar
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10141 $");
   }
 
 } // class end

@@ -57,7 +57,7 @@ import weka.estimators.Estimator;
  * <!-- options-end -->
  * 
  * @author Remco Bouckaert (rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 10154 $
  */
 public class BMAEstimator extends SimpleEstimator {
 
@@ -324,6 +324,6 @@ public class BMAEstimator extends SimpleEstimator {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10154 $");
   }
 } // class BMAEstimator

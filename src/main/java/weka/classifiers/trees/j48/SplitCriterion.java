@@ -30,7 +30,7 @@ import weka.core.RevisionHandler;
  * with respect to distributions of class values.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class SplitCriterion
   implements Serializable, RevisionHandler {

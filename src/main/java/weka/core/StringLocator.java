@@ -26,7 +26,7 @@ package weka.core;
  * the Strings from one Instances object to another.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 12038 $
  * @see Attribute#STRING
  * @see Attribute#RELATIONAL
  */
@@ -182,6 +182,6 @@ public class StringLocator extends AttributeLocator {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 12038 $");
   }
 }

@@ -95,7 +95,7 @@ import java.util.Vector;
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 public class GUIChooserApp extends JFrame {
 
@@ -1446,7 +1446,7 @@ public class GUIChooserApp extends JFrame {
    * Specialized JFrame class.
    *
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 14497 $
    */
   public static class ChildFrameSDI extends JFrame {
 

@@ -218,7 +218,7 @@ import java.util.zip.GZIPOutputStream;
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 15022 $
  */
 public class Evaluation implements Summarizable, RevisionHandler, Serializable {
 
@@ -4920,6 +4920,6 @@ public class Evaluation implements Summarizable, RevisionHandler, Serializable {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 15022 $");
   }
 }

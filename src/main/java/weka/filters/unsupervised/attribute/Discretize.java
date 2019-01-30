@@ -103,7 +103,7 @@ import weka.filters.UnsupervisedFilter;
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class Discretize extends PotentialClassIgnorer implements
   UnsupervisedFilter, WeightedInstancesHandler, WeightedAttributesHandler {
@@ -1329,7 +1329,7 @@ public class Discretize extends PotentialClassIgnorer implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

@@ -116,7 +116,7 @@ import weka.filters.supervised.attribute.Discretize;
  * <!-- options-end -->
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11852 $
  * @see Discretize
  */
 public class CfsSubsetEval extends ASEvaluation implements SubsetEvaluator,
@@ -1426,7 +1426,7 @@ public class CfsSubsetEval extends ASEvaluation implements SubsetEvaluator,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11852 $");
   }
 
   /**

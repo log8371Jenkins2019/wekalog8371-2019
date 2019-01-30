@@ -34,7 +34,7 @@ import java.io.Serializable;
  * 
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10531 $
  */
 public abstract class Split implements Serializable {
 

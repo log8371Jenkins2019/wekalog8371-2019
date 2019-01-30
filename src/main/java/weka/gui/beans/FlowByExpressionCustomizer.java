@@ -58,7 +58,7 @@ import weka.gui.PropertySheetPanel;
  * Customizer for the FlowByExpression node
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10638 $
  */
 public class FlowByExpressionCustomizer extends JPanel implements
   EnvironmentHandler, BeanCustomizer, CustomizerCloseRequester {

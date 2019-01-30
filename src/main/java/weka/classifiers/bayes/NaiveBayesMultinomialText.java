@@ -1132,7 +1132,7 @@ public class NaiveBayesMultinomialText extends AbstractClassifier implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14007 $");
   }
 
   protected int m_numModels = 0;

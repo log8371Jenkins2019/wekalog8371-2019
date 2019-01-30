@@ -41,7 +41,7 @@ import javax.swing.ListModel;
  * wrapper is removed and only the payload object is returned.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10219 $
  */
 public class CheckBoxList extends JList {
 
@@ -52,7 +52,7 @@ public class CheckBoxList extends JList {
    * represents an item in the CheckBoxListModel
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 10219 $
    */
   protected class CheckBoxListItem {
 
@@ -134,7 +134,7 @@ public class CheckBoxList extends JList {
    * A specialized model.
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 10219 $
    */
   @SuppressWarnings("rawtypes")
   public class CheckBoxListModel extends DefaultListModel {
@@ -488,7 +488,7 @@ public class CheckBoxList extends JList {
    * A specialized CellRenderer for the CheckBoxList
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 10219 $
    * @see CheckBoxList
    */
   public class CheckBoxListRenderer extends JCheckBox implements

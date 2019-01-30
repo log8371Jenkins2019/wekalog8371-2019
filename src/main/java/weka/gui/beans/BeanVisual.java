@@ -48,7 +48,7 @@ import javax.swing.JPanel;
  * bean's icon.
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 13477 $
  * @since 1.0
  * @see JPanel
  * @see Serializable

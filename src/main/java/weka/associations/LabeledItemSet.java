@@ -42,7 +42,7 @@ import weka.core.WekaEnumeration;
  * can be splitted up virtually.
  * 
  * @author Stefan Mutter (mutter@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 
 public class LabeledItemSet extends ItemSet implements Serializable,
@@ -470,6 +470,6 @@ public class LabeledItemSet extends ItemSet implements Serializable,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 }

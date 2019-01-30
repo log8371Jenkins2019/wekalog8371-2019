@@ -27,7 +27,7 @@ package weka.core;
  * produce a "deep" copy.)
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface Copyable {
 

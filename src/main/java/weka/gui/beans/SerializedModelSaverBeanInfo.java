@@ -29,7 +29,7 @@ import java.beans.SimpleBeanInfo;
  * Bean info class for the serialized model saver bean
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}org
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class SerializedModelSaverBeanInfo extends SimpleBeanInfo {
   

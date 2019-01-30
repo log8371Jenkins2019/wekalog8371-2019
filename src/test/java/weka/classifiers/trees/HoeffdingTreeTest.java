@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.trees.HoeffdingTreeTest
  *
  * @author <a href="mailto:eibe@cs.waikato.ac.nz">Eibe Frank</a>
- * @version $Revision$
+ * @version $Revision: 9705 $
  */
 public class HoeffdingTreeTest extends AbstractClassifierTest {
 

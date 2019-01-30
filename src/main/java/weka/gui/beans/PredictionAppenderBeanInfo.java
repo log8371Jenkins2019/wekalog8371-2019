@@ -30,7 +30,7 @@ import java.beans.SimpleBeanInfo;
  * Bean info class for PredictionAppender.
  *
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  * @since 1.0
  * @see SimpleBeanInfo
  */

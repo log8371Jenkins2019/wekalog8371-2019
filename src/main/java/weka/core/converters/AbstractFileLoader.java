@@ -39,7 +39,7 @@ import weka.core.Utils;
  * Abstract superclass for all file loaders.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14945 $
  */
 public abstract class AbstractFileLoader extends AbstractLoader implements
   FileSourcedConverter, EnvironmentHandler {

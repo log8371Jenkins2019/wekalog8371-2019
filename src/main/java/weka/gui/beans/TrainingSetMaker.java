@@ -30,7 +30,7 @@ import weka.core.Instances;
  * Bean that accepts a data sets and produces a training set
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 10216 $
  */
 public class TrainingSetMaker extends AbstractTrainingSetProducer implements
   DataSourceListener, TestSetListener, EventConstraints, Serializable,

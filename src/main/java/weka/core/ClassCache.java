@@ -41,7 +41,7 @@ import java.util.jar.Manifest;
  * A singleton that stores all classes on the classpath.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14791 $
  */
 public class ClassCache implements RevisionHandler {
 
@@ -49,7 +49,7 @@ public class ClassCache implements RevisionHandler {
    * For filtering classes.
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 14791 $
    */
   public static class ClassFileFilter implements FileFilter {
 
@@ -69,7 +69,7 @@ public class ClassCache implements RevisionHandler {
    * For filtering classes.
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 14791 $
    */
   public static class DirectoryFilter implements FileFilter {
 
@@ -442,7 +442,7 @@ public class ClassCache implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14791 $");
   }
 
   /**

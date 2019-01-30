@@ -51,7 +51,7 @@ import weka.gui.Logger;
  * settings.
  * 
  * @author Mark Hall (mhall at cs dot waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10216 $
  * @since 1.0
  * @see JPanel
  * @see BeanCommon

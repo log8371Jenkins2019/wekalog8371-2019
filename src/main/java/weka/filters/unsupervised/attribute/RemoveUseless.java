@@ -50,7 +50,7 @@ import weka.filters.UnsupervisedFilter;
  * <!-- options-end -->
  * 
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class RemoveUseless extends Filter implements UnsupervisedFilter,
   OptionHandler, WeightedInstancesHandler, WeightedAttributesHandler {
@@ -332,7 +332,7 @@ public class RemoveUseless extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

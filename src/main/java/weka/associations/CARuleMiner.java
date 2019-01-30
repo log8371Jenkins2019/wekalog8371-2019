@@ -31,7 +31,7 @@ import weka.core.OptionHandler;
  * class association rules implemement this interface.
  * 
  * @author Stefan Mutter (mutter@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10172 $
  */
 public interface CARuleMiner extends OptionHandler {
 

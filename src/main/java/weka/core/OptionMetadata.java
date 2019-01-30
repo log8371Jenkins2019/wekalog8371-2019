@@ -29,7 +29,7 @@ import java.lang.annotation.*;
  * command line option details
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 11711 $
  */
 @Documented
 @Retention(RetentionPolicy.RUNTIME)

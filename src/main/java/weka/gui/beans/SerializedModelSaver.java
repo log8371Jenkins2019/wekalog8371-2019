@@ -48,7 +48,7 @@ import weka.core.xml.XStream;
  * A bean that saves serialized models
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}org
- * @version $Revision$
+ * @version $Revision: 11077 $
  */
 @KFStep(category = "DataSinks",
   toolTipText = "Save a batch or incremental model to file")

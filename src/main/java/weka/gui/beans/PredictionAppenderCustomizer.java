@@ -37,7 +37,7 @@ import java.beans.PropertyChangeSupport;
  * GUI Customizer for the prediction appender bean
  *
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 12107 $
  */
 
 public class PredictionAppenderCustomizer

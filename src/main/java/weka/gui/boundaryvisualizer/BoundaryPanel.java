@@ -64,7 +64,7 @@ import weka.core.Utils;
  * generating a 2D picture of a classifier's decision boundaries.
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 12565 $
  * @since 1.0
  * @see JPanel
  */

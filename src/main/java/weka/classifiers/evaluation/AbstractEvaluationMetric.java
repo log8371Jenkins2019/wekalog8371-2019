@@ -33,7 +33,7 @@ import java.util.Set;
  * metrics.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 15007 $
  */
 public abstract class AbstractEvaluationMetric implements Serializable {
 
@@ -75,7 +75,7 @@ public abstract class AbstractEvaluationMetric implements Serializable {
    * of their implementation
    * 
    * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
-   * @version $Revision$
+   * @version $Revision: 15007 $
    */
   public class UnknownStatisticException extends IllegalArgumentException {
 

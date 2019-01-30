@@ -27,7 +27,7 @@ package weka.gui.treevisualizer;
  * dotty standard and what color (in RGB) they represent
  *
  * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class Colors {
   

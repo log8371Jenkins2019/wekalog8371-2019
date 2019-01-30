@@ -60,7 +60,7 @@ import weka.core.converters.URLSourcedLoader;
  * The client can then retrieve the instances by calling getInstances().
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12095 $
  */
 public class SetInstancesPanel extends JPanel {
 

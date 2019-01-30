@@ -75,7 +75,7 @@ import weka.gui.scripting.event.TitleUpdatedEvent;
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
  * @author  Sun Microsystems Inc (see <a href="http://java.sun.com/docs/books/tutorial/uiswing/examples/components/TextComponentDemoProject/src/components/TextComponentDemo.java">TextComponentDemo.java</a>)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class FileScriptingPanel
   extends ScriptingPanel 
@@ -88,7 +88,7 @@ public abstract class FileScriptingPanel
    * A slightly extended action class.
    * 
    * @author  fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   public abstract class BasicAction
     extends AbstractAction {
@@ -120,7 +120,7 @@ public abstract class FileScriptingPanel
    * The New action.
    * 
    * @author  fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   protected class NewAction
     extends BasicAction {
@@ -151,7 +151,7 @@ public abstract class FileScriptingPanel
    * The Open action.
    * 
    * @author  fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   protected class OpenAction
     extends BasicAction {
@@ -198,7 +198,7 @@ public abstract class FileScriptingPanel
    * The Save action.
    * 
    * @author  fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   protected class SaveAction
     extends BasicAction {
@@ -262,7 +262,7 @@ public abstract class FileScriptingPanel
    * The Print action.
    * 
    * @author  fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   protected class PrintAction
     extends BasicAction {
@@ -298,7 +298,7 @@ public abstract class FileScriptingPanel
    * The Clear output action.
    * 
    * @author  fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   protected class ClearOutputAction
     extends BasicAction {
@@ -329,7 +329,7 @@ public abstract class FileScriptingPanel
    * WindowListener objects of a jframe.
    * 
    * @author  fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   protected class ExitAction
     extends BasicAction {
@@ -400,7 +400,7 @@ public abstract class FileScriptingPanel
    * The Undo action.
    * 
    * @author  Sun Microsystems Inc (see <a href="http://java.sun.com/docs/books/tutorial/uiswing/examples/components/TextComponentDemoProject/src/components/TextComponentDemo.java">TextComponentDemo.java</a>)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   protected class UndoAction 
     extends BasicAction {
@@ -452,7 +452,7 @@ public abstract class FileScriptingPanel
    * The Redo action.
    * 
    * @author  Sun Microsystems Inc (see <a href="http://java.sun.com/docs/books/tutorial/uiswing/examples/components/TextComponentDemoProject/src/components/TextComponentDemo.java">TextComponentDemo.java</a>)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   protected class RedoAction
     extends BasicAction {
@@ -504,7 +504,7 @@ public abstract class FileScriptingPanel
    * The Commandline args action.
    * 
    * @author  fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   protected class CommandlineArgsAction
     extends BasicAction {
@@ -554,7 +554,7 @@ public abstract class FileScriptingPanel
    * The Start action.
    * 
    * @author  fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   protected class StartAction
     extends BasicAction {
@@ -600,7 +600,7 @@ public abstract class FileScriptingPanel
    * The Stop action.
    * 
    * @author  fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   protected class StopAction
     extends BasicAction {
@@ -635,7 +635,7 @@ public abstract class FileScriptingPanel
    * The About action.
    * 
    * @author  fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   protected class AboutAction
     extends BasicAction {
@@ -676,7 +676,7 @@ public abstract class FileScriptingPanel
    * This listener class listens for edits that can be undone.
    * 
    * @author  Sun Microsystems Inc (see <a href="http://java.sun.com/docs/books/tutorial/uiswing/examples/components/TextComponentDemoProject/src/components/TextComponentDemo.java">TextComponentDemo.java</a>)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   protected class ScriptUndoableEditListener
     implements UndoableEditListener {

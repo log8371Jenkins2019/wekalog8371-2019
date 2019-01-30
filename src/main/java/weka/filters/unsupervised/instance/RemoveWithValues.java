@@ -88,7 +88,7 @@ import weka.filters.UnsupervisedFilter;
  * <!-- options-end -->
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class RemoveWithValues extends Filter implements UnsupervisedFilter,
   StreamableFilter, OptionHandler, WeightedInstancesHandler, WeightedAttributesHandler {
@@ -732,7 +732,7 @@ public class RemoveWithValues extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

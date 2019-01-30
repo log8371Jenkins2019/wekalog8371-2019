@@ -26,7 +26,7 @@ package weka.classifiers.trees.ht;
  * HoeffdingTree. Implementations include ActiveHNode, NBNode and NBNodeAdaptive
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9705 $
  */
 public interface LearningNode {
 }

@@ -42,7 +42,7 @@ import javax.swing.JComponent;
  * default disabled, since we always take a screenshot.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class JPEGWriter extends JComponentWriter {
 

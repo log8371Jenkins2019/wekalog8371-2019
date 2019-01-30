@@ -33,7 +33,7 @@ import javax.swing.filechooser.FileFilter;
  * javax.swing.filechooser.FileFilter (why there are two I have no idea).
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10216 $
  */
 public class ExtensionFileFilter extends FileFilter implements FilenameFilter,
   Serializable {

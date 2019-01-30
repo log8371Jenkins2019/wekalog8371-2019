@@ -27,7 +27,7 @@ import junit.framework.TestSuite;
  * java weka.attributeSelection.BestFirstTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class BestFirstTest 
   extends AbstractSearchTest {

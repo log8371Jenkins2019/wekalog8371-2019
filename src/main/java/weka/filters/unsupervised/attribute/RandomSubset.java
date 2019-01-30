@@ -61,7 +61,7 @@ import weka.filters.SimpleBatchFilter;
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
  * @author eibe@cs.waikato.ac.nz
- * @version $Revision$
+ * @version $Revision: 15074 $
  */
 public class RandomSubset extends SimpleBatchFilter
         implements Randomizable, WeightedInstancesHandler, WeightedAttributesHandler {
@@ -475,7 +475,7 @@ public class RandomSubset extends SimpleBatchFilter
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 15074 $");
   }
 
   /**

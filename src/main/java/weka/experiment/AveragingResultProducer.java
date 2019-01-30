@@ -145,7 +145,7 @@ import weka.core.Utils;
  * All options after -- will be passed to the result producer.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class AveragingResultProducer implements ResultListener, ResultProducer,
   OptionHandler, AdditionalMeasureProducer, RevisionHandler {
@@ -1210,6 +1210,6 @@ public class AveragingResultProducer implements ResultListener, ResultProducer,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 } // AveragingResultProducer

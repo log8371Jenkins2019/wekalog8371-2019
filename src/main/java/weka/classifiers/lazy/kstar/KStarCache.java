@@ -33,7 +33,7 @@ import weka.core.RevisionUtils;
  * 
  * @author Len Trigg (len@reeltwo.com)
  * @author Abdelaziz Mahoui (am14@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 public class KStarCache implements Serializable, RevisionHandler {
 
@@ -255,7 +255,7 @@ public class KStarCache implements Serializable, RevisionHandler {
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10153 $");
     }
   } // CacheTable
 
@@ -299,7 +299,7 @@ public class KStarCache implements Serializable, RevisionHandler {
      */
     @Override
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 10153 $");
     }
   } // TableEntry
 
@@ -310,7 +310,7 @@ public class KStarCache implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 
 } // Cache

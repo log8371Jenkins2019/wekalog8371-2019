@@ -44,7 +44,7 @@ import weka.core.Instances;
  * output.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9320 $
  */
 public class EvaluationMetricSelectionDialog extends JDialog {
 

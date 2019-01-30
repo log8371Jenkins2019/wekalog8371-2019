@@ -31,7 +31,7 @@ import java.util.Date;
  * A logger that logs all output on stdout and stderr to a file.
  *
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 15092 $
  */
 public class OutputLogger
   extends FileLogger {
@@ -40,7 +40,7 @@ public class OutputLogger
    * A print stream class to capture all data from stdout and stderr.
    *
    * @author  fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 15092 $
    */
   public static class OutputPrintStream
     extends PrintStream {
@@ -341,6 +341,6 @@ public class OutputLogger
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 15092 $");
   }
 }

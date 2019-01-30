@@ -29,7 +29,7 @@ import weka.core.Instances;
  * An interface for objects capable of producing streams of instances.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface InstanceProducer {
   

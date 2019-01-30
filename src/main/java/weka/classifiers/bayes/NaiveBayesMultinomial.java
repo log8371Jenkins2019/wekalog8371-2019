@@ -86,7 +86,7 @@ import weka.core.WeightedInstancesHandler;
  * @author Andrew Golightly (acg4@cs.waikato.ac.nz)
  * @author Bernhard Pfahringer (bernhard@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$ 
+ * @version $Revision: 14252 $ 
  */
 public class NaiveBayesMultinomial extends AbstractClassifier
   implements WeightedInstancesHandler,TechnicalInformationHandler {
@@ -339,7 +339,7 @@ public class NaiveBayesMultinomial extends AbstractClassifier
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14252 $");
   }
     
   /**

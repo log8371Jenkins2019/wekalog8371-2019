@@ -38,7 +38,7 @@ import javax.swing.table.TableModel;
  * 
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10216 $
  */
 
 public class JTableHelper {

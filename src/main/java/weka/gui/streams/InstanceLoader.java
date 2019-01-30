@@ -41,7 +41,7 @@ import weka.core.Instances;
  * A bean that produces a stream of instances from a file.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class InstanceLoader extends JPanel implements ActionListener,
   InstanceProducer {

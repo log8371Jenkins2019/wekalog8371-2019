@@ -82,7 +82,7 @@ import java.util.Properties;
  * <p>
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class Attribute implements Copyable, Serializable, RevisionHandler {
 
@@ -1417,7 +1417,7 @@ public class Attribute implements Copyable, Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

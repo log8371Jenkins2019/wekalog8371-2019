@@ -35,7 +35,7 @@ import weka.core.Utils;
  * learner.
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10141 $
  */
 public abstract class RandomizableParallelIteratedSingleClassifierEnhancer
     extends ParallelIteratedSingleClassifierEnhancer implements Randomizable {

@@ -69,7 +69,7 @@ import weka.core.xml.XMLInstances;
  * <!-- options-end -->
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14860 $
  * @see Saver
  */
 public class XRFFSaver extends AbstractFileSaver implements BatchConverter, WeightedInstancesHandler {
@@ -410,7 +410,7 @@ public class XRFFSaver extends AbstractFileSaver implements BatchConverter, Weig
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14860 $");
   }
 
   /**

@@ -138,7 +138,7 @@ import java.util.zip.GZIPOutputStream;
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 15022 $
  */
 @PerspectiveInfo(ID = "weka.gui.explorer.classifierpanel", title = "Classify",
   toolTipText = "Classify instances",

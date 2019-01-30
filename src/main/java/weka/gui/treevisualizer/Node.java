@@ -40,7 +40,7 @@ import weka.core.Instances;
  * This class records all the data about a particular node for displaying.
  * 
  * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class Node {
 

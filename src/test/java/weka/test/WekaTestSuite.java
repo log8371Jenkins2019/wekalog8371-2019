@@ -35,7 +35,7 @@ import weka.gui.GenericPropertiesCreator;
  * automatic generation of a series of tests.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10160 $
  * @see GenericPropertiesCreator
  * @see ClassDiscovery
  */

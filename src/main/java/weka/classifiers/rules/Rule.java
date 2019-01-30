@@ -32,7 +32,7 @@ import weka.core.WeightedInstancesHandler;
  * Abstract class of generic rule
  *
  * @author Xin Xu (xx5@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public abstract class Rule 
     implements WeightedInstancesHandler, Copyable, Serializable, RevisionHandler {

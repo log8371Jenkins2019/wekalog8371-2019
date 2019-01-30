@@ -35,7 +35,7 @@ import java.io.OutputStream;
  * A helper class for Script related stuff.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ScriptUtils {
   

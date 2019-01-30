@@ -37,7 +37,7 @@ import weka.core.Utils;
  * Simple weighted kernel density estimator.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11318 $
  */
 public class UnivariateKernelEstimator implements UnivariateDensityEstimator,
   UnivariateIntervalEstimator, UnivariateQuantileEstimator, Serializable {
@@ -348,7 +348,7 @@ public class UnivariateKernelEstimator implements UnivariateDensityEstimator,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11318 $");
   }
 
   /**

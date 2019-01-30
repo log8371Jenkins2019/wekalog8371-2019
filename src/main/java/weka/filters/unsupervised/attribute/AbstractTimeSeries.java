@@ -60,7 +60,7 @@ import weka.filters.UnsupervisedFilter;
  * <p>
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public abstract class AbstractTimeSeries extends Filter implements
   UnsupervisedFilter, OptionHandler, WeightedAttributesHandler, WeightedInstancesHandler {

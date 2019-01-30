@@ -57,7 +57,7 @@ import weka.filters.supervised.attribute.Discretize;
  * <!-- options-end -->
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11215 $
  * @see Discretize
  */
 public class GainRatioAttributeEval extends ASEvaluation implements
@@ -409,7 +409,7 @@ public class GainRatioAttributeEval extends ASEvaluation implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11215 $");
   }
 
   @Override

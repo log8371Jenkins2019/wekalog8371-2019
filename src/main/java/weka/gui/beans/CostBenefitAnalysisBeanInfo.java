@@ -28,7 +28,7 @@ import java.beans.SimpleBeanInfo;
  * Bean info class for the cost/benefit analysis
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8046 $
  */
 public class CostBenefitAnalysisBeanInfo extends SimpleBeanInfo {
   

@@ -107,7 +107,7 @@ import weka.core.WeightedInstancesHandler;
  * <!-- options-end -->
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 13070 $
  * 
  */
 public class InputMappedClassifier extends SingleClassifierEnhancer implements
@@ -993,7 +993,7 @@ public class InputMappedClassifier extends SingleClassifierEnhancer implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 13070 $");
   }
 
   /**

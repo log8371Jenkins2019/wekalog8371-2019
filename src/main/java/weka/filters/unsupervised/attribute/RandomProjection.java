@@ -91,7 +91,7 @@ import weka.filters.UnsupervisedFilter;
  * <!-- options-end -->
  * 
  * @author Ashraf M. Kibriya (amk14@cs.waikato.ac.nz)
- * @version $Revision$ [1.0 - 22 July 2003 - Initial version (Ashraf M.
+ * @version $Revision: 14620 $ [1.0 - 22 July 2003 - Initial version (Ashraf M.
  *          Kibriya)]
  */
 public class RandomProjection extends Filter implements UnsupervisedFilter,
@@ -777,7 +777,7 @@ public class RandomProjection extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14620 $");
   }
 
   /**

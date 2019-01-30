@@ -30,7 +30,7 @@ import weka.core.Attribute;
  * Class that encapsulates a nominal item.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class NominalItem extends Item implements Serializable {
 

@@ -48,7 +48,7 @@ import weka.gui.Logger;
  * operators.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 14912 $
  */
 @KFStep(category = "Flow", toolTipText = "Route instances according to a boolean expression")
 public class FlowByExpression extends JPanel implements BeanCommon, Visible,

@@ -92,7 +92,7 @@ import weka.estimators.NormalEstimator;
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class NaiveBayes extends AbstractClassifier implements OptionHandler,
   WeightedInstancesHandler, WeightedAttributesHandler, TechnicalInformationHandler,
@@ -975,7 +975,7 @@ public class NaiveBayes extends AbstractClassifier implements OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   @SuppressWarnings({ "rawtypes", "unchecked" })

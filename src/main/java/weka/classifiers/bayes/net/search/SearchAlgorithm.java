@@ -41,7 +41,7 @@ import weka.core.RevisionUtils;
  * <!-- options-start --> <!-- options-end -->
  * 
  * @author Remco Bouckaert
- * @version $Revision$
+ * @version $Revision: 10153 $
  */
 public class SearchAlgorithm implements OptionHandler, Serializable,
   RevisionHandler {
@@ -448,6 +448,6 @@ public class SearchAlgorithm implements OptionHandler, Serializable,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10153 $");
   }
 } // class SearchAlgorithm

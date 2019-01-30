@@ -81,7 +81,7 @@ import java.util.Vector;
  * @see GenericObjectEditor
  * @see weka.core.ClassDiscovery
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14293 $
  */
 public class GenericPropertiesCreator {
 

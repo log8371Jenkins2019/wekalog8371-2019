@@ -28,7 +28,7 @@ package weka.gui.beans;
  * configuration information with preceding nodes in the processing chain.
  * 
  * @author Carsten Pohle (cp AT cpohle de)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface ConnectionNotificationConsumer {
   /**

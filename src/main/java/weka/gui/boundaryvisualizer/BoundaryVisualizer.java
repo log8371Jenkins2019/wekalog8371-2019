@@ -93,7 +93,7 @@ import weka.gui.visualize.ClassPanel;
  * Working Paper 02/03, Department of Computer Science, University of Waikato.
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 10222 $
  * @since 1.0
  * @see JPanel
  */
@@ -107,7 +107,7 @@ public class BoundaryVisualizer extends JPanel implements
    * Inner class to handle rendering the axis
    * 
    * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
-   * @version $Revision$
+   * @version $Revision: 10222 $
    * @since 1.0
    * @see JPanel
    */

@@ -28,7 +28,7 @@ import java.util.EventObject;
  * Event that encapsulates an Image
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10882 $
  */
 public class ImageEvent extends EventObject {
 

@@ -29,7 +29,7 @@ import weka.classifiers.Classifier;
  * Class encapsulating a built classifier and a batch of instances to test on.
  * 
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 9263 $
  * @since 1.0
  * @see EventObject
  */

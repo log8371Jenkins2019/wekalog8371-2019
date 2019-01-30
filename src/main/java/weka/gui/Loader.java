@@ -30,7 +30,7 @@ import java.net.URL;
  * This class is for loading resources from a JAR archive.
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$ 
+ * @version $Revision: 8034 $ 
  */
 
 public class Loader {

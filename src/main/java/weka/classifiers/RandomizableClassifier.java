@@ -34,7 +34,7 @@ import weka.core.Utils;
  * classifiers.
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10141 $
  */
 public abstract class RandomizableClassifier
   extends AbstractClassifier implements Randomizable {

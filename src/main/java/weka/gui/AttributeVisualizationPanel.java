@@ -57,7 +57,7 @@ import java.util.ArrayList;
  * intervals = max(1, Math.round(Range/intervalWidth);
  * 
  * @author Ashraf M. Kibriya (amk14@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 13531 $
  */
 public class AttributeVisualizationPanel extends PrintablePanel {
 

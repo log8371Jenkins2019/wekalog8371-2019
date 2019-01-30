@@ -132,7 +132,7 @@ import weka.core.Capabilities.Capability;
  * <!-- options-end -->
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 11004 $
  */
 public class PART extends AbstractClassifier implements OptionHandler,
   WeightedInstancesHandler, Summarizable, AdditionalMeasureProducer,
@@ -876,7 +876,7 @@ public class PART extends AbstractClassifier implements OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11004 $");
   }
 
   /**

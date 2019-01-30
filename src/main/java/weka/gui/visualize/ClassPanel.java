@@ -49,7 +49,7 @@ import weka.core.Utils;
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
  * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public class ClassPanel extends JPanel {
 

@@ -47,7 +47,7 @@ import java.util.ArrayList;
  * 
  * @author Malcolm Ware (mfw4@cs.waikato.ac.nz)
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 12391 $
  */
 public class AttributePanel extends JScrollPane {
 

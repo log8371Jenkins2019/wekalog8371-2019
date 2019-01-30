@@ -37,7 +37,7 @@ import weka.core.Utils;
  * A helper class for maintaining a history of objects selected in the GOE.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10216 $
  */
 public class GenericObjectEditorHistory implements Serializable {
 
@@ -48,7 +48,7 @@ public class GenericObjectEditorHistory implements Serializable {
    * Event that gets sent when a history item gets selected.
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 10216 $
    */
   public static class HistorySelectionEvent extends EventObject {
 
@@ -84,7 +84,7 @@ public class GenericObjectEditorHistory implements Serializable {
    * Interface for classes that listen to selections of history items.
    * 
    * @author fracpete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 10216 $
    */
   public static interface HistorySelectionListener {
 

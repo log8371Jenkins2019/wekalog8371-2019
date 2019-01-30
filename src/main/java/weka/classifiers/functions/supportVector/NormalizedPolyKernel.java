@@ -55,7 +55,7 @@ import weka.core.RevisionUtils;
  <!-- options-end -->
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class NormalizedPolyKernel 
   extends PolyKernel {
@@ -160,7 +160,7 @@ public class NormalizedPolyKernel
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 }
 

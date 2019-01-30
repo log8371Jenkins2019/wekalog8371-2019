@@ -34,7 +34,7 @@ import java.util.regex.Matcher;
  * when an object gets instantiated.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14281 $
  */
 public class FileLogger
   extends ConsoleLogger {
@@ -137,6 +137,6 @@ public class FileLogger
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14281 $");
   }
 }

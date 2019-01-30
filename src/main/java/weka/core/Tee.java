@@ -49,7 +49,7 @@ import java.util.Vector;
  * </pre>
  *
  * @author   FracPete (fracpete at waikato dot ac dot nz)
- * @version  $Revision$
+ * @version  $Revision: 15081 $
  */
 
 public class Tee
@@ -781,6 +781,6 @@ public class Tee
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 15081 $");
   }
 }

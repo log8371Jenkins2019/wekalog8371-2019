@@ -76,7 +76,7 @@ import weka.gui.ProgrammaticProperty;
  * is the number of documents that the term has occurred in.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 14443 $
  */
 public class DictionaryBuilder implements Aggregateable<DictionaryBuilder>,
   OptionHandler, Serializable {

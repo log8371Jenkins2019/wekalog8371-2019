@@ -74,7 +74,7 @@ import weka.core.Version;
  * <!-- options-end -->
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 11211 $
  * @see Saver
  */
 public class MatlabSaver extends AbstractFileSaver implements BatchConverter,
@@ -497,7 +497,7 @@ public class MatlabSaver extends AbstractFileSaver implements BatchConverter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11211 $");
   }
 
   /**

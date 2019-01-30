@@ -192,7 +192,7 @@ import java.util.Vector;
  * <!-- options-end -->
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14375 $
  * @see Capabilities
  * @see Capabilities.Capability
  * @see GenericPropertiesCreator
@@ -1023,7 +1023,7 @@ public class FindWithCapabilities implements OptionHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14375 $");
   }
 
   /**

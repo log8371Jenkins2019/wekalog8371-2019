@@ -31,7 +31,7 @@ import weka.core.RevisionUtils;
  * represent a set of parents in a graph.
  * 
  * @author Remco Bouckaert (rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class ParentSet 
   implements Serializable, RevisionHandler {
@@ -261,7 +261,7 @@ public class ParentSet
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
  
 }      // class ParentSet

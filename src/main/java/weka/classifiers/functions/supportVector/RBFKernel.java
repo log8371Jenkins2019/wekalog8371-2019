@@ -50,7 +50,7 @@ import weka.core.Capabilities.Capability;
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Shane Legg (shane@intelligenesis.net) (sparse vector code)
  * @author Stuart Inglis (stuart@reeltwo.com) (sparse vector code)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class RBFKernel extends CachedKernel {
 
@@ -210,7 +210,7 @@ public class RBFKernel extends CachedKernel {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 }
 

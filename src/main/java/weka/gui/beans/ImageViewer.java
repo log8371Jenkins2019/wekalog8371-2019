@@ -52,7 +52,7 @@ import weka.gui.ResultHistoryPanel;
  * static images in a popup window
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 14497 $
  */
 @KFStep(category = "Visualization", toolTipText = "Display static images")
 public class ImageViewer extends JPanel implements ImageListener, BeanCommon,
@@ -357,7 +357,7 @@ public class ImageViewer extends JPanel implements ImageListener, BeanCommon,
    * Inner class for displaying a BufferedImage.
    * 
    * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
-   * @version $Revision$
+   * @version $Revision: 14497 $
    */
   private static class ImageDisplayer extends JPanel {
 

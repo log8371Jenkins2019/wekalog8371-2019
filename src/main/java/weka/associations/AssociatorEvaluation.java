@@ -37,7 +37,7 @@ import weka.core.converters.ConverterUtils.DataSource;
  * Class for evaluating Associaters.
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10172 $
  */
 public class AssociatorEvaluation implements RevisionHandler {
 
@@ -273,7 +273,7 @@ public class AssociatorEvaluation implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10172 $");
   }
 
   /**

@@ -34,7 +34,7 @@ import weka.gui.JTableHelper;
  * and the corresponding query.
  *
  * @author      FracPete (fracpete at waikato dot ac dot nz)
- * @version     $Revision$
+ * @version     $Revision: 8034 $
  */
 public class ResultSetTable
   extends JTable {

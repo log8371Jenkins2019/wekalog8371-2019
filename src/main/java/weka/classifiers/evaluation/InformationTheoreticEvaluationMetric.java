@@ -30,7 +30,7 @@ import weka.core.Instance;
  * based on user-supplied options
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 9320 $
  */
 public interface InformationTheoreticEvaluationMetric {
 

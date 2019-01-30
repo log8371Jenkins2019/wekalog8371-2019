@@ -47,7 +47,7 @@ import weka.gui.Logger;
  * Matching can be by string literal or by regular expression.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 11929 $
  */
 @KFStep(category = "Tools", toolTipText = "Replace substrings in String attributes")
 public class SubstringReplacer extends JPanel implements BeanCommon, Visible,

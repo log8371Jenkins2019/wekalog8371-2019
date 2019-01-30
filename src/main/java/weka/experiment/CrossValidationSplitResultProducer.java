@@ -113,7 +113,7 @@ import weka.core.Utils;
  * 
  * @author Len Trigg
  * @author Eibe Frank
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class CrossValidationSplitResultProducer extends
   CrossValidationResultProducer {
@@ -267,7 +267,7 @@ public class CrossValidationSplitResultProducer extends
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 } // CrossValidationSplitResultProducer
 

@@ -49,7 +49,7 @@ import weka.experiment.Experiment;
  * in an experiment.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class RunNumberPanel
   extends JPanel {

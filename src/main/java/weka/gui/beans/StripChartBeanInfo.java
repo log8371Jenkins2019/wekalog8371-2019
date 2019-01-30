@@ -30,7 +30,7 @@ import java.beans.SimpleBeanInfo;
  * Bean info class for the strip chart bean
  *
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 12008 $
  */
 public class StripChartBeanInfo extends SimpleBeanInfo {
   

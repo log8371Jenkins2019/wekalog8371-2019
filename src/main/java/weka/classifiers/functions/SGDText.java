@@ -1531,7 +1531,7 @@ public class SGDText extends RandomizableClassifier implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 13280 $");
   }
 
   protected int m_numModels = 0;

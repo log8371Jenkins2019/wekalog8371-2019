@@ -44,7 +44,7 @@ import weka.core.xml.XMLInstances;
  <!-- globalinfo-end -->
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  * @see Loader
  */
 public class XRFFLoader 
@@ -286,7 +286,7 @@ public class XRFFLoader
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 
   /**

@@ -28,7 +28,7 @@ import java.beans.SimpleBeanInfo;
  * BeanInfo class for the InstanceStreamToBatchMaker bean
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class InstanceStreamToBatchMakerBeanInfo
   extends SimpleBeanInfo {

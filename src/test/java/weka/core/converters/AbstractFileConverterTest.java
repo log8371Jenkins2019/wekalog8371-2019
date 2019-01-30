@@ -33,7 +33,7 @@ import weka.core.Utils;
  * Abstract Test class for file converters.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public abstract class AbstractFileConverterTest extends AbstractConverterTest {
 

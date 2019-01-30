@@ -7,7 +7,7 @@
 # jdbc:    http://sourceforge.net/projects/hsqldb/
 # howto:   http://hsqldb.sourceforge.net/doc/guide/ch01.html
 # author:  Dale Fletcher (dale at cs dot waikato dot ac dot nz)
-# version: $Revision$
+# version: $Revision: 11885 $
 
 # JDBC driver (comma-separated list)
 jdbcDriver=org.hsqldb.jdbcDriver

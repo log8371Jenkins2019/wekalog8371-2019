@@ -32,7 +32,7 @@ import weka.clusterers.Clusterer;
  * A bean that evaluates the performance of batch trained clusterers
  * 
  * @author <a href="mailto:mutter@cs.waikato.ac.nz">Stefan Mutter</a>
- * @version $Revision$
+ * @version $Revision: 10220 $
  */
 public class ClustererPerformanceEvaluator extends AbstractEvaluator implements
   BatchClustererListener, Serializable, UserRequestAcceptor, EventConstraints {

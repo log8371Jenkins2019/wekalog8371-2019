@@ -39,7 +39,7 @@ import java.util.logging.SimpleFormatter;
  * A helper class for debug output, logging, clocking, etc.
  * 
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class Debug
   implements Serializable, RevisionHandler {
@@ -83,7 +83,7 @@ public class Debug
    * disable the use of CPU time as well.
    *
    * @author FracPete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$ 
+   * @version $Revision: 8034 $ 
    * @see ThreadMXBean#isThreadCpuTimeEnabled()
    */
   public static class Clock 
@@ -421,7 +421,7 @@ public class Debug
      * @return		the revision
      */
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 8034 $");
     }
   }
   
@@ -431,7 +431,7 @@ public class Debug
    * formatting options, see java.text.SimpleDateFormat.
    *
    * @author FracPete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$ 
+   * @version $Revision: 8034 $ 
    * @see SimpleDateFormat
    */
   public static class Timestamp
@@ -544,7 +544,7 @@ public class Debug
      * @return		the revision
      */
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 8034 $");
     }
   }
   
@@ -652,7 +652,7 @@ public class Debug
      * @return		the revision
      */
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 8034 $");
     }
   }
   
@@ -663,7 +663,7 @@ public class Debug
    * Debug.SimpleLog class.
    *
    * @author FracPete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$ 
+   * @version $Revision: 8034 $ 
    * @see Debug.SimpleLog
    */
   public static class Log
@@ -878,7 +878,7 @@ public class Debug
      * @return		the revision
      */
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 8034 $");
     }
   }
 
@@ -889,7 +889,7 @@ public class Debug
    * INFO).
    *
    * @author  FracPete (fracpete at waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   public static class Random
     extends java.util.Random
@@ -1166,14 +1166,14 @@ public class Debug
      * @return		the revision
      */
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 8034 $");
     }
   }
   /**
    * contains debug methods
    *
    * @author Gabi Schmidberger (gabi at cs dot waikato dot ac dot nz)
-   * @version $Revision$
+   * @version $Revision: 8034 $
    */
   public static class DBO 
     implements Serializable, RevisionHandler {
@@ -1323,7 +1323,7 @@ public class Debug
      * @return		the revision
      */
     public String getRevision() {
-      return RevisionUtils.extract("$Revision$");
+      return RevisionUtils.extract("$Revision: 8034 $");
     }
   }
   
@@ -1652,6 +1652,6 @@ public class Debug
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 8034 $");
   }
 }

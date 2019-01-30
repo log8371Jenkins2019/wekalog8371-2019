@@ -32,7 +32,7 @@ import weka.core.RevisionUtils;
  * classes) and Methods that are associated with them.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class MethodHandler implements RevisionHandler {
 
@@ -203,6 +203,6 @@ public class MethodHandler implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 }

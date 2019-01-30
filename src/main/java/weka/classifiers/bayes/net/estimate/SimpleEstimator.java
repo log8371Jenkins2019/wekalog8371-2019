@@ -48,7 +48,7 @@ import weka.estimators.Estimator;
  * <!-- options-end -->
  * 
  * @author Remco Bouckaert (rrb@xm.co.nz)
- * @version $Revision$
+ * @version $Revision: 11325 $
  */
 public class SimpleEstimator extends BayesNetEstimator {
 
@@ -226,7 +226,7 @@ public class SimpleEstimator extends BayesNetEstimator {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 11325 $");
   }
 
 } // SimpleEstimator

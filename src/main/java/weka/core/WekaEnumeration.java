@@ -115,6 +115,6 @@ public class WekaEnumeration<E> implements Enumeration<E>, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 }

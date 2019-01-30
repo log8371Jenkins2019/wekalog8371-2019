@@ -64,7 +64,7 @@ import weka.filters.unsupervised.attribute.NumericToBinary;
  * <!-- options-end -->
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 10172 $
  * @see Discretize
  * @see NumericToBinary
  */
@@ -462,7 +462,7 @@ public class InfoGainAttributeEval extends ASEvaluation implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10172 $");
   }
 
   // ============

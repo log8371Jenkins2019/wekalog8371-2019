@@ -63,7 +63,7 @@ import weka.core.converters.ConverterUtils.DataSource;
  * Options after -- are passed to the designated classifier (specified with -W).
  *
  * @author  fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10141 $
  * @see     weka.classifiers.Sourcable
  */
 public class CheckSource
@@ -390,7 +390,7 @@ public class CheckSource
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10141 $");
   }
 
   /**

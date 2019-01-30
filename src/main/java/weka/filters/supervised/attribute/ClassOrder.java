@@ -59,7 +59,7 @@ import weka.filters.SupervisedFilter;
  * 
  * @author Xin Xu (xx5@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class ClassOrder extends Filter implements SupervisedFilter,
   OptionHandler, WeightedAttributesHandler, WeightedInstancesHandler {
@@ -519,7 +519,7 @@ public class ClassOrder extends Filter implements SupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

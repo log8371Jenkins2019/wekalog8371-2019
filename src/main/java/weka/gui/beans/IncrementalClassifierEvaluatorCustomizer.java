@@ -38,7 +38,7 @@ import weka.gui.PropertySheetPanel;
  * GUI Customizer for the incremental classifier evaluator bean
  * 
  * @author Mark Hall (mhall{[at}]pentaho{[dot]}org
- * @version $Revision$
+ * @version $Revision: 10220 $
  */
 public class IncrementalClassifierEvaluatorCustomizer extends JPanel implements
   BeanCustomizer, CustomizerCloseRequester, CustomizerClosingListener {

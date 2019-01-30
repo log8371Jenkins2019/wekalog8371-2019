@@ -29,7 +29,7 @@ import java.beans.SimpleBeanInfo;
  * BeanInfo for the Join step
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 10642 $
  */
 public class JoinBeanInfo extends SimpleBeanInfo {
 

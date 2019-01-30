@@ -185,7 +185,7 @@ import weka.core.Summarizable;
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14450 $
  */
 public class Evaluation implements Serializable, Summarizable, RevisionHandler {
 

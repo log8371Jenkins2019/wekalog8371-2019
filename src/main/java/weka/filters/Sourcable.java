@@ -27,7 +27,7 @@ import weka.core.Instances;
  * Interface for filters that can be converted to Java source.
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface Sourcable {
 

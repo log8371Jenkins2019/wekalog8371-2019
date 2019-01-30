@@ -30,7 +30,7 @@ import java.util.Hashtable;
  * @see PrintableComponent
  * @see PrintablePanel
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10222 $
  */
 public interface PrintableHandler {
   /**

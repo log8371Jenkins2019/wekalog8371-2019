@@ -28,7 +28,7 @@ import java.beans.SimpleBeanInfo;
  * BeanInfo class for AbstractTestSetProducer
  *
  * @author <a href="mailto:mhall@cs.waikato.ac.nz">Mark Hall</a>
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public class AbstractTestSetProducerBeanInfo extends SimpleBeanInfo {
 

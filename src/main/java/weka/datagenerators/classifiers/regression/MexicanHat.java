@@ -102,7 +102,7 @@ import weka.datagenerators.RegressionGenerator;
  * <!-- options-end -->
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 
 public class MexicanHat extends RegressionGenerator {
@@ -681,7 +681,7 @@ public class MexicanHat extends RegressionGenerator {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 10203 $");
   }
 
   /**

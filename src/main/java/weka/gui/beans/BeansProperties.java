@@ -43,7 +43,7 @@ import java.util.TreeSet;
  * providing methods to register and deregister plugin Bean components
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision$
+ * @version $Revision: 14601 $
  */
 public class BeansProperties implements Serializable {
 

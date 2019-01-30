@@ -151,7 +151,7 @@ import weka.core.Capabilities.Capability;
  * <!-- options-end -->
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  */
 public class J48 extends AbstractClassifier implements OptionHandler, Drawable,
   Matchable, Sourcable, WeightedInstancesHandler, Summarizable,
@@ -1170,7 +1170,7 @@ public class J48 extends AbstractClassifier implements OptionHandler, Drawable,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

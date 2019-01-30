@@ -89,7 +89,7 @@ import weka.core.neighboursearch.PerformanceStats;
  * <!-- options-end -->
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 10203 $
  */
 public class MinkowskiDistance extends NormalizableDistance implements
   Cloneable, TechnicalInformationHandler {

@@ -32,7 +32,7 @@ import weka.test.WekaTestSuite;
  * java weka.core.AllTests
  * 
  * @author FracPete (frapcete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 12074 $
  */
 public class AllTests extends WekaTestSuite {
 

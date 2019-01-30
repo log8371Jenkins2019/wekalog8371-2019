@@ -28,7 +28,7 @@ import java.io.Serializable;
  * Interface to something that can be remotely executed as a task.
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision$
+ * @version $Revision: 8034 $
  */
 public interface Task extends Serializable {
   

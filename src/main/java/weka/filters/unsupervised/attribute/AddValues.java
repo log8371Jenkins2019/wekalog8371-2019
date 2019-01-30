@@ -64,7 +64,7 @@ import weka.filters.UnsupervisedFilter;
  * Based on code from AddValues.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision$
+ * @version $Revision: 14534 $
  * @see AddValues
  */
 public class AddValues extends Filter implements UnsupervisedFilter,
@@ -485,7 +485,7 @@ public class AddValues extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision$");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**
