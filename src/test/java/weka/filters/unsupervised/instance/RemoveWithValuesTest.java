@@ -31,7 +31,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.instance.RemoveWithValuesTest
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class RemoveWithValuesTest extends AbstractFilterTest {
   

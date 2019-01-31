@@ -31,7 +31,7 @@ import java.io.StringReader;
  * Tests FixedDictionaryStringToWordVector
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision: 12074 $
+ * @version $Revision$
  */
 public class FixedDictionaryStringToWordVectorTest extends AbstractFilterTest {
 

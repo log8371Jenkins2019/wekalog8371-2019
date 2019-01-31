@@ -31,7 +31,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.attribute.RemoveUselessTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class RemoveUselessTest 
   extends AbstractFilterTest {

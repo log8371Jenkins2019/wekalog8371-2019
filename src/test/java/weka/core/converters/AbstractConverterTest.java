@@ -31,7 +31,7 @@ import junit.framework.TestCase;
  * Abstract Test class for Converters.
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public abstract class AbstractConverterTest 
   extends TestCase {

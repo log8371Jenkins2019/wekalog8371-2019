@@ -35,7 +35,7 @@ import junit.framework.TestCase;
  * tests. It follows basically the <code>testsPerClassType</code> method.
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 14534 $
+ * @version $Revision$
  *
  * @see CheckKernel
  * @see CheckKernel#testsPerClassType(int, boolean, boolean)
@@ -733,74 +733,6 @@ public abstract class AbstractKernelTest
     return data;
   }
 
-  /**
-   * Runs a regression test -- this checks that the output of the tested
-   * object matches that in a reference version. When this test is
-   * run without any pre-existing reference output, the reference version
-   * is created.
-   */
-  public void testRegression() throws Exception {
-    int		i;
-    boolean	succeeded;
-    Regression 	reg;
-    Instances   train;
-    
-    // don't bother if not working correctly
-    if (m_Tester.hasClasspathProblems())
-      return;
-    
-    reg = new Regression(this.getClass());
-    succeeded = false;
-    train = null;
-    
-    for (i = FIRST_CLASSTYPE; i <= LAST_CLASSTYPE; i++) {
-      // does the Kernel support this type of class at all?
-      if (!canPredict(i))
-        continue;
-        
-      train = m_Tester.makeTestDataset(
-          42, m_Tester.getNumInstances(), 
-  	  m_NominalPredictors[i] ? 2 : 0,
-  	  m_NumericPredictors[i] ? 1 : 0, 
-          m_StringPredictors[i] ? 1 : 0,
-          m_DatePredictors[i] ? 1 : 0,
-          m_RelationalPredictors[i] ? 1 : 0,
-          2, 
-          i,
-          m_multiInstanceHandler);
-  
-      try {
-        m_RegressionResults[i] =   CheckKernel.attributeTypeToString(i) 
-        			 + " class:\n" 
-        			 + useKernel(train);
-        succeeded = true;
-        reg.println(m_RegressionResults[i]);
-      }
-      catch (Exception e) {
-	String msg = e.getMessage().toLowerCase();
-	if (msg.indexOf("not in classpath") > -1)
-	  return;
-
-	m_RegressionResults[i] = null;
-      }
-    }
-    
-    if (!succeeded) {
-      fail("Problem during regression testing: no successful predictions for any class type");
-    }
-
-    try {
-      String diff = reg.diff();
-      if (diff == null) {
-        System.err.println("Warning: No reference available, creating."); 
-      } else if (!diff.equals("")) {
-        fail("Regression test failed. Difference:\n" + diff);
-      }
-    } 
-    catch (java.io.IOException ex) {
-      fail("Problem during regression testing.\n" + ex);
-    }
-  }
   
   /**
    * tests the listing of the options

@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class AllTests 
   extends WekaTestSuite {

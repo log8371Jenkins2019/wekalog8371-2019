@@ -33,7 +33,7 @@ import weka.filters.Filter;
  * java weka.filters.unsupervised.attribute.RemoveTest
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision: 9982 $
+ * @version $Revision$
  */
 public class RenameNominalValuesTest extends AbstractFilterTest {
 

@@ -32,7 +32,7 @@ import junit.framework.TestSuite;
  *
  * @author <a href="mailto:eibe@cs.waikato.ac.nz">Eibe Frank</a>
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class AttributeSelectedClassifierTest
   extends AbstractClassifierTest {

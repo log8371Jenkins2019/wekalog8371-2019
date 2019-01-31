@@ -34,7 +34,7 @@ import junit.framework.TestSuite;
  * java weka.filters.MultiFilterTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class MultiFilterTest extends AbstractFilterTest {
   

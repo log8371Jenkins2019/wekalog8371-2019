@@ -31,7 +31,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.attribute.SwapValuesTest
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class SwapValuesTest extends AbstractFilterTest {
   

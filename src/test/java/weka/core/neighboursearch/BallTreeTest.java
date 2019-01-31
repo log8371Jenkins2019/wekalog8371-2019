@@ -27,7 +27,7 @@ import junit.framework.TestSuite;
  * java weka.core.neighboursearch.BallTreeTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class BallTreeTest
   extends AbstractNearestNeighbourSearchTest {

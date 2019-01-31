@@ -37,7 +37,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.misc.InputMappedClassifierTest
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class InputMappedClassifierTest extends AbstractClassifierTest {
 

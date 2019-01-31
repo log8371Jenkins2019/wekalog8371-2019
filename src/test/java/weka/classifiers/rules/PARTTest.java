@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.rules.PARTTest
  *
  * @author <a href="mailto:eibe@cs.waikato.ac.nz">Eibe Frank</a>
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class PARTTest extends AbstractClassifierTest {
 

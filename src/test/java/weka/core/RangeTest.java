@@ -28,7 +28,7 @@ import junit.framework.TestSuite;
  * java weka.core.RangeTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class RangeTest 
   extends TestCase {

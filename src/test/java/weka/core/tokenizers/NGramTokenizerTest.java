@@ -28,7 +28,7 @@ import junit.framework.TestSuite;
  * java weka.core.tokenizers.NGramTokenizerTest
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 10971 $
+ * @version $Revision$
  */
 public class NGramTokenizerTest
   extends AbstractTokenizerTest {

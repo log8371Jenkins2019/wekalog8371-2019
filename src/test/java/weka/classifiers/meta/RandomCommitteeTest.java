@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.meta.RandomCommitteeTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class RandomCommitteeTest 
   extends AbstractClassifierTest {

@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.clusterers.CobwebTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 11451 $
+ * @version $Revision$
  */
 public class CobwebTest 
   extends AbstractClustererTest {

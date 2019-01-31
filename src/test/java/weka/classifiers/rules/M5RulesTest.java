@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.rules.M5RulesTest
  *
  * @author <a href="mailto:eibe@cs.waikato.ac.nz">Eibe Frank</a>
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class M5RulesTest extends AbstractClassifierTest {
 

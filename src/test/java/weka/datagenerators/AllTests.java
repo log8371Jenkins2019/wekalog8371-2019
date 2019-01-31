@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.datagenerators.AllTests
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class AllTests 
   extends WekaTestSuite {

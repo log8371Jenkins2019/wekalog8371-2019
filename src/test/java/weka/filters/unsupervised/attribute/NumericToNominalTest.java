@@ -32,7 +32,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.attribute.NumericToNominalTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class NumericToNominalTest extends AbstractFilterTest {
   

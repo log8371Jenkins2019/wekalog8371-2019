@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.clusterers.EMTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class EMTest 
   extends AbstractClustererTest {

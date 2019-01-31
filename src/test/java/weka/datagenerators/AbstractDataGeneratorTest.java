@@ -31,7 +31,7 @@ import weka.core.SerializationHelper;
  * Abstract Test class for DataGenerators.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 10160 $
+ * @version $Revision$
  */
 public abstract class AbstractDataGeneratorTest extends TestCase {
 

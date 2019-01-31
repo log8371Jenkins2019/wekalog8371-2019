@@ -28,7 +28,7 @@ import junit.framework.TestSuite;
  * Tests the pmml RuleSetModel classifier.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision: 10160 $
+ * @version $Revision$
  */
 public class RuleSetModelTest extends AbstractPMMLClassifierTest {
 

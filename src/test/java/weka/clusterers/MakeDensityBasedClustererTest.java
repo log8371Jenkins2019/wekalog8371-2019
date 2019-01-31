@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.clusterers.MakeDensityBasedClustererTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class MakeDensityBasedClustererTest 
   extends AbstractClustererTest {

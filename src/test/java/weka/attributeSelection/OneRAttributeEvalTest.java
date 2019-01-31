@@ -27,7 +27,7 @@ import junit.framework.TestSuite;
  * java weka.attributeSelection.OneRAttributeEvalTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class OneRAttributeEvalTest 
   extends AbstractEvaluatorTest {

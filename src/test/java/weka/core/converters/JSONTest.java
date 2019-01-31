@@ -27,7 +27,7 @@ import junit.framework.TestSuite;
  * java weka.core.converters.JSONTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class JSONTest 
   extends AbstractFileConverterTest {

@@ -32,7 +32,7 @@ import junit.framework.TestSuite;
  * java weka.filters.TimeSeriesTranslateFilterTest
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public abstract class AbstractTimeSeriesFilterTest extends AbstractFilterTest {
 

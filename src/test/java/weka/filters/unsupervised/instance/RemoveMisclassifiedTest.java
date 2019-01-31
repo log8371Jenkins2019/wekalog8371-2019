@@ -31,7 +31,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.instance.RemoveMisclassifiedTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class RemoveMisclassifiedTest 
   extends AbstractFilterTest {

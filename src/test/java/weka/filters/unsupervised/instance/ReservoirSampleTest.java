@@ -32,7 +32,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.instance.ReservoirSampleTest
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}org)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class ReservoirSampleTest
   extends AbstractFilterTest {

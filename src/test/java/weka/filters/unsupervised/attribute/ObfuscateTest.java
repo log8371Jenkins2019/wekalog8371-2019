@@ -33,7 +33,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.attribute.ObfuscateTest
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
- * @version $Revision: 12656 $
+ * @version $Revision$
  */
 public class ObfuscateTest extends AbstractFilterTest {
   

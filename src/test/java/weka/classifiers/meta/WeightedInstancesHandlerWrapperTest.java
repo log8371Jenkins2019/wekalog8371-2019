@@ -30,7 +30,7 @@ import weka.classifiers.Classifier;
  * java weka.classifiers.meta.WeightedInstancesHandlerWrapperTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 12224 $
+ * @version $Revision$
  */
 public class WeightedInstancesHandlerWrapperTest 
   extends AbstractClassifierTest {

@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.trees.REPTreeTest
  *
  * @author <a href="mailto:eibe@cs.waikato.ac.nz">Eibe Frank</a>
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class REPTreeTest extends AbstractClassifierTest {
 

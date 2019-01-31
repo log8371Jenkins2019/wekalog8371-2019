@@ -309,8 +309,6 @@ public class ExpressionLanguageTest extends TestCase {
  
   }
 
- 
-
   /**
    * Tests string concatenation (special case of plus operator)
    * 
@@ -328,11 +326,6 @@ public class ExpressionLanguageTest extends TestCase {
         evaluateString("'Hello' + \" W\" + \"o\" + ('r' + (\"l\" + (('d'))) + \" from\")+' WEKA :)'"));
     
   }
-
-
-  
-  
-  
   
   /**
    * Tests the logical and operator
@@ -463,10 +456,6 @@ public class ExpressionLanguageTest extends TestCase {
       }
     }
   }
-
-
-
- 
 
   /**
    * Tests the precedence of different operators over other operators

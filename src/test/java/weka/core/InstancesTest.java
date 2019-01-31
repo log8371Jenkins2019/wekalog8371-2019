@@ -33,7 +33,7 @@ import weka.core.converters.ConverterUtils.DataSource;
  * java weka.core.InstancesTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 11450 $
+ * @version $Revision$
  */
 public class InstancesTest
   extends TestCase {

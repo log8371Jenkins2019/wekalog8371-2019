@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.datagenerators.classifiers.classification.RDG1Test
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class RDG1Test 
   extends AbstractDataGeneratorTest {

@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.meta.LogitBoostTest
  *
  * @author <a href="mailto:eibe@cs.waikato.ac.nz">Eibe Frank</a>
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class LogitBoostTest extends AbstractClassifierTest {
 

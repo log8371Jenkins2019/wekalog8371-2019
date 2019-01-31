@@ -32,7 +32,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.attribute.InterquartileRangeTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 9528 $
+ * @version $Revision$
  */
 public class InterquartileRangeTest
   extends AbstractFilterTest {

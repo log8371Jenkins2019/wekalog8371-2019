@@ -33,7 +33,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.attribute.MathExpressionTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 11497 $
+ * @version $Revision$
  */
 public class MathExpressionTest 
   extends AbstractFilterTest {

@@ -29,7 +29,7 @@ import junit.framework.TestSuite;
  * java weka.attributeSelection.AllTests
  *
  * @author FracPete (frapcete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class AllTests 
   extends WekaTestSuite {

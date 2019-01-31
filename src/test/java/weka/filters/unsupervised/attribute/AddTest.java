@@ -33,7 +33,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.attribute.AddTest
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class AddTest extends AbstractFilterTest {
   

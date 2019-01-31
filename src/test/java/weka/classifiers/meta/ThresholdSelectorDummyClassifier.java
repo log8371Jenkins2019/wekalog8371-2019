@@ -31,7 +31,7 @@ import weka.core.RevisionUtils;
  * 
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
  * @author FracPete (fracpet at waikato dor ac dot nz)
- * @version $Revision: 11263 $
+ * @version $Revision$
  * @see ThresholdSelectorTest
  */
 public class ThresholdSelectorDummyClassifier
@@ -109,6 +109,6 @@ public class ThresholdSelectorDummyClassifier
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 11263 $");
+    return RevisionUtils.extract("$Revision$");
   }
 }

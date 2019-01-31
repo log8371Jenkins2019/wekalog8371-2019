@@ -29,7 +29,7 @@ import junit.framework.TestSuite;
  * java weka.core.converters.C45Test
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class C45Test 
   extends AbstractFileConverterTest {

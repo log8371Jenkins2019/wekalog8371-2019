@@ -32,7 +32,7 @@ import junit.textui.TestRunner;
  * java weka.filters.unsupervised.attribute.RenameAttributeTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class RenameAttributeTest 
   extends AbstractFilterTest {

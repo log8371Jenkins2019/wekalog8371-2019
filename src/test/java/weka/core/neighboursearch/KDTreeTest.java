@@ -27,7 +27,7 @@ import junit.framework.TestSuite;
  * java weka.core.neighboursearch.KDTreeTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class KDTreeTest
   extends AbstractNearestNeighbourSearchTest {

@@ -33,7 +33,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.attribute.RandomProjectionTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 11506 $
+ * @version $Revision$
  */
 public class RandomProjectionTest 
   extends AbstractFilterTest {

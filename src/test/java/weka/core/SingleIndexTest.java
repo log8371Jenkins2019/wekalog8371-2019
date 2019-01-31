@@ -28,7 +28,7 @@ import junit.framework.TestSuite;
  * java weka.core.SingleIndexTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class SingleIndexTest 
   extends TestCase {

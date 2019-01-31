@@ -30,7 +30,7 @@ import junit.framework.TestSuite;
  * java weka.classifiers.trees.RandomForestTest
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class RandomForestTest 
   extends AbstractClassifierTest {

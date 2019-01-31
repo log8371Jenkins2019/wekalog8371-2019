@@ -32,7 +32,7 @@ import junit.framework.TestSuite;
  * java weka.filters.unsupervised.attribute.TimeSeriesDeltaTest
  *
  * @author <a href="mailto:len@reeltwo.com">Len Trigg</a>
- * @version $Revision: 8034 $
+ * @version $Revision$
  */
 public class TimeSeriesDeltaTest extends AbstractTimeSeriesFilterTest {
 

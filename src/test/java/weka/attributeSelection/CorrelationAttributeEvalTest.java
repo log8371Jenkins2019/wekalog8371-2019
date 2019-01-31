@@ -27,7 +27,7 @@ import junit.framework.TestSuite;
  * java weka.attributeSelection.CorrelationAttributeEvalTest
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision: 9049 $
+ * @version $Revision$
  */
 public class CorrelationAttributeEvalTest 
   extends AbstractEvaluatorTest {
